@@ -117,7 +117,7 @@
 
   <hr>
 
-  <h5 align = "center">NA SEQUENCIA EFETUAMOS O PLANEJAMENTO DE ENTREVISTA .</h5>
+  <h5 align = "center">NA SEQUENCIA EFETUAMOS O PLANEJAMENTO DE ENTREVISTA.</h5>
 
  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73767256/111851784-5e922a80-88f3-11eb-8eca-40a27803fe67.gif)
 
