@@ -4,20 +4,20 @@
 
 
   <h5 align = "center"> EQUIPE EVO - EVOLUÇÃO </h5>
- 
+
  <h5 align = "center">FATEC São José dos Campos – Prof.Jessen Vidal em parceria com a empresa GSW.</h5>
 
 
  <h5 align = "center">
   Proporcionaram aos alunos do curso de ADS 2ºSemestre a oportunidade de trabalhar com Base em uma Empresa Real.Como cliente a Empresa GSW, nos apresentou dificuldades encontradas em seu sistema de gerenciamento de software.
-  Para que assim pudéssemos encontra soluções alternativas para implementa-lá através da metodologia SCRUM. 
+  Para que assim pudéssemos encontra soluções alternativas para implementa-lá através da metodologia SCRUM.
   </h5>
   <p align "center">
-   <hr> 
+   <hr>
    <h5 align = "center"> <b style="font-size pt 15" >DISCIPLINAS INTEGRADAS:</b><img   src="https://i.imgur.com/6DNR4Jr.jpg"width="4%">
    </h5>
    <h5>Engenharia de SoftwareI:  Prof.Juliana Forin Pasquini Martinez </h5>
-    <h5> Sistema de Informação:   Prof. Claudio Etelvino de Lima</h5>  
+    <h5> Sistema de Informação:   Prof. Claudio Etelvino de Lima</h5>
    <br>
    <h5>INTEGRANTES DA EQUIPE:<h5>
 
@@ -35,13 +35,13 @@
   <hr>
 
   <p align ="center">
- 
+
  <h5 align = "center">
   <div>
    <b style="font-size: 15pt" > DESAFIO</b>  <img src="https://i.imgur.com/FDPRnuS.png"width="8%">
-   </div> 
+   </div>
    </h5>
-   
+
 
   <h5 align = "center">A GSW como consultoria, possui diversos projetos. Cada projeto utiliza um sistema diferente de gerenciamento
   (como Jira e Trello, por exemplo).Seria preciso unificar esses dados em uma única base,para fácil visualização dos
@@ -55,9 +55,9 @@
   <hr>
 
   <div>
-  <h5><b style="font-size: 5pt"> ATRAVÉS DA  USER STORY IDENTIFICAMOS A NECESSIDADE DO     CLIENTE.</b>  
+  <h5><b style="font-size: 5pt"> ATRAVÉS DA  USER STORY IDENTIFICAMOS A NECESSIDADE DO     CLIENTE.</b>
   <img src="https://i.imgur.com/7H0IYXk.jpg"width="2%">
-   </div> 
+   </div>
    </h5>
 
    <h5 align = "center">User Story é uma descrição resumida de uma necessidade do
@@ -73,34 +73,34 @@
 <h5 align = "center">
   <div>
    <b style="font-size: 12pt" > EM SEGUIDA FIZEMOS O PRODUCT BACKLOG.</b>  <img src="https://i.imgur.com/l7LibBV.jpgpng"width="5%">
-   </div> 
+   </div>
    </h5>
-  <h5 align = "center"> Lista que contém breves descrições de todas as funcionalidades 
+  <h5 align = "center"> Lista que contém breves descrições de todas as funcionalidades
   desejadas para um produto especifico ainda não atribuida a um responsável.</h5>
 
  <h5 align = "center">
 
  <br>
 
-> Obter Informações referente ao Projeto: Concluido :heavy_check_mark: 
- 
+> Obter Informações referente ao Projeto: Concluido :heavy_check_mark:
+
 
  </h5>
 
  <h5 align = "center">
 
- > Escolher Tecnologia Linguagem: Concluido :heavy_check_mark: 
+ > Escolher Tecnologia Linguagem: Concluido :heavy_check_mark:
 
 
  </h5>
- 
+
 
  <h5 align = "center">
 
  > Unificação dos Dados: Concluido :heavy_check_mark:
 
  </h5>
- 
+
  <h5 align = "center">
 
  > Migrar Banco para MySQL :heavy_check_mark:
@@ -112,20 +112,20 @@
  > Protótipo:heavy_check_mark:
 
  </h5>
-   
+
   <p align "center">
 
   <hr>
 
   <h5 align = "center">NA SEQUENCIA EFETUAMOS O PLANEJAMENTO DE ENTREVISTA .</h5>
-  
-  
+
+
   </h5>
-   
+
   <p align "center">
 
   <hr>
-  
+
   <h5 align = "center">ESTABELECENDO ASSIM AS TECNOLOGIA UTILIZADAS NO DESENVOLVIMENTO.</h5>
   <h3 align = "center">  <img src="https://i.imgur.com/CssIQxc.png"   alt="drawing" width =350 </h3>
 
@@ -139,14 +139,14 @@
    <h5 align = "center"> Foram acordadas entre as partes envolvida o seguinte cronograma de entrega</h5>
 
    <h5 align = "center">
-   <A href =''> SPRINT 1 </a> - 03/03/2021 a 28/03/2021</h5>
-  
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Sprint%201'> SPRINT 1 </a> - 03/03/2021 a 28/03/2021</h5>
+
 
   </h5>
 
   <p align "center">
 
-  
+
   <p align "center">
 
   <hr>
@@ -159,24 +159,11 @@
   <hr>
 
   <h5 align = "center">BACKEND DA APLICAÇÃO .</h5>
-  <h5 align = "center"> RELACIONA COM O QUE ESTÁ POR TRÁS DAS PALICAÇÕES DESENVOLVIDAS 
-   NA PROGRAMAÇÃO.OU SEJA,TUDO QUE DÁ ESTRUTURA E APOIO ÁS AÇÕES DO USUÁRIO DA MÁQUINA É CHAMADO DE BACKEND.</h5>   
+  <h5 align = "center"> RELACIONA COM O QUE ESTÁ POR TRÁS DAS PALICAÇÕES DESENVOLVIDAS
+   NA PROGRAMAÇÃO.OU SEJA,TUDO QUE DÁ ESTRUTURA E APOIO ÁS AÇÕES DO USUÁRIO DA MÁQUINA É CHAMADO DE BACKEND.</h5>
 
    </h5>
 
   <p align "center">
 
   <hr>
- 
-
-
-
-
-
-
-  
-
-   
-  
-  
-  
