@@ -55,7 +55,7 @@
   <hr>
 
   <div>
-  <h5><b style="font-size: 5pt">USER STORY.</b>
+  <b style="font-size: 15pt"> USER STORY. </b>
   <img src="https://i.imgur.com/7H0IYXk.jpg"width="2%">
    </div>
    </h5>
@@ -125,7 +125,7 @@
    [DOWNLOAD PLANEJAMENTO DA ENTREVISTA](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/files/6174689/ARTEFATO01_Planejamento.da.Entrevista-EVO-ADS.B.2.pdf) 
   
 
-   [DOWNLOAD ATA DE REUNIÃO](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/files/6174680/ARTEFATO01_ATA.DE.REUNIAO.-.EVO-ADS.B.1.pdf)
+   [<h9> DOWNLOAD ATA DE REUNIÃO</h9>](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/files/6174680/ARTEFATO01_ATA.DE.REUNIAO.-.EVO-ADS.B.1.pdf)
 
  
 
