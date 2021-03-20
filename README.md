@@ -140,6 +140,11 @@
   <h5 align = "center">TECNOLOGIA UTILIZADAS NO DESENVOLVIMENTO DO PROJETO.</h5>
   <h3 align = "center">  <img src="https://i.imgur.com/CssIQxc.png"   alt="drawing" width =350 </h3>
 
+  <h5 align = "center">  JavaScript </h5>
+  <h5 align = "center">  TypeScript - Node.JS </h5>
+  <h5 align = "center">  CSS - HTML </h5>
+
+
   </h5>
 
   <p align "center">
