@@ -128,7 +128,7 @@
  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73767256/111851784-5e922a80-88f3-11eb-8eca-40a27803fe67.gif)
 
    
-   [DOWNLOAD PLANEJAMENTO DA ENTREVISTA](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/files/6174689/ARTEFATO01_Planejamento.da.Entrevista-EVO-ADS.B.2.pdf) 
+  [DOWNLOAD PLANEJAMENTO DA ENTREVISTA](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/files/6174689/ARTEFATO01_Planejamento.da.Entrevista-EVO-ADS.B.2.pdf)
   
 
    [<h9> DOWNLOAD ATA DE REUNIÃO</h9>](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/files/6174680/ARTEFATO01_ATA.DE.REUNIAO.-.EVO-ADS.B.1.pdf)
@@ -140,7 +140,12 @@
 
   <hr>
 
-  <h5 align = "center">TECNOLOGIA UTILIZADAS NO DESENVOLVIMENTO DO PROJETO.</h5>
+<h5 align = "center">
+  <div>
+   <b style="font-size: 12pt" >TECNOLOGIA UTILIZADAS NO DESENVOLVIMENTO DO PROJETO..</b>  <img src="https://i.imgur.com/44FS8c7.jpg"width="5%">
+   </div>
+   </h5>
+  
   <h3 align = "center">  <img src="https://i.imgur.com/CssIQxc.png"   alt="drawing" width =350 </h3>
 
   <h5 align = "center">  JavaScript </h5>
