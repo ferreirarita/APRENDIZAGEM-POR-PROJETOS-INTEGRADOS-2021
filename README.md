@@ -55,7 +55,7 @@
   <hr>
 
   <div>
-  <h5><b style="font-size: 5pt"> ATRAVÉS DA  USER STORY IDENTIFICAMOS A NECESSIDADE DO     CLIENTE.</b>
+  <h5><b style="font-size: 5pt">USER STORY.</b>
   <img src="https://i.imgur.com/7H0IYXk.jpg"width="2%">
    </div>
    </h5>
@@ -72,7 +72,7 @@
 
 <h5 align = "center">
   <div>
-   <b style="font-size: 12pt" > EM SEGUIDA FIZEMOS O PRODUCT BACKLOG.</b>  <img src="https://i.imgur.com/l7LibBV.jpgpng"width="5%">
+   <b style="font-size: 12pt" >PRODUCT BACKLOG.</b>  <img src="https://i.imgur.com/l7LibBV.jpgpng"width="5%">
    </div>
    </h5>
   <h5 align = "center"> Lista que contém breves descrições de todas as funcionalidades
@@ -117,9 +117,17 @@
 
   <hr>
 
-  <h5 align = "center">NA SEQUENCIA EFETUAMOS O PLANEJAMENTO DE ENTREVISTA.</h5>
+  <h5 align = "center">PLANEJAMENTO DE ENTREVISTA / ATA DE REUNIÃO.</h5>
 
  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73767256/111851784-5e922a80-88f3-11eb-8eca-40a27803fe67.gif)
+
+   
+   [DOWNLOAD PLANEJAMENTO DA ENTREVISTA](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/files/6174689/ARTEFATO01_Planejamento.da.Entrevista-EVO-ADS.B.2.pdf) 
+  
+
+   [DOWNLOAD ATA DE REUNIÃO](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/files/6174680/ARTEFATO01_ATA.DE.REUNIAO.-.EVO-ADS.B.1.pdf)
+
+ 
 
 
   </h5>
@@ -128,7 +136,7 @@
 
   <hr>
 
-  <h5 align = "center">ESTABELECENDO ASSIM AS TECNOLOGIA UTILIZADAS NO DESENVOLVIMENTO.</h5>
+  <h5 align = "center">TECNOLOGIA UTILIZADAS NO DESENVOLVIMENTO DO PROJETO.</h5>
   <h3 align = "center">  <img src="https://i.imgur.com/CssIQxc.png"   alt="drawing" width =350 </h3>
 
   </h5>
