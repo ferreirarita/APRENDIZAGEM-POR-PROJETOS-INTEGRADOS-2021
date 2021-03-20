@@ -118,7 +118,14 @@
 
   <hr>
 
-  <h5 align = "center">PLANEJAMENTO DE ENTREVISTA / ATA DE REUNIÃO.</h5>
+
+<h5 align = "center">
+  <div>
+   <b style="font-size: 12pt" >PLANEJAMENTO DE ENTREVISTA / ATA DE REUNIÃO.</b>  <img src="https://i.imgur.com/PswR1oz.jpg"width="5%">
+   </div>
+   </h5>
+
+
 
  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73767256/111851784-5e922a80-88f3-11eb-8eca-40a27803fe67.gif)
 
@@ -129,8 +136,6 @@
    [<h9> DOWNLOAD ATA DE REUNIÃO</h9>](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/files/6174680/ARTEFATO01_ATA.DE.REUNIAO.-.EVO-ADS.B.1.pdf)
 
  
-
-
   </h5>
 
   <p align "center">
