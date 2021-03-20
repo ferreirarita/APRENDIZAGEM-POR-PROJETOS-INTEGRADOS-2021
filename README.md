@@ -55,7 +55,7 @@
   <hr>
 
   <div>
-  <b style="font-size: 5pt"> USER STORY. </b>
+  <b style="font-size: 5pt" > USER STORy</b>
   <img src="https://i.imgur.com/7H0IYXk.jpg"width="2%">
    </div>
    </h5>
