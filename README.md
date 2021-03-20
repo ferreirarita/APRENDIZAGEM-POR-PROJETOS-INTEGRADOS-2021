@@ -182,12 +182,3 @@
 
   <hr>
 
-  <h5 align = "center">BACKEND DA APLICAÇÃO .</h5>
-  <h5 align = "center"> RELACIONA COM O QUE ESTÁ POR TRÁS DAS PALICAÇÕES DESENVOLVIDAS
-   NA PROGRAMAÇÃO.OU SEJA,TUDO QUE DÁ ESTRUTURA E APOIO ÁS AÇÕES DO USUÁRIO DA MÁQUINA É CHAMADO DE BACKEND.</h5>
-
-   </h5>
-
-  <p align "center">
-
-  <hr>
