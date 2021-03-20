@@ -161,7 +161,7 @@
 
 <h5 align = "center">
   <div>
-   <b style="font-size: 12pt" >CRONOGRAMA.</b>  <img src="https://i.imgur.com/m2NpRYf.jpg"width="7%">
+   <b style="font-size: 12pt" >CRONOGRAMA.</b>  <img src="https://i.imgur.com/m2NpRYf.jpg"width="9%">
    </div>
    </h5>
   
