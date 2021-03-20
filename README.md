@@ -57,7 +57,7 @@
   <h5 align = "center">
   <div>
   <b style="font-size: 5pt" > USER STORY</b>
-  <img src="https://i.imgur.com/7H0IYXk.jpg"width="2%">
+  <img src="https://i.imgur.com/7H0IYXk.jpg"width="4%">
    </div>
    </h5>
 
