@@ -159,7 +159,12 @@
 
   <hr>
 
-  <h5 align = "center">CRONOGRAMA.</h5>
+<h5 align = "center">
+  <div>
+   <b style="font-size: 12pt" >CRONOGRAMA.</b>  <img src="https://i.imgur.com/m2NpRYf.jpg"width="7%">
+   </div>
+   </h5>
+  
    <h5 align = "center"> Foram acordadas entre as partes envolvida as seguinte datas para entrega das Sprints </h5>
 
    <h5 align = "center">
