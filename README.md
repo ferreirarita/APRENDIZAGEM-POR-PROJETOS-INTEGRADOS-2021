@@ -159,11 +159,12 @@
 
   <hr>
 
-  <h5 align = "center">BACKLOG TOTAL.</h5>
-   <h5 align = "center"> Foram acordadas entre as partes envolvida o seguinte cronograma de entrega</h5>
+  <h5 align = "center">CRONOGRAMA.</h5>
+   <h5 align = "center"> Foram acordadas entre as partes envolvida as seguinte datas para entrega das Sprints </h5>
 
    <h5 align = "center">
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Sprint%201'> SPRINT 1 </a> - 08/03/2021 a 28/03/2021</h5>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Sprint%201'>
+   SPRINT 1 </a> - 08/03/2021 a 28/03/2021</h5>
 
 
   </h5>
