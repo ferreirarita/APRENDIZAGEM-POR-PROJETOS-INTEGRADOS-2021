@@ -121,11 +121,9 @@
 
 <h5 align = "center">
   <div>
-   <b style="font-size: 12pt" >PLANEJAMENTO DE ENTREVISTA / ATA DE REUNIÃO.</b>  <img src="https://i.imgur.com/PswR1oz.jpg"width="5%">
+   <b style="font-size: 12pt" >PLANEJAMENTO DE ENTREVISTA / ATA DE REUNIÃO.</b>  <img src="https://user-images.githubusercontent.com/73767256/111857328-74154d80-890f-11eb-98bf-c2ad77f75767.jpg"width="5%">
    </div>
    </h5>
-
-
 
  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73767256/111851784-5e922a80-88f3-11eb-8eca-40a27803fe67.gif)
 
