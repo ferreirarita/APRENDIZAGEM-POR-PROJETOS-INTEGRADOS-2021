@@ -73,7 +73,7 @@
 
 <h5 align = "center">
   <div>
-   <b style="font-size: 12pt" >PRODUCT BACKLOG.</b>  <img src="https://i.imgur.com/l7LibBV.jpgpng"width="5%">
+   <b style="font-size: 12pt" >PRODUCT BACKLOG.</b>  <img src="https://i.imgur.com/l7LibBV.jpgpng"width="7%">
    </div>
    </h5>
   <h5 align = "center"> Lista que contém breves descrições de todas as funcionalidades
@@ -121,7 +121,7 @@
 
 <h5 align = "center">
   <div>
-   <b style="font-size: 12pt" >PLANEJAMENTO DE ENTREVISTA / ATA DE REUNIÃO.</b>  <img src="https://user-images.githubusercontent.com/73767256/111857328-74154d80-890f-11eb-98bf-c2ad77f75767.jpg"width="5%">
+   <b style="font-size: 12pt" >PLANEJAMENTO DE ENTREVISTA / ATA DE REUNIÃO.</b>  <img src="https://user-images.githubusercontent.com/73767256/111857328-74154d80-890f-11eb-98bf-c2ad77f75767.jpg"width="7%">
    </div>
    </h5>
 
@@ -175,8 +175,14 @@
   <p align "center">
 
   <hr>
-  <h5 align = "center">GRÁFICO BURNDOWN.</h5>
-  <h5 align = "center"> Trabalho da Equipe ao longo do desenvolvimento da Sprint 1</h5>
+  
+ <h5 align = "center">
+  <div>
+   <b style="font-size: 12pt" >GRÁFICO BURNDOWN</b>  <img src="https://i.imgur.com/a7L4leT.png"width="10%">
+   </div>
+   </h5>
+
+  <h5 align = "center"> Trabalho da Equipe ao longo do desenvolvimento da 1° Sprint </h5>
   </h5>
 
   <p align "center">
