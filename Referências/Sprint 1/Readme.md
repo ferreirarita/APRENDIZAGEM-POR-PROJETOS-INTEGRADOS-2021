@@ -1,6 +1,6 @@
-  <h9 align="center">  Sprint 1 </h9>
+  <h1 align="center">  Sprint 1 </h1>
 
-  <h43 align = "center"> VIDEO UNIFICAÇÃO DOS DADOS  </h4>
+  <h3 align = "center"> VIDEO UNIFICAÇÃO DOS DADOS  </h3>
 
   <p align "center">
 
@@ -11,7 +11,7 @@
    <h5 align = "center">
    <div>
 
-   <h4 align = "center"> DOCUMENTAÇÃO DE VISÃO DO PROJETO  </h4>
+   <h3 align = "center"> DOCUMENTAÇÃO DE VISÃO DO PROJETO  </h3>
 
    <p align "center">
 
