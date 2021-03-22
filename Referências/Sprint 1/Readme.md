@@ -11,7 +11,7 @@
    <h5 align = "center">
    <div>
 
-   <h5 align = "center"> DOCUMENTAÇÃO DE VISÃO DO PROJETO  </h5>
+   <h3 align = "center"> DOCUMENTAÇÃO DE VISÃO DO PROJETO  </h3>
 
    <p align "center">
 
