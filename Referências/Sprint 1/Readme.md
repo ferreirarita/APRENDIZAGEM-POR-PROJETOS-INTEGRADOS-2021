@@ -1,6 +1,6 @@
-  <h1 align="center">  Sprint 1 </h1>
+  <h1 align="center">  Sprint 1 </h10>
 
-  <h3 align = "center"> VIDEO UNIFICAÇÃO DOS DADOS  </h3>
+  <h3 align = "center"> VIDEO UNIFICAÇÃO DOS DADOS  </h6>
 
   <p align "center">
 
@@ -21,7 +21,7 @@
 
    <h5 align = "center">
    <div>
-   <h1 align = "center"> WIREFRAME </h1>
+   <h1 align = "center"> WIREFRAME </h6>
 
 
    <h25 align = "center"> Wireframe pode ser definido como uma representação de   baixa  fidelidade do design de um projeto e tem como principal objetivo mostrar o  que podemos chamar "o quê,"como" e "onde".
