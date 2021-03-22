@@ -1,5 +1,6 @@
   <h1 align="center">  Sprint 1 </h1>
-  <h5 align = "center"> VIDEO UNIFICAÇÃO DOS DADOS  </h5>
+
+  <h3 align = "center"> VIDEO UNIFICAÇÃO DOS DADOS  </h3>
 
   <p align "center">
 
@@ -20,7 +21,7 @@
 
    <h5 align = "center">
    <div>
-  <h200 align = "center"> WIREFRAME </h200>
+  <h3 align = "center"> WIREFRAME </h3>
 
    <p>WIREFRAME</p>
 
