@@ -20,9 +20,7 @@
 
    <h5 align = "center">
    <div>
-  <h200 align = "center"> WIREFRAME </h200>
-   
-   <p>WIREFRAME</p>
+  
 
    <h25 align = "center"> Wireframe pode ser definido como uma representação de   baixa  fidelidade do design de um projeto e tem como principal objetivo mostrar o  que podemos chamar "o quê,"como" e "onde".
    Os Wireframes não possuem design bem elaborado e são como se fosse o esqueleto do design. Sendo assim todos os elementos são colocados de forma primária, sendo um design elaborado e definido.  
@@ -40,5 +38,8 @@
    <h5 align = "center"> PROTÓTIPO  </h5>
 
    <p align "center">
+
+  
+
 
 
