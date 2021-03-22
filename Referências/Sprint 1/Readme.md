@@ -22,7 +22,7 @@
    <div>
   
 
-   <font size="5"> WIREFRAME  </font>
+   <font size="5"> WIREFRAME </font>
    
 
    <h25 align = "center"> Wireframe pode ser definido como uma representação de   baixa  fidelidade do design de um projeto e tem como principal objetivo mostrar o  que podemos chamar "o quê,"como" e "onde".
