@@ -30,7 +30,7 @@
 5|Luiz Gustavo|[acesso](https://github.com/UkitakeKazui)|[acesso](https://www.linkedin.com/in/gustavo-vieira-699729207/)|Dev Team
 6|Luiz Camargo|[acesso](https://github.com/Felipe221070)|[acesso](https://www.linkedin.com/in/felipe-programador)|Dev Team
 
-<p align "center">
+ <p align "center">
 
   <hr>
 
@@ -71,6 +71,14 @@
 
  <hr>
 
+
+  <h5 align = "center"> ALTERNATIVA DE IMPLEMENTAÇÃO PROJETO GSW </h5>
+
+<p align "center">
+
+  <hr>
+
+ 
 <h5 align = "center">
   <div>
    <b style="font-size: 12pt" >PRODUCT BACKLOG.</b>  <img src="https://i.imgur.com/l7LibBV.jpgpng"width="7%">
