@@ -91,45 +91,8 @@
    </h5>
 
 
-   <center>       
-   <div class="box">
-    <img src="https://i.imgur.com/elqSnGX.png"/>
-    <span>  </span>
-    </div>
-    <div class="box">
-    <img src="https://i.imgur.com/nGcUgoy.png"/>
-    <span>  </span>
-   </div>
-
-   <style>
-   div.box {
-	 width: 150px;
-	  display: inline-block;
-   }
-   </style>  
-
-   <br>
    
-   
-   <div class="box">
-    <img src="https://i.imgur.com/EQm56SB.png"/>
-    <span>  </span>
-    </div>
-    <div class="box">
-    <img src="https://i.imgur.com/UTZvWaO.png"/>
-    <span>  </span>
-   </div>
-
-   <style>
-   div.box {
-	 width: 150px;
-	  display: inline-block;
-   }
-   </style>  
-   </center>
-
-   </h5>
-    <p align "center">
+    
 
    <p align "center">
 
