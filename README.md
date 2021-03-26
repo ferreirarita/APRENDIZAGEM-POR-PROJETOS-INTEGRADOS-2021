@@ -90,17 +90,7 @@
    </div>
    </h5>
 
-   
-   #ladoalado{
-    display: flex;  <img src="https://i.imgur.com/elqSnGX.png">  <img src="https://i.imgur.com/nGcUgoy.png"></div> 
-
-   < <img src="https://i.imgur.com/EQm56SB.png">  <img src="https://i.imgur.com/UTZvWaO.png"></div> 
-    justify-content: center; 
-    }
-
-
-
-   
+     
 
    <div id="ladoalado">  <img src="https://i.imgur.com/elqSnGX.png">  <img src="https://i.imgur.com/nGcUgoy.png"></div> 
 
