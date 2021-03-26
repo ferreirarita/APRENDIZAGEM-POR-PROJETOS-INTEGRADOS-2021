@@ -91,7 +91,7 @@
    </h5>
 
 
-
+   <div id="ladoalado"> <img src="https://i.imgur.com/elqSnGX.png"> <img src="https://i.imgur.com/nGcUgoy.png"></div> 
 
 
 
