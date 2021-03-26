@@ -90,10 +90,12 @@
    </div>
    </h5>
 
-
+   <center>
    <div id="ladoalado">  <img src="https://i.imgur.com/elqSnGX.png">  <img src="https://i.imgur.com/nGcUgoy.png"></div> 
 
    <div id="ladoalado">  <img src="https://i.imgur.com/EQm56SB.png">  <img src="https://i.imgur.com/UTZvWaO.png"></div> 
+
+   </center>
 
 
 
