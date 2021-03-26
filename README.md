@@ -84,8 +84,52 @@
   <p align ="center">
 
 
-  </h5>
- <h3 align = "center">  <img src=""   alt="drawing" width =350 </h3>
+<h5 align = "center">
+  <div>
+   <b style="font-size: 12pt" >SPRINT CARD.</b>  <img src="https://i.imgur.com/2UJzqPs.png"width="4%">
+   </div>
+   </h5>
+
+
+   <center>       
+   <div class="box">
+    <img src="https://i.imgur.com/elqSnGX.png"/>
+    <span>  </span>
+    </div>
+    <div class="box">
+    <img src="https://i.imgur.com/nGcUgoy.png"/>
+    <span>  </span>
+   </div>
+
+   <style>
+   div.box {
+	 width: 150px;
+	  display: inline-block;
+   }
+   </style>  
+
+   <br>
+   
+   
+   <div class="box">
+    <img src="https://i.imgur.com/EQm56SB.png"/>
+    <span>  </span>
+    </div>
+    <div class="box">
+    <img src="https://i.imgur.com/UTZvWaO.png"/>
+    <span>  </span>
+   </div>
+
+   <style>
+   div.box {
+	 width: 150px;
+	  display: inline-block;
+   }
+   </style>  
+   </center>
+
+   </h5>
+    <p align "center">
 
    <p align "center">
 
@@ -146,10 +190,7 @@
    <b style="font-size: 12pt" >DOCUMENTAÇÃO DO SOFTWARE.</b>  <img src="https://i.imgur.com/A4KrIds.png"width="4%">
    </div>
    </h5>
-
-
-   
-
+  
    <h5 align = "center">
    <a href=''>
    <li> PLANEJAMENTO DA ENTREVISTA</li></a> </h5>  
