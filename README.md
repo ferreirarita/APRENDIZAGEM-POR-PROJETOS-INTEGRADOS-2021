@@ -71,12 +71,18 @@
 
  <hr>
 
+<h5 align = "center">
+  <div>
+   <b style="font-size: 12pt" >SOLUÇÃO PARA IMPLEMENTAR O PROJETOS GSW.</b>  <img src="https://i.imgur.com/8NgbnO2.jpg"width="6%">
+   </div>
+   </h5>
 
-  <h5 align = "center"> ALTERNATIVA DE IMPLEMENTAÇÃO PROJETO GSW </h5>
-
-<p align "center">
+ <p align "center">
 
   <hr>
+
+  <p align ="center">
+
 
  
 <h5 align = "center">
@@ -129,25 +135,24 @@
 
 <h5 align = "center">
   <div>
-   <b style="font-size: 12pt" >DOCUMENTAÇÃO DO SOFTWARE.</b>  
+   <b style="font-size: 12pt" >DOCUMENTAÇÃO DO SOFTWARE.</b>  <img src="https://i.imgur.com/A4KrIds.png"width="4%">
    </div>
    </h5>
 
- 
-  
+
    
 
    <h5 align = "center">
    <a href=''>
-   PLANEJAMENTO DA ENTREVISTA</a> </h5>  
+   <li> PLANEJAMENTO DA ENTREVISTA</li></a> </h5>  
 
    <h5 align = "center">
    <a href=''>
-   ATA DE REUNIÃO</a> </h5> 
+   <li> ATA DE REUNIÃO</li></a> </h5> 
 
    <h5 align = "center">
    <a href=''>
-   DOCUMENTO DE VISÃO</a> </h5>
+   <li>DOCUMENTO DE VISÃO</li></a> </h5>
 
    <h5 align = "center">
    <a href=''>
@@ -155,22 +160,13 @@
   
    <h5 align = "center">
    <a href=''>
-   MODELO DE CASO DE USO </a> </h5>
+  <li> MODELO DE CASO DE USO</li> </a> </h5>
 
    <h5 align = "center">
    <a href=''>
-   DIAGRAMA DE CASO DE USO </a> </h5>
-
-
-
-  
-  
-  
-
+   <li>DIAGRAMA DE CASO DE USO</li> </a> </h5>
+ 
    
-   
-   
-
   </h5>
 
   <p align "center">
@@ -204,10 +200,34 @@
   
    <h5 align = "center"> Foram acordadas entre as partes envolvida as seguinte datas para entrega das Sprints </h5>
 
+
+   <h5 align = "center">
+   <a href=''>
+   KICK OFF DO PROJETO </a> - 28/02/2021 a 06/03/2021</h5>
+
    <h5 align = "center">
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Sprint%201'>
-   SPRINT 1 </a> - 08/03/2021 a 28/03/2021</h5>
+   SPRINT 1 </a> - 08/03 a 28/03/2021</h5>
 
+   <h5 align = "center">
+   <a href=''>
+   SPRINT 2 </a> - 29/03 a 18/04/2021</h5>
+
+   <h5 align = "center">
+   <a href=''>
+   SPRINT 3 </a> - 26/04a 16/05/2021</h5>
+
+   <h5 align = "center">
+   <a href=''>
+   SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
+
+   <h5 align = "center">
+   <a href=''>
+   APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
+
+   <h5 align = "center">
+   <a href=''>
+   FEIRA DE SOLUÇÕES</a> - 14/06a 18/06/2021</h5>
 
   </h5>
 
@@ -218,9 +238,9 @@
 
   <hr>
   
- <h5 align = "center">
+   <h5 align = "center">
   <div>
-   <b style="font-size: 12pt" >GRÁFICO BURNDOWN</b>  <img src="https://i.imgur.com/a7L4leT.png"width="10%">
+   <b style="font-size: 12pt" >GRÁFICO BURNDOWN</b> <img src="https://i.imgur.com/a7L4leT.png"width="10%">
    </div>
    </h5>
 
@@ -230,4 +250,8 @@
   <p align "center">
 
   <hr>
+
+
+
+
 
