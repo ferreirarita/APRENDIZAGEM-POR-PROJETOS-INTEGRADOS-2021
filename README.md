@@ -102,16 +102,7 @@
    </div>
    </h5>
    
-   
-
-
-
-
-
-
-
-
-   
+    
     
 
    <p align "center">
@@ -120,54 +111,7 @@
 
   <p align ="center">
 
-<h5 align = "center">
-  <div>
-   <b style="font-size: 12pt" >PRODUCT BACKLOG.</b>  <img src="https://i.imgur.com/l7LibBV.jpgpng"width="7%">
-   </div>
-   </h5>
-  <h5 align = "center"> Lista que contém breves descrições de todas as funcionalidades
-  desejadas para um produto especifico ainda não atribuida a um responsável.</h5>
-
- <h5 align = "center">
-
- <br>
-
-> Obter Informações referente ao Projeto: Concluido :heavy_check_mark:
-
-
- </h5>
-
- <h5 align = "center">
-
- > Escolher Tecnologia Linguagem: Concluido :heavy_check_mark:
-
-
- </h5>
-
-
- <h5 align = "center">
-
- > Unificação dos Dados: Concluido :heavy_check_mark:
-
- </h5>
-
- <h5 align = "center">
-
- > Migrar Banco para MySQL :heavy_check_mark:
-
- </h5>
-
- <h5 align = "center">
-
- > Protótipo:heavy_check_mark:
-
- </h5>
-
-  <p align "center">
-
-  <hr>
-
-
+  
 <h5 align = "center">
   <div>
    <b style="font-size: 12pt" >DOCUMENTAÇÃO DO SOFTWARE.</b>  <img src="https://i.imgur.com/A4KrIds.png"width="4%">
