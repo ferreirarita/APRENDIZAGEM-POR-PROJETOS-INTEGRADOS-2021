@@ -90,21 +90,7 @@
    </div>
    </h5>
 
-<div class="box">
-    <img src="https://i.imgur.com/elqSnGX.png"/>
-    <span>  </span>
-    </div>
-    <div class="box">
-    <img src="https://i.imgur.com/nGcUgoy.png"/>
-    <span>  </span>
-   </div>
 
-   <style>
-   div.box {
-	 width: 150px;
-	  display: inline-block;
-   }
-   </style>  
 
 
 
