@@ -85,17 +85,9 @@
 
 <h5 align = "center">
 
+<h3 align = "center">  <img src="https://i.imgur.com/rXOqtcx.jpg"   alt="drawing" width =350 </h3>
 
-  <h5 align = "center">Ata da Reunião</h5>
-
-<img src="https://i.imgur.com/rXOqtcx.jpg">  </div> 
-
-
-
-
-
-   
-   
+  <p align "center">
 
 
  <p align "center">
