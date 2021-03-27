@@ -83,6 +83,30 @@
 
   <p align ="center">
 
+<h5 align = "center">
+  <div>
+   <b style="font-size: 12pt" >PLANNIG POKER.</b>  <img src=""width="4%">
+   </div>
+   </h5>
+   
+   <img src="https://i.imgur.com/yg2SJD9.gif">
+
+
+
+
+
+
+
+ <p align "center">
+
+  <hr>
+
+  <p align ="center">
+
+  
+ <h5 align = "center">
+
+
 
 <h5 align = "center">
   <div>
