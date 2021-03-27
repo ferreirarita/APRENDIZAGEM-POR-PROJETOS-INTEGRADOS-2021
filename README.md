@@ -178,7 +178,7 @@
 
 
    <h5 align = "center">
-   <a href=''>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Kickoff'>
    KICK OFF DO PROJETO </a> - 28/02/2021 a 06/03/2021</h5>
 
    <h5 align = "center">
