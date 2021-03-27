@@ -4,7 +4,7 @@
    <h1 align = "center"> DEMOSTRAÇÃO DAS FUNCIONALIDADES </h1>
 
    <p align "center">
-   ![Alt Text](https://i.imgur.com/Sq6goG9.gif)
+   https://i.imgur.com/Sq6goG9.gif
 
    
 
