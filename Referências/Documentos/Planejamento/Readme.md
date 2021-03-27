@@ -1,6 +1,6 @@
 
 <h5 align = "center">Planejamento da Entrevista</h5>
  
- ![](https://i.imgur.com/MOXcWDz.jpg)
-
- 
+  <p align="center">
+  <img src="https://i.imgur.com/MOXcWDz.jpg" />
+</p>
