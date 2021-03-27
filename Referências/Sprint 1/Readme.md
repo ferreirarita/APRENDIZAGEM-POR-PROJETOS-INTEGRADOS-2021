@@ -4,7 +4,7 @@
    <h1 align = "center"> DEMOSTRAÇÃO DAS FUNCIONALIDADES </h1>
 
    <p align "center">
-   https://i.imgur.com/Sq6goG9.gif
+   <img src="https://i.imgur.com/Sq6goG9.gif" width="40" height="40" />
 
    
 
