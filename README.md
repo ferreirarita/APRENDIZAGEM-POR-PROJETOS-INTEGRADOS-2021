@@ -159,11 +159,11 @@
    PRODUCT BACKLOG DO PROJETO </a> </h5>
   
    <h5 align = "center">
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/CasodeUso'>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Diagrama'>
   <li> MODELO DE CASO DE USO</li> </a> </h5>
 
    <h5 align = "center">
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Diagrama'>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/CasodeUso'>
    <li>DIAGRAMA DE CASO DE USO</li> </a> </h5>
  
    
