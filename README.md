@@ -84,12 +84,18 @@
   <p align ="center">
 
 <h5 align = "center">
-  <div>
-   <b style="font-size: 12pt" >SPRINT BACKLOG.</b>  <img src="https://imgur.com/rXOqtcx"width="4%">
-   </div>
-   </h5>
+
+
+  <h5 align = "center">Ata da Reunião</h5>
+
+<img src="https://i.imgur.com/rXOqtcx.jpg">  </div> 
+
+
+
+
+
    
-   <img src="https://i.imgur.com/yg2SJD9.gif">
+   
 
 
  <p align "center">
