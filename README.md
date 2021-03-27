@@ -85,7 +85,7 @@
 
 <h5 align = "center">
   <div>
-   <b style="font-size: 12pt" >PLANNIG POKER.</b>  <img src=""width="4%">
+   <b style="font-size: 12pt" >PLANNIG POKER.</b>  <img src="https://i.imgur.com/FhiKk6x.png"width="4%">
    </div>
    </h5>
    
