@@ -123,7 +123,7 @@
 
  <h4 align = "center"> TECNOLOGIAS UTILIZADAS </h4>
 
- ![](https://i.imgur.com/9wg5MmD.png=100x20)
+ ![](https://i.imgur.com/9wg5MmD.png=90x20)
 
  <h2 align = "center"> JavaScript  </h2>
  <h2 align = "center"> TypeScript-Node.JS </h2>
