@@ -2,19 +2,15 @@
 
 <h3 align = "center">  <img src="https://i.imgur.com/0gyPTv7.png"   alt="drawing" width=700 </h3>
 
-  
-
   <h2 align = "center"> EQUIPE EVO - EVOLUÇÃO </h2>
 
  <h3 align = "center">FATEC São José dos Campos – Prof.Jessen Vidal em parceria com a empresa GSW.</h3>
-
 
  <h5 align = "center">
   Proporcionaram aos alunos do curso de ADS 2ºSemestre a oportunidade de trabalhar com Base em uma Empresa Real.Como cliente a Empresa GSW, nos apresentou dificuldades encontradas em seu sistema de gerenciamento de software.
   Para que assim pudéssemos encontra soluções alternativas para implementa-lá através da metodologia SCRUM.
   </h5>
   
-
    <p align ="center">
 
   <h4 align = "center"> DISCIPLINAS INTEGRADAS </h4>
@@ -61,10 +57,6 @@
   (como Jira e Trello, por exemplo).Seria preciso unificar esses dados em uma única base,para fácil visualização dos
   status dos andamentos.Posteriormente, apresentar as informações resumidas do andamento geral dos projetos em uma única Dashboard(Painel de Controle).</h5>
 
-
-
-  <p align "center">
-
    <hr>
 
    <p align ="center">
@@ -78,13 +70,13 @@
 
  <h5 align = "center">
 
+
+  <p align ="center">
 
   <h4 align = "center"> SOLUÇÃO PARA IMPLEMENTAR PROJETO GSW </h4>
  
 <h5 align = "center"> Será desenvolvida uma aplicação web para solucionar os problemas causados por dados de fontes diferentes. A aplicação irá consumir um serviço com uma base de dados unificada e com o potencial de fornecer soluções mais específicas para a necessidade da GSW Soluções Integradas.</h5>
 
-  <p align "center">
-
    <hr>
 
    <p align ="center">
@@ -97,6 +89,9 @@
 
 
  <h5 align = "center">
+
+
+  <p align ="center">
 
 
 <h4 align = "center"> USER STORY </h4>
@@ -105,16 +100,7 @@
   
    ![](https://i.imgur.com/cCFNr6x.jpg)
 
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-   <p align "center">
-
-   <hr>
-
+   
    <p align ="center">
 
 
@@ -129,17 +115,7 @@
  <h3 align = "center"> TypeScript-Node.JS </h3>
  <h3 align = "center"> CSS - HTML </h3>
 
-
-  <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-   <p align "center">
-
-   <hr>
-
+ 
    <p align ="center">
 
 
@@ -232,19 +208,27 @@
   </h5>
     
   ![](https://i.imgur.com/YB9R9wD.png)
+  <p align "center">
 
-  
-    <p align ="center">
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
 
 
    <h5 align = "center">
 
-   <h5 align = "center"> BACKLOG TOTAL </h5>
-     </h5>
-     <h5 align = "center"> Atendendo as solicitações do cliente e acordo efetuado entre as partes envolvidas estabelecemos que apresentariamos o desenvolvimento do projeto por etapas.
-     Segue abaixo uma visualização total das atividades por partes </h5>
+     
+   
 
-    
+
+
+
     
 
   
