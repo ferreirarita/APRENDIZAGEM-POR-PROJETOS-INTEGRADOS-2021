@@ -7,7 +7,7 @@
  <h3 align = "center">FATEC São José dos Campos – Prof.Jessen Vidal em parceria com a empresa GSW.</h3>
 
  <h5 align = "center">
-  Proporcionaram aos alunos do curso de ADS 2ºSemestre a oportunidade de trabalhar com Base em uma Empresa Real.Como cliente a Empresa GSW, nos apresentou dificuldades encontradas em seu sistema de gerenciamento de software.
+  Proporcionaram aos alunos do curso de ADS 2ºSemestre a oportunidade de trabalhar com Base em uma Empresa Real. Como cliente a Empresa GSW, nos apresentou dificuldades encontradas em seu sistema de gerenciamento de software.
   Para que assim pudéssemos encontra soluções alternativas para implementa-lá através da metodologia SCRUM.
   </h5>
   
