@@ -123,7 +123,7 @@
 
  <h4 align = "center"> TECNOLOGIAS UTILIZADAS </h4>
 
- ![](https://i.imgur.com/9wg5MmD.png=1x1)
+ ![](https://i.imgur.com/9wg5MmD)
 
  <h2 align = "center"> JavaScript  </h2>
  <h2 align = "center"> TypeScript-Node.JS </h2>
@@ -263,21 +263,11 @@
      </h5>
      <h5 align = "center"> Atendendo as solicitações do cliente e acordo efetuado entre as partes envolvidas estabelecemos que apresentariamos o desenvolvimento do projeto por etapas.
      Segue abaixo uma visualização total das atividades por partes </h5>
+
     
     
 
-  <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
+  
 
    
 
