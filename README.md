@@ -117,13 +117,8 @@
 
   <p align ="center">
 
- <h4 align = "center"> TECNOLOGIAS UTILIZADAS </h4>
-
- ![](https://i.imgur.com/xjFqvy0.png)
-
- <h3 align = "center"> JavaScript  </h3>
- <h3 align = "center"> TypeScript-Node.JS </h3>
- <h3 align = "center"> CSS - HTML </h3>
+<h4 align = "center"> TECNOLOGIAS UTILIZADAS </h4>
+ <h3 align = "center">  <img src="https://i.imgur.com/xjFqvy0.png"   alt="drawing" width =350 </h3>
 
    <p align "center">
 
