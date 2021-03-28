@@ -101,11 +101,23 @@
    ![](https://i.imgur.com/cCFNr6x.jpg)
 
    
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
    <p align ="center">
 
 
  <h5 align = "center">
 
+
+  <p align ="center">
 
  <h4 align = "center"> TECNOLOGIAS UTILIZADAS </h4>
 
@@ -115,11 +127,23 @@
  <h3 align = "center"> TypeScript-Node.JS </h3>
  <h3 align = "center"> CSS - HTML </h3>
 
- 
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
    <p align ="center">
 
 
-   <h5 align = "center">
+ <h5 align = "center">
+
+
+  <p align ="center">
   
    <h4 align = "center"> DOCUMENTAÇÃO DO SOFTWARE </h4>
  
