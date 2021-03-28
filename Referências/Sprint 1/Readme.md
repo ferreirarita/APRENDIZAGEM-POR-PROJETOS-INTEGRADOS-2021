@@ -5,17 +5,17 @@
          </h3>
 
 
-   <h3 align = "center"> DEMOSTRAÇÃO PROTÓTIPO FIGMA </h3>
+   <h2 align = "center"> DEMOSTRAÇÃO PROTÓTIPO FIGMA </h2>
 
    ![alt text](https://i.imgur.com/Sq6goG9.gif)
 
- <p align "center">
+   <p align "center">
 
-  <hr>
+    <hr>
 
-  <p align ="center">
+   <p align ="center">
 
-  <h5 align = "center">
+   <h5 align = "center">
 
 
 
