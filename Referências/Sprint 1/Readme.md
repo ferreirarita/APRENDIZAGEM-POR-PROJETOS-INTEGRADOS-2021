@@ -1,10 +1,25 @@
   <h1 align="center">  Sprint 1 </h1>
 
 
-    <h3 align="center">  BACKLOG SPRINT 1 </h3>
+   <h3 align="center">  BACKLOG SPRINT 1 </h3>
 
 
    ![](https://i.imgur.com/yFWS0Wa.jpg)
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+   <h5 align = "center">
 
 
    <h3 align="center"> Ao compreender o funcionamento da DashBoard começamos a trabalhar na etapa de modelagem e normalização dos dados.
