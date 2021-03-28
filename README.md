@@ -103,7 +103,7 @@
 
    <h5 align = "center">User Story é uma descrição resumida de uma necessidade do usuário do produto</h5>
   
-   ![](https://i.imgur.com/Vh6vN9m.jpg)
+   ![](https://i.imgur.com/cCFNr6x.jpg)
 
    <p align "center">
 
