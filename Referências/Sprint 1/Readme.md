@@ -18,10 +18,7 @@
 
    <h1 align = "center"> DEMOSTRAÇÃO DAS FUNCIONALIDADES </h1>
 
-   ![alt text](https://i.imgur.com/NlGX6ce.mp4)
-
-  
-
    
-
+   ![funcionalidades](https://user-images.githubusercontent.com/73767256/112738788-f53e9700-8f44-11eb-88e2-5b706c95904f.gif)
+  
 
