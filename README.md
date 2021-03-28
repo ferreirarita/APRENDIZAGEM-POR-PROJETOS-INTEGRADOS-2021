@@ -61,6 +61,8 @@
   (como Jira e Trello, por exemplo).Seria preciso unificar esses dados em uma única base,para fácil visualização dos
   status dos andamentos.Posteriormente, apresentar as informações resumidas do andamento geral dos projetos em uma única Dashboard(Painel de Controle).</h5>
 
+
+
   <p align "center">
 
    <hr>
