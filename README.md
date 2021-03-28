@@ -94,10 +94,8 @@
   <p align ="center">
 
 
-<h4 align = "center"> USER STORY </h4>
-
-   <h5 align = "center">User Story é uma descrição resumida de uma necessidade do usuário do produto</h5>
-  
+<h4 align = "center"> PRODUCT BACKLOG </h4>
+     
    ![](https://i.imgur.com/cCFNr6x.jpg)
 
    
