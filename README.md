@@ -233,8 +233,6 @@
 
 
    <h5 align = "center">
-
-
   
    <h4 align = "center"> GRÁFICO BURNDOWN </h4>
 
