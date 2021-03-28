@@ -71,12 +71,6 @@
 
  <hr>
 
-<h5 align = "center">
-  <div>
-   <b style="font-size: 12pt" >SOLUÇÃO PARA IMPLEMENTAR O PROJETOS GSW.</b>  <img src="https://i.imgur.com/8NgbnO2.jpg"width="6%">
-   </div>
-   </h5>
-
  <p align "center">
 
   <hr>
