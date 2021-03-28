@@ -120,6 +120,10 @@
 <h4 align = "center"> TECNOLOGIAS UTILIZADAS </h4>
  <h3 align = "center">  <img src="https://i.imgur.com/xjFqvy0.png"   alt="drawing" width =350 </h3>
 
+  <h5 align = "center">  JavaScript </h5>
+  <h5 align = "center">  TypeScript - Node.JS </h5>
+  <h5 align = "center">  CSS - HTML </h5>
+
    <p align "center">
 
    <hr>
