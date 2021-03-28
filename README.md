@@ -51,7 +51,7 @@
 
   <h4 align = "center"> DESAFIO </h4>
    
-
+<h3 align = "center">  <img src="https://i.imgur.com/dKuDMU6.png"  alt="drawing" width =150 </h3>
 
   <h5 align = "center">A GSW como consultoria, possui diversos projetos. Cada projeto utiliza um sistema diferente de gerenciamento
   (como Jira e Trello, por exemplo).Seria preciso unificar esses dados em uma única base,para fácil visualização dos
