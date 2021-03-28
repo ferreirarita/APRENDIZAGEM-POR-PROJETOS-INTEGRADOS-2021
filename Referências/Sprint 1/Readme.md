@@ -3,8 +3,9 @@
 
    <h3 align="center">  BACKLOG SPRINT 1 </h3>
 
+   <h3 align = "center">  <img src="https://i.imgur.com/yFWS0Wa.jpg"   alt="drawing" width =500 </h3>
 
-   ![](https://i.imgur.com/yFWS0Wa.jpg)
+  
 
    <p align "center">
 
