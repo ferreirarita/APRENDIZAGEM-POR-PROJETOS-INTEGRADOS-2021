@@ -1,11 +1,12 @@
-<h5 align = "center">  API APRENDIZAGEM POR PROJETOS INTEGRADOS </h5>
+<h2 align = "center">  API APRENDIZAGEM POR PROJETOS INTEGRADOS </h2>
 
-<h3 align = "center">  <img src="https://i.imgur.com/6Oiyz4E.png"   alt="drawing" width =350 </h3>
+<h3 align = "center">  <img src="https://i.imgur.com/0gyPTv7.png"   alt="drawing" width=700 </h3>
 
+  
 
-  <h5 align = "center"> EQUIPE EVO - EVOLUÇÃO </h5>
+  <h2 align = "center"> EQUIPE EVO - EVOLUÇÃO </h2>
 
- <h5 align = "center">FATEC São José dos Campos – Prof.Jessen Vidal em parceria com a empresa GSW.</h5>
+ <h3 align = "center">FATEC São José dos Campos – Prof.Jessen Vidal em parceria com a empresa GSW.</h3>
 
 
  <h5 align = "center">
@@ -13,13 +14,24 @@
   Para que assim pudéssemos encontra soluções alternativas para implementa-lá através da metodologia SCRUM.
   </h5>
   <p align "center">
+
    <hr>
-   <h5 align = "center"> <b style="font-size pt 15" >DISCIPLINAS INTEGRADAS:</b><img   src="https://i.imgur.com/6DNR4Jr.jpg"width="4%">
-   </h5>
-   <h5>Engenharia de SoftwareI:  Prof.Juliana Forin Pasquini Martinez </h5>
-    <h5> Sistema de Informação:   Prof. Claudio Etelvino de Lima</h5>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+  <h4 align = "center"> DISCIPLINAS INTEGRADAS </h4>
+   
+   
+   <h4>Engenharia de SoftwareI:  Prof.Juliana Forin Pasquini Martinez </h4>
+    <h4> Sistema de Informação:   Prof. Claudio Etelvino de Lima</h4>
    <br>
-   <h5>INTEGRANTES DA EQUIPE:<h5>
+   <h4>INTEGRANTES DA EQUIPE:</h4>
 
   Nº|Nome|GitHub|Linkedln|Função
 ---|---|---|---|---|
@@ -30,101 +42,118 @@
 5|Luiz Gustavo|[acesso](https://github.com/UkitakeKazui)|[acesso](https://www.linkedin.com/in/gustavo-vieira-699729207/)|Dev Team
 6|Luiz Camargo|[acesso](https://github.com/Felipe221070)|[acesso](https://www.linkedin.com/in/felipe-programador)|Dev Team
 
+ 
  <p align "center">
 
-  <hr>
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+ <h5 align = "center">
+
 
   <p align ="center">
 
- <h5 align = "center">
-  <div>
-   <b style="font-size: 15pt" > DESAFIO</b>  <img src="https://i.imgur.com/FDPRnuS.png"width="8%">
-   </div>
-   </h5>
+  <h4 align = "center"> DESAFIO </h4>
+   
 
 
   <h5 align = "center">A GSW como consultoria, possui diversos projetos. Cada projeto utiliza um sistema diferente de gerenciamento
   (como Jira e Trello, por exemplo).Seria preciso unificar esses dados em uma única base,para fácil visualização dos
   status dos andamentos.Posteriormente, apresentar as informações resumidas do andamento geral dos projetos em uma única Dashboard(Painel de Controle).</h5>
 
-  <h3 align = "center">  <img src="https://i.imgur.com/cqs13MI.png"   alt="drawing" width =300 </h3
-</h5>
-
   <p align "center">
 
-  <hr>
+   <hr>
 
-  <h5 align = "center">
-  <div>
-  <b style="font-size: 5pt" > USER STORY</b>
-  <img src="https://i.imgur.com/7H0IYXk.jpg"width="4%">
-   </div>
-   </h5>
-
-   <h5 align = "center">User Story é uma descrição resumida de uma necessidade do
-  usuário do produto (ou seja, de um “requisito") sob o ponto de
-  vista desse usuário.</h5>
- </h5>
- <h3 align = "center">  <img src="https://i.imgur.com/hSDepIU.png"   alt="drawing" width =350 </h3>
-
-  <p align "center">
-
- <hr>
-
- <p align "center">
-
-  
- <h5 align = "center">  SPRINT BACKLOG </h5>
-
-<h3 align = "center">  <img src=""   alt="drawing" width =350 </h3>
-
-  <p align "center">
-
-
- <p align "center">
-
-  <hr>
-
-  <p align ="center">
-
-  
- <h5 align = "center">
-
-
-
-<h5 align = "center">
-  <div>
-   <b style="font-size: 12pt" >SPRINT CARD.</b>  <img src="https://i.imgur.com/2UJzqPs.png"width="4%">
-   </div>
-   </h5>
-
-
-   <h5 align = "center">
-   <div>
-
-
-   <div id="ladoalado">  <img src="https://i.imgur.com/elqSnGX.png">  <img src="https://i.imgur.com/nGcUgoy.png"></div> 
-
-   <div id="ladoalado">  <img src="https://i.imgur.com/EQm56SB.png">  <img src="https://i.imgur.com/UTZvWaO.png"></div> 
-
-   </div>
-   </h5>
-     
-    
+   <p align ="center">
 
    <p align "center">
 
-  <hr>
+   <hr>
 
-  <p align ="center">
+   <p align ="center">
 
+
+ <h5 align = "center">
+
+
+  <h4 align = "center"> SOLUÇÃO PARA IMPLEMENTAR PROJETO GSW </h4>
+ 
+<h5 align = "center"> Será desenvolvida uma aplicação web para solucionar os problemas causados por dados de fontes diferentes. A aplicação irá consumir um serviço com uma base de dados unificada e com o potencial de fornecer soluções mais específicas para a necessidade da GSW Soluções Integradas.</h5>
+
+  <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+ <h5 align = "center">
+
+
+<h4 align = "center"> USER STORY </h4>
+
+   <h5 align = "center">User Story é uma descrição resumida de uma necessidade do usuário do produto</h5>
   
-<h5 align = "center">
-  <div>
-   <b style="font-size: 12pt" >DOCUMENTAÇÃO DO SOFTWARE.</b>  <img src="https://i.imgur.com/A4KrIds.png"width="4%">
-   </div>
-   </h5>
+   ![](https://i.imgur.com/Vh6vN9m.jpg)
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+ <h5 align = "center">
+
+
+ <h4 align = "center"> TECNOLOGIAS UTILIZADAS </h4>
+
+ ![](https://i.imgur.com/9wg5MmD.png)
+
+ <h4 align = "center"> JavaScript  </h4>
+ <h4 align = "center"> TypeScript-Node.JS </h4>
+ <h4 align = "center"> CSS - HTML </h4>
+
+
+  <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+   <h5 align = "center">
   
+   <h4 align = "center"> DOCUMENTAÇÃO DO SOFTWARE </h4>
+ 
+    
    <h5 align = "center">
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Planejamento'>
    <li> PLANEJAMENTO DA ENTREVISTA</li></a> </h5>  
@@ -146,37 +175,22 @@
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/CasodeUso'>
    <li>DIAGRAMA DE CASO DE USO</li> </a> </h5>
  
-   
-  </h5>
+   <p align "center">
 
-  <p align "center">
+   <hr>
 
-  <hr>
+   <p align ="center">
 
-<h5 align = "center">
-  <div>
-   <b style="font-size: 12pt" >TECNOLOGIA UTILIZADAS NO DESENVOLVIMENTO DO PROJETO..</b>  <img src="https://i.imgur.com/44FS8c7.jpg"width="5%">
-   </div>
-   </h5>
-  
-  <h3 align = "center">  <img src="https://i.imgur.com/CssIQxc.png"   alt="drawing" width =350 </h3>
+   <p align "center">
 
-  <h5 align = "center">  JavaScript </h5>
-  <h5 align = "center">  TypeScript - Node.JS </h5>
-  <h5 align = "center">  CSS - HTML </h5>
+   <hr>
+
+   <p align ="center">
 
 
-  </h5>
+   <h5 align = "center">
 
-  <p align "center">
-
-  <hr>
-
-<h5 align = "center">
-  <div>
-   <b style="font-size: 12pt" >CRONOGRAMA.</b>  <img src="https://i.imgur.com/m2NpRYf.jpg"width="9%">
-   </div>
-   </h5>
+   <h4 align = "center"> CRONOGRAMA API </h4>
   
    <h5 align = "center"> Foram acordadas entre as partes envolvida as seguinte datas para entrega das Sprints </h5>
 
@@ -213,23 +227,44 @@
 
   <p align "center">
 
+   <hr>
 
-  <p align "center">
+   <p align ="center">
 
-  <hr>
-  
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
    <h5 align = "center">
-  <div>
-   <b style="font-size: 12pt" >GRÁFICO BURNDOWN</b> <img src="https://i.imgur.com/a7L4leT.png"width="10%">
-   </div>
-   </h5>
+
+
+  
+   <h4 align = "center"> GRÁFICO BURNDOWN </h4>
+
+
+  
 
   <h5 align = "center"> Trabalho da Equipe ao longo do desenvolvimento da 1° Sprint </h5>
   </h5>
 
   <p align "center">
 
-  <hr>
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+   <h5 align = "center">
+
 
 
 
