@@ -238,7 +238,7 @@
   
    <h4 align = "center"> GRÁFICO BURNDOWN </h4>
 
-
+    ![](https://i.imgur.com/YB9R9wD.png)
   
 
   <h5 align = "center"> Trabalho da Equipe ao longo do desenvolvimento da 1° Sprint </h5>
