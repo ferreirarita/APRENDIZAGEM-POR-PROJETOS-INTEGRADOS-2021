@@ -198,7 +198,7 @@
    SPRINT 1 </a> - 08/03 a 28/03/2021</h5>
 
    <h5 align = "center">
-   <a href=''>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Sprint 2'>
    SPRINT 2 </a> - 29/03 a 18/04/2021</h5>
 
    <h5 align = "center">
