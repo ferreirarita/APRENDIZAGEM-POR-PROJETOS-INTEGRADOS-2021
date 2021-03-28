@@ -3,7 +3,7 @@
 
    <h3 align="center">  BACKLOG SPRINT 1 </h3>
 
-   <h3 align = "center">  <img src="https://i.imgur.com/yFWS0Wa.jpg"   alt="drawing" width =500 </h3>
+   <h3 align = "center">  <img src="https://i.imgur.com/yFWS0Wa.jpg"   alt="drawing" width =700 </h3>
 
   
 
@@ -29,7 +29,9 @@
 
    <h2 align = "center"> DEMOSTRAÇÃO PROTÓTIPO FIGMA </h2>
 
-   ![alt text](https://i.imgur.com/Sq6goG9.gif)
+   <h3 align = "center">  <img src="https://i.imgur.com/Sq6goG9.gif"   alt="drawing" width =700 </h3>
+
+  
 
    <p align "center">
 
