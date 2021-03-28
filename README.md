@@ -259,6 +259,29 @@
 
    <h5 align = "center">
 
+   <h5 align = "center"> BACKLOG TOTAL </h5>
+     </h5>
+     <h5 align = "center"> Atendendo as solicitações do cliente e acordo efetuado entre as partes envolvidas estabelecemos que apresentariamos o desenvolvimento do projeto por etapas.
+     Segue abaixo uma visualização total das atividades por partes </h5>
+    
+     ![](https://i.imgur.com/9wg5MmD.png)
+
+  <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+   <h5 align = "center">
+
+
 
 
 
