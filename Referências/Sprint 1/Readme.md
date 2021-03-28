@@ -1,11 +1,11 @@
   <h1 align="center">  Sprint 1 </h1>
 
-   <h6 align="center"> Ao compreender o funcionamento da DashBoard começamos a trabalhar na etapa de modelagem e normalização dos dados.
+   <h3 align="center"> Ao compreender o funcionamento da DashBoard começamos a trabalhar na etapa de modelagem e normalização dos dados.
     Abaixo segue os modelos de ideias para a solução e implementação do projeto. 
-         </h6>
+         </h3>
 
 
-   <h6 align = "center"> DEMOSTRAÇÃO PROTÓTIPO FIGMA </h6>
+   <h3 align = "center"> DEMOSTRAÇÃO PROTÓTIPO FIGMA </h3>
 
    ![alt text](https://i.imgur.com/Sq6goG9.gif)
 
