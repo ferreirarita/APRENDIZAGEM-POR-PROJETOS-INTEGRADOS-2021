@@ -243,6 +243,11 @@
 
 
    <h5 align = "center">
+    <h4 align = "center"> SPRINT CARD </h4>
+
+   <h4 align = "center"> REPRESENTAÇÃO DAS SPRINTS POR ETAPAS </h4>
+
+   <h3 align = "center">  <img src="https://i.imgur.com/PopXKnd.png"   alt="drawing" width =500 </h3>
 
      
    
