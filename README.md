@@ -160,7 +160,7 @@
    
    <h5 align = "center">
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/CasodeUso'>
-   <li>MODELO DE CASO</li> </a> </h5>
+   <li>MODELO DE CASO DE USO</li> </a> </h5>
  
    <p align "center">
 
