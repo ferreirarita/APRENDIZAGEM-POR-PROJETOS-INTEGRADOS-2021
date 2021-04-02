@@ -224,7 +224,7 @@
    <h5 align = "center"> Trabalho da Equipe ao longo do desenvolvimento da 1° Sprint </h5>
   </h5>
     
-  ![](https://i.imgur.com/KuOKCLQ.png)
+  ![](https://i.imgur.com/6eC7E0e.png)
   <p align "center">
 
    <hr>
