@@ -30,7 +30,7 @@
 5|Luiz Gustavo|[acesso](https://github.com/UkitakeKazui)|[acesso](https://www.linkedin.com/in/gustavo-vieira-699729207/)|Dev Team
 6|Luiz Camargo|[acesso](https://github.com/Felipe221070)|[acesso](https://www.linkedin.com/in/felipe-programador)|Dev Team
 7|André Silva|[acesso](https://github.com/AndreSilva358)|[acesso](https://www.linkedin.com/in/andr%C3%A9-silva-63a4621ba/)|Dev Team
-8|João da Silva|[acesso](r)|[acesso]()|Dev Team
+8|João da Silva|[acesso](https://github.com/Joaoevr)|[acesso]()|Dev Team
 
 
 
