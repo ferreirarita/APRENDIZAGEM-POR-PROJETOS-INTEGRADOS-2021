@@ -1,0 +1,16 @@
+.card-login {
+  max-width: 30% !important;
+  padding: 30px;
+}
+
+.container-login {
+  padding: 0 !important;
+}
+
+@media (max-width: 1440px) {
+  .card-login {
+    margin: 20px;
+    max-width: 100% !important;
+    padding: 30px;
+  }
+}
