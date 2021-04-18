@@ -79,7 +79,7 @@
 
   <h4 align = "center"> SOLUÇÃO PARA IMPLEMENTAR PROJETO GSW </h4>
  
-<h5 align = "center"> Será desenvolvida uma aplicação web para solucionar os problemas causados por dados de fontes diferentes. A aplicação irá consumir um serviço com uma base de dados unificada e com o potencial de fornecer soluções mais específicas para a necessidade da GSW Soluções Integradas.</h5>
+<h5 align = "center"> SERÁ DESENVOLVIDA UMA APLICAÇÃO WEB PARA SOLUCIONAR OS PROBLEMAS CAUSADOS POR DADOS DE FONTES DIFERENTES. A APLICAÇÃO IRÁ CONSUMIR UM SERVIÇO COM UMA BASE DE DADOS UNIFICADA E COM O  POTENCIAL DE FORNECER SOLUÇÕES MAIS ESPECIFICAS PARA A NECESSIDADE DA GSW SOLUÇÕES INTEGRADAS.</h5>
 
    <hr>
 
@@ -183,7 +183,7 @@
 
    <h4 align = "center"> CRONOGRAMA API </h4>
   
-   <h5 align = "center"> Foram acordadas entre as partes envolvida as seguinte datas para entrega das Sprints </h5>
+   <h5 align = "center"> FORAM ACORDADAS ENTRE AS PARTES ENVOLVIDAS AS SEGUINTES DATAS PARA ENTREGA DAS SPRINTS </h5>
 
 
    <h5 align = "center">
