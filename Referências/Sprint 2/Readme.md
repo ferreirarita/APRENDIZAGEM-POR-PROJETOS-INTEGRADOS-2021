@@ -20,7 +20,7 @@
    <h5 align = "center">
 
 
-   <h4 align = "center"> GRÁFICO BURNDOWN </h4>
+   <h3 align = "center"> GRÁFICO BURNDOWN </h3>
    <h3 align = "center"> TRABALHO DA EQUIPE AO LONGO DO DESENVOLVIMENTO DA 2° SPRINT 2 </h3>
   </h5>
     
