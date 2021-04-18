@@ -2,7 +2,7 @@
 
  <h3 align="center"> CONFORME DATAS ESTIPULADAS NO CRONOGRAMA SEGUE ABAIXO CONTEÚDO PARA PROXIMAS ENTREGAS   </h3>
 
-   ![](https://i.imgur.com/rI4hI7E.jpg)
+   ![](https://user-images.githubusercontent.com/73767256/115162456-f8c3ca80-a079-11eb-9fee-d498513d8f33.jpeg)
 
    <p align "center">
 
