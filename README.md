@@ -211,7 +211,7 @@
    APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
 
    <h5 align = "center">
-   <a href=''>
+   
    FEIRA DE SOLUÇÕES</a> - 14/06a 18/06/2021</h5>
 
   </h5>
