@@ -51,5 +51,41 @@
    <h3 align = "center">  <img src="https://user-images.githubusercontent.com/73767256/112738788-f53e9700-8f44-11eb-88e2-5b706c95904f.gif"   alt="drawing" width =700 </h3>
 
 
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+   <h5 align = "center">
+
+
+
+
+
+   <h4 align = "center"> GRÁFICO BURNDOWN </h4>
+   <h5 align = "center"> TRABALHO DA EQUIPE AO LONGO DO DESENVOLVIMENTO DA 1° SPRINT 1 </h5>
+  </h5>
+    
+   ![](https://i.imgur.com/w0K761e.png)
+   <p align "center">
+
+   
+
+
+
+   
+   
+   
+
+
+
   
 
