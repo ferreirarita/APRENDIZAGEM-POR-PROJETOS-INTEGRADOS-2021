@@ -180,8 +180,6 @@
    <h5 align = "center">
 
 
-<
-
 <h4 align = "center"> BACKLOG DAS SPRINTS </h4>
 
    ![](https://user-images.githubusercontent.com/73767256/115163400-50186980-a07f-11eb-9878-e4ca01bbbdfd.jpeg)
