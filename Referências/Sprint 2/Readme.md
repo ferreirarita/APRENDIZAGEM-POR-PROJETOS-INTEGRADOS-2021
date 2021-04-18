@@ -20,4 +20,23 @@
    <h5 align = "center">
 
 
+   <h4 align = "center"> GRÁFICO BURNDOWN </h4>
+   <h5 align = "center"> Trabalho da Equipe ao longo do desenvolvimento da 2° Sprint </h5>
+  </h5>
+    
+  ![]()
+  <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+   <p align "center">
+
+   <hr>
+
+   <p align ="center">
+
+
+
    
