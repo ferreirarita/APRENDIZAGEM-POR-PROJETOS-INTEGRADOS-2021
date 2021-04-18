@@ -225,7 +225,7 @@
    <p align "center">
    
    <h4 align = "center"> GRÁFICO BURNDOWN </h4>
-   <h5 align = "center"> Trabalho da Equipe ao longo do desenvolvimento da 1° Sprint </h5>
+   <h5 align = "center"> TRABALHO DA EQUIPE AO LONGO DO DESENVOLVIMENTO DA 1° SPRINT 1 </h5>
   </h5>
     
   ![](https://i.imgur.com/w0K761e.png)
