@@ -99,13 +99,8 @@
 
 
 <h4 align = "center"> PRODUCT BACKLOG </h4>
-<<<<<<< HEAD
 
-   ![](https://i.imgur.com/cCFNr6x.jpg)
-=======
-     
    ![](https://user-images.githubusercontent.com/73767256/115160950-45ef6e80-a071-11eb-96a5-7a96b4705780.jpeg)
->>>>>>> e0cdd8e14e0d3bd16c730d5b668ac80b506fde55
 
 
    <p align "center">
@@ -226,20 +221,7 @@
    <p align ="center">
 
    <p align "center">
-<<<<<<< HEAD
 
-   <h4 align = "center"> GRÁFICO BURNDOWN </h4>
-   <h5 align = "center"> TRABALHO DA EQUIPE AO LONGO DO DESENVOLVIMENTO DA 1° SPRINT 1 </h5>
-  </h5>
-
-  ![](https://i.imgur.com/w0K761e.png)
-  <p align "center">
-
-=======
-   
-   
->>>>>>> e0cdd8e14e0d3bd16c730d5b668ac80b506fde55
-   <hr>
 
    <p align ="center">
 
