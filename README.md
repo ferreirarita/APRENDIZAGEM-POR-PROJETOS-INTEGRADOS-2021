@@ -100,7 +100,7 @@
 
 <h4 align = "center"> PRODUCT BACKLOG </h4>
 
-   ![](https://user-images.githubusercontent.com/73767256/115160950-45ef6e80-a071-11eb-96a5-7a96b4705780.jpeg)
+   ![](https://user-images.githubusercontent.com/73767256/115166210-5101c900-a088-11eb-9064-126610d986e2.jpeg)
 
 
    <p align "center">
