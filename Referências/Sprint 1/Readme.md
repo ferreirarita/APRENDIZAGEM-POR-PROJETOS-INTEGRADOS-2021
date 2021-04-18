@@ -70,8 +70,8 @@
 
 
 
-   <h4 align = "center"> GRÁFICO BURNDOWN </h4>
-   <h5 align = "center"> TRABALHO DA EQUIPE AO LONGO DO DESENVOLVIMENTO DA 1° SPRINT 1 </h5>
+   <h2 align = "center"> GRÁFICO BURNDOWN </h2>
+   <h3 align = "center"> TRABALHO DA EQUIPE AO LONGO DO DESENVOLVIMENTO DA 1° SPRINT 1 </h3>
   </h5>
     
    ![](https://i.imgur.com/w0K761e.png)
