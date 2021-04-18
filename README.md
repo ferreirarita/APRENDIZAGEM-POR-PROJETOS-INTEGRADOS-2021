@@ -10,12 +10,12 @@
   Proporcionaram aos alunos do curso de ADS 2ºSemestre a oportunidade de trabalhar com Base em uma Empresa Real. Como cliente a Empresa GSW, nos apresentou dificuldades encontradas em seu sistema de gerenciamento de software.
   Para que assim pudéssemos encontra soluções alternativas para implementa-lá através da metodologia SCRUM.
   </h5>
-  
+
    <p align ="center">
 
   <h4 align = "center"> DISCIPLINAS INTEGRADAS </h4>
-   
-   
+
+
    <h4>Engenharia de SoftwareI:  Prof.Juliana Forin Pasquini Martinez </h4>
     <h4> Sistema de Informação:   Prof. Claudio Etelvino de Lima</h4>
    <br>
@@ -34,7 +34,7 @@
 
 
 
- 
+
  <p align "center">
 
    <hr>
@@ -54,7 +54,7 @@
   <p align ="center">
 
   <h4 align = "center"> DESAFIO </h4>
-   
+
 <h3 align = "center">  <img src="https://i.imgur.com/dKuDMU6.png"  alt="drawing" width =150 </h3>
 
   <h5 align = "center">A GSW como consultoria, possui diversos projetos. Cada projeto utiliza um sistema diferente de gerenciamento
@@ -78,7 +78,7 @@
   <p align ="center">
 
   <h4 align = "center"> SOLUÇÃO PARA IMPLEMENTAR PROJETO GSW </h4>
- 
+
 <h5 align = "center"> SERÁ DESENVOLVIDA UMA APLICAÇÃO WEB PARA SOLUCIONAR OS PROBLEMAS CAUSADOS POR DADOS DE FONTES DIFERENTES. A APLICAÇÃO IRÁ CONSUMIR UM SERVIÇO COM UMA BASE DE DADOS UNIFICADA E COM O  POTENCIAL DE FORNECER SOLUÇÕES MAIS ESPECIFICAS PARA A NECESSIDADE DA GSW SOLUÇÕES INTEGRADAS.</h5>
 
    <hr>
@@ -99,10 +99,10 @@
 
 
 <h4 align = "center"> PRODUCT BACKLOG </h4>
-     
+
    ![](https://user-images.githubusercontent.com/73767256/115160950-45ef6e80-a071-11eb-96a5-7a96b4705780.jpeg)
 
-   
+
    <p align "center">
 
    <hr>
@@ -122,11 +122,9 @@
   <p align ="center">
 
 <h4 align = "center"> TECNOLOGIAS UTILIZADAS </h4>
- <h3 align = "center">  <img src="https://i.imgur.com/xjFqvy0.png"   alt="drawing" width =350 </h3>
+ <h3 align = "center">  <img src="https://www.icoldo.com/wordpress/wp-content/uploads/2018/02/js_node_js_react_logos-300x225.png"   alt="drawing" width =350 </h3>
 
-  <h5 align = "center">  JavaScript </h5>
-  <h5 align = "center">  TypeScript - Node.JS </h5>
-  <h5 align = "center">  CSS - HTML </h5>
+  <h5 align = "center">  Node.js | ReactJS</h5>
 
    <p align "center">
 
@@ -145,27 +143,27 @@
 
 
   <p align ="center">
-  
+
    <h4 align = "center"> DOCUMENTAÇÃO DO SOFTWARE </h4>
- 
-    
+
+
    <h5 align = "center">
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Planejamento'>
-   <li> PLANEJAMENTO DA ENTREVISTA</li></a> </h5>  
+   <li> PLANEJAMENTO DA ENTREVISTA</li></a> </h5>
 
    <h5 align = "center">
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Ata'>
-   <li> ATA DE REUNIÃO</li></a> </h5> 
+   <li> ATA DE REUNIÃO</li></a> </h5>
 
    <h5 align = "center">
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/DocumentoVisao'>
    <li>DOCUMENTO DE VISÃO</li></a> </h5>
 
-   
+
    <h5 align = "center">
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/CasodeUso'>
    <li>MODELO DE CASO DE USO</li> </a> </h5>
- 
+
    <p align "center">
 
    <hr>
@@ -182,7 +180,7 @@
    <h5 align = "center">
 
    <h4 align = "center"> CRONOGRAMA API </h4>
-  
+
    <h5 align = "center"> FORAM ACORDADAS ENTRE AS PARTES ENVOLVIDAS AS SEGUINTES DATAS PARA ENTREGA DAS SPRINTS </h5>
 
 
@@ -207,11 +205,11 @@
    SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
 
    <h5 align = "center">
-   
+
    APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
 
    <h5 align = "center">
-   
+
    FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 
   </h5>
@@ -223,9 +221,7 @@
    <p align ="center">
 
    <p align "center">
-   
-   
-   <hr>
+
 
    <p align ="center">
 
@@ -242,22 +238,3 @@
    <h4 align = "center"> REPRESENTAÇÃO DAS SPRINTS POR ETAPAS </h4>
 
    <h3 align = "center">  <img src="https://i.imgur.com/PopXKnd.png"   alt="drawing" width =500 </h3>
-
-     
-   
-
-
-
-
-    
-
-  
-
-   
-
-
-
-
-
-
-
