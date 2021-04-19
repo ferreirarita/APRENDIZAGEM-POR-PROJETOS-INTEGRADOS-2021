@@ -22,7 +22,7 @@
 
    <h2 align = "center"> FRONTEND DA APLICAÇÃO </h2>
 
-   <h3 align = "center">  <img src="https://user-images.githubusercontent.com/73767256/115168006-eb193f80-a08f-11eb-8010-b656f67d81f0.mp4"   alt="drawing" width =700 </h3>
+   <h3 align = "center">  <img src="https://i.imgur.com/Ajn2vTi.gif"   alt="drawing" width =700 </h3>
 
 
 
@@ -40,7 +40,7 @@
    <h3 align = "center">  <img src="https://user-images.githubusercontent.com/73767256/115169587-d8553980-a094-11eb-94ff-768b2ce14628.jpeg)"   alt="drawing" width =700 </h3>
 
 
-   
+
 
 
 
@@ -58,7 +58,7 @@
    <h3 align = "center"> GRÁFICO BURNDOWN </h3>
    <h3 align = "center"> TRABALHO DA EQUIPE AO LONGO DO DESENVOLVIMENTO DA 2° SPRINT 2 </h3>
   </h5>
-    
+
   ![](https://user-images.githubusercontent.com/73767256/115142645-4f4cec80-a019-11eb-9752-e58285614ea1.png)
   <p align "center">
 
@@ -71,7 +71,3 @@
    <hr>
 
    <p align ="center">
-
-
-
-   
