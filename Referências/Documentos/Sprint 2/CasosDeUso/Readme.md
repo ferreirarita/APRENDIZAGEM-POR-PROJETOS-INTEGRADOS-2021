@@ -9,9 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/iOrYNmW.png" />
-</p>
-
-<p align="center">
   <img src="https://i.imgur.com/5eDx7wL.png" />
 </p>
