@@ -22,7 +22,7 @@
 
    <h2 align = "center"> FRONTEND DA APLICAÇÃO </h2>
 
-   <h3 align = "center">  <img src="https://i.imgur.com/1JjOwRu.mp4"   alt="drawing" width =700 </h3>
+   <h3 align = "center">  <img src="https://user-images.githubusercontent.com/73767256/115168006-eb193f80-a08f-11eb-8010-b656f67d81f0.mp4"   alt="drawing" width =700 </h3>
 
 
 
