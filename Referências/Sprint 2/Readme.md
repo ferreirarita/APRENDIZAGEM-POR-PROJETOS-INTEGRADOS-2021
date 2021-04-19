@@ -38,8 +38,15 @@
    <h3 align = "center">  <img src="https://i.imgur.com/WZYwoz5.jpg"   alt="drawing" width =700 </h3>
 
 
+    
+<h5 align = "center">
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/DocumentoVisao'>
+   <li> DOCUMENTO DE VISÃO </li></a> </h5>
 
 
+   <h5 align = "center">
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/CasodeUso'>
+   <li>MODELO DE CASO DE USO </li> </a> </h5>
 
 
 
