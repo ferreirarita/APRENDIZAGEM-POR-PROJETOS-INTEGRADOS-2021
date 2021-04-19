@@ -20,14 +20,15 @@
    <h5 align = "center">
 
 
-<h3 align = "center"> FRONTEND DA APLICAÇÃO</h3>
-   <h3 align = "center">  </h3>
-  </h5>
-    
-  ![](https://i.imgur.com/wLlK83I.mp4)
-  <p align "center">
+   <h2 align = "center"> FRONTEND DA APLICAÇÃO </h2>
 
-   <hr>
+   <h3 align = "center">  <img src="https://i.imgur.com/wLlK83I.mp4"   alt="drawing" width =700 </h3>
+
+
+
+
+
+
 
    <p align ="center">
 
