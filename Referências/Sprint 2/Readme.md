@@ -25,8 +25,6 @@
    <h3 align = "center">  <img src="https://i.imgur.com/Ajn2vTi.gif"   alt="drawing" width =700 </h3>
 
 
-
-
    <p align ="center">
 
    <p align "center">
@@ -37,7 +35,7 @@
 
    <h3 align="center"> MODELO DIAGRAMA DE CASO DE USO SPRINT 2 </h3>
 
-   <h3 align = "center">  <img src="https://user-images.githubusercontent.com/73767256/115169587-d8553980-a094-11eb-94ff-768b2ce14628.jpeg)"   alt="drawing" width =700 </h3>
+   <h3 align = "center">  <img src="https://i.imgur.com/WZYwoz5.jpg"   alt="drawing" width =700 </h3>
 
 
 
