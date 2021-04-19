@@ -79,7 +79,7 @@
 
   <h4 align = "center"> SOLUÇÃO PARA IMPLEMENTAR PROJETO GSW </h4>
 
-<h5 align = "center"> SERÁ DESENVOLVIDA UMA APLICAÇÃO WEB PARA SOLUCIONAR OS PROBLEMAS CAUSADOS POR DADOS DE FONTES DIFERENTES. A APLICAÇÃO IRÁ CONSUMIR UM SERVIÇO COM UMA BASE DE DADOS UNIFICADA E COM O  POTENCIAL DE FORNECER SOLUÇÕES MAIS ESPECIFICAS PARA A NECESSIDADE DA GSW SOLUÇÕES INTEGRADAS.</h5>
+<h5 align = "center"> Será desenvolvida uma Aplicação web para solucionar os problemas causados por dados de fontes Diferentes. A Aplicação irá Consumir um serviço com um base de dados unificada e com o potencial de fornecer soluções mais especificas para a necessidade da GSW Soluções Integradas.</h5>
 
    <hr>
 
