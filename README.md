@@ -182,7 +182,7 @@
 
 <h4 align = "center"> BACKLOG DAS SPRINTS </h4>
 
-   ![](https://user-images.githubusercontent.com/73767256/115163400-50186980-a07f-11eb-9878-e4ca01bbbdfd.jpeg)
+   ![](https://user-images.githubusercontent.com/73767256/115166281-bfdf2200-a088-11eb-99da-7499a529db65.jpeg)
 
    <p align "center">
 
