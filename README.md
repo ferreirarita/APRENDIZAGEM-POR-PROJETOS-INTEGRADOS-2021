@@ -105,23 +105,23 @@ Aplicação que possibilita o processamento, a renderização e a execução de 
 Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das sprints.
 
 <h5 >
-   <a href=''>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Kickoff'>
    KICK OFF DO PROJETO </a> - 28/02/2021 a 06/03/2021 ✔</h5>
 
    <h5 >
-   <a href=''>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%201'>
    SPRINT 1 </a> - 08/03 a 28/03/2021 ✔</h5>
 
    <h5 >
-   <a href=''>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%202'>
    SPRINT 2 </a> - 29/03 a 18/04/2021 ✔</h5>
 
    <h5 >
-   <a href=''>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%203'>
    SPRINT 3 </a> - 26/04 a 16/05/2021</h5>
 
    <h5 >
-   <a href=''>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%204'>
    SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
 
    <h5 >
