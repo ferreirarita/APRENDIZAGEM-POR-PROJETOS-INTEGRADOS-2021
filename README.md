@@ -140,7 +140,7 @@ FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 
 Nº|Nome|GitHub|Linkedln|Função
 ---|---|---|---|---|
-<img style="border-radius: 0.1px; width: 0.1px; height: 0.1px;" src="https://i.imgur.com/kEh4Dqy.png">|Rita Ferreira|[acesso](https://github.com/ferreirarita)|[acesso](https://www.linkedin.com/in/rita-ferreira-894ba1200)|Scrum Master
+<img style="border-radius: 1px; width: px; height: px;" src="https://i.imgur.com/kEh4Dqy.png">|Rita Ferreira|[acesso](https://github.com/ferreirarita)|[acesso](https://www.linkedin.com/in/rita-ferreira-894ba1200)|Scrum Master
 2|Sarah Silva|[acesso](https://github.com/Sarah6197)|[acesso](https://www.linkedin.com/in/sarah-fernandes-494000196/)|Product Owner
 3|Jonathan Assis|[acesso](https://github.com/Jonathan-Assis)|[acesso](https://www.linkedin.com/in/jonathan-gabriel-/)|Dev Team
 4|Matheus Costa|[acesso](https://www.github.com/MatheusCoxxxta)|[acesso](https://www.linkedin.com/in/matheus-costa-500695187)|Dev Team
