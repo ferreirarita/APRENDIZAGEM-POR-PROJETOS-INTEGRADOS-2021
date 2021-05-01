@@ -143,11 +143,13 @@ Nº|Nome|GitHub|Linkedln|Função
 <img style="border-radius: 1px; width: px; height: px;" src="https://i.imgur.com/kEh4Dqy.png">|Rita Ferreira|[acesso](https://github.com/ferreirarita)|[acesso](https://www.linkedin.com/in/rita-ferreira-894ba1200)|Scrum Master
 2|Sarah Silva|[acesso](https://github.com/Sarah6197)|[acesso](https://www.linkedin.com/in/sarah-fernandes-494000196/)|Product Owner
 3|Jonathan Assis|[acesso](https://github.com/Jonathan-Assis)|[acesso](https://www.linkedin.com/in/jonathan-gabriel-/)|Dev Team
-4|Matheus Costa|[acesso](https://www.github.com/MatheusCoxxxta)|[acesso](https://www.linkedin.com/in/matheus-costa-500695187)|Dev Team
+<img style="border-radius: 1px; width: px; height: px;" src="https://i.imgur.com/OoDTvzZ.png">|Matheus Costa|[acesso](https://www.github.com/MatheusCoxxxta)|[acesso](https://www.linkedin.com/in/matheus-costa-500695187)|Dev Team
 5|Luiz Gustavo|[acesso](https://github.com/UkitakeKazui)|[acesso](https://www.linkedin.com/in/gustavo-vieira-699729207/)|Dev Team
 6|Luiz Camargo|[acesso](https://github.com/Felipe221070)|[acesso](https://www.linkedin.com/in/felipe-programador)|Dev Team
 7|André Silva|[acesso](https://github.com/AndreSilva358)|[acesso](https://www.linkedin.com/in/andr%C3%A9-silva-63a4621ba/)|Dev Team
 8|João da Silva|[acesso](https://github.com/Joaoevr)|[acesso](https://www.linkedin.com/in/joão-vitor-silva-261a471b9/)|Dev Team
+
+
 
 
 
