@@ -140,7 +140,7 @@ FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 
 Nº|Nome|GitHub|Linkedln|Função
 ---|---|---|---|---|
-<img style="border-radius: 50px; width: 5px; height: 25px;" src="https://user-images.githubusercontent.com/73767256/115166210-5101c900-a088-11eb-9064-126610d986e2.jpeg">|Rita Ferreira|[acesso](https://github.com/ferreirarita)|[acesso](https://www.linkedin.com/in/rita-ferreira-894ba1200)|Scrum Master
+<img style="border-radius: 50px; width: 5px; height: 5px;" src="https://user-images.githubusercontent.com/73767256/115166210-5101c900-a088-11eb-9064-126610d986e2.jpeg">|Rita Ferreira|[acesso](https://github.com/ferreirarita)|[acesso](https://www.linkedin.com/in/rita-ferreira-894ba1200)|Scrum Master
 <img style="border-radius: 50px; width: 25px; height: 25px;" src="https://user-images.githubusercontent.com/73767256/115166210-5101c900-a088-11eb-9064-126610d986e2.jpeg">|Sarah Silva|[acesso](https://github.com/Sarah6197)|[acesso](https://www.linkedin.com/in/sarah-fernandes-494000196/)|Product Owner
 3|Jonathan Assis|[acesso](https://github.com/Jonathan-Assis)|[acesso](https://www.linkedin.com/in/jonathan-gabriel-/)|Dev Team
 4|Matheus Costa|[acesso](https://www.github.com/MatheusCoxxxta)|[acesso](https://www.linkedin.com/in/matheus-costa-500695187)|Dev Team
