@@ -33,7 +33,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
   <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Backlogtotal'>
-   <li> BACKLOG SPRINT</li></a> </h5>
+   <li> PRODUCT BACKLOG</li></a> </h5>
     
 
  
