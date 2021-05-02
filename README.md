@@ -62,21 +62,17 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
    <li>BACKLOG SPRINT 1</li> </a> </h5>
    <br/>
 
-
   ## Sprint 2
 
-  
    <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Documentos/Sprint%202/DocumentoVisao'>
    <li>DOCUMENTO DE VISÃO</li></a> </h5>
-
 
    <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Sprint%202/CasosDeUso'>
 
    <li>MODELO DE CASO DE USO</li> </a> </h5>
-   <br/>
-
+   
    <h5 >
    <a href=''>
 
@@ -85,22 +81,18 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
   ## Sprint 3
 
-     <h5 >
+   <h5 >
    <a href=''>
 
    <li>BACKLOG SPRINT 3</li> </a> </h5>
+
    <br/>
-
-
-  <br/>
-
   ## Sprint 4
 
   <h5 >
-   <a href=''>
+  <a href=''>
 
-   <li>BACKLOG SPRINT 4</li> </a> </h5>
-   <br/>
+  <li>BACKLOG SPRINT 4</li> </a> </h5>
 
   <br/>
 
