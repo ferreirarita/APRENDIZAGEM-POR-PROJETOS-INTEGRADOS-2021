@@ -3,8 +3,7 @@
    <h3 align="center"> Ao compreender o funcionamento da DashBoard começamos a trabalhar na etapa de modelagem e normalização dos dados.
     Abaixo segue os modelos de ideias para a solução e implementação do projeto. 
    </h3>
-
-   
+  
   
 
    <p align "center">
@@ -62,9 +61,6 @@
 
 
    <h5 align = "center">
-
-
-
 
 
    <h2 align = "center"> GRÁFICO BURNDOWN </h2>
