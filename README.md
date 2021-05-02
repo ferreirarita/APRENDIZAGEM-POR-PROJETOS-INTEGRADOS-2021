@@ -19,16 +19,19 @@
 
 # Introdução <a name = "Introdução"></a>
 
-## Visão Geral
-O Projeto DASH W tem por objetivo unificar dados de fontes diferentes em uma única base de dados.
-Criamos um Painel de Controle para manipular as informações na tela, criamos quatro botões que executam as funções basicas que geralmente de manipulam as informações tela .
+## Visão Geral 🔎
+Objetivo desenvolvimento de uma aplicação Web para solucionar problemas causados por dados de fontes diferentes.
+<br/>
+Faremos a unificação dos dados em uma única base de dados.
+<br/>
+Para apresentação das informações será criado um painel de controle, neste painel será possível visualizar graficamente as  informações referentes aos projetos, contudo será permitido a criação, exibição e atualização dos registros existente no banco de dados da aplicação.
+
 <br/>
 <br/>
 
-## Disciplinas
+## Disciplinas Integradas 🎓
 
-### Engenharia de Software / Sistema de Informação 🎓.
-
+### Engenharia de Software / Sistema de Informação.
 
 Projeto desenvolvidos por alunos do segundo semestre do curso de Analise e desenvolvimento
 
@@ -36,7 +39,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
 <br/>
 
-# Documentacao do Sistema <a name = "Documentacao"></a>
+# Documentacao do Sistema 📂 <a name = "Documentacao"></a>
 
   <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Backlogtotal'>
