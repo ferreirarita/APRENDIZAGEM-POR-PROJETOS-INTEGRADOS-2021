@@ -141,11 +141,11 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
    SPRINT 2 </a> - 29/03 a 18/04/2021 ✔</h5>
 
    <h5 >
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%203'>
-   SPRINT 3 </a> - 26/04 a 16/05/2021</h5>
+   
+   SPRINT 3 </a> - 26/04 a 16/05/2021 - Desenvolvimento</h5>
 
    <h5 >
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%204'>
+   
    SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
 
    <h5 >
