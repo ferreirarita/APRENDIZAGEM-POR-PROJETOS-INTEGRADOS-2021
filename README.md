@@ -6,6 +6,25 @@
 <h3 align = "center">  <img src="https://i.imgur.com/dKuDMU6.png"  alt="drawing" width =150 </h3></p>
 
 
+<h2 align = "center">  API APRENDIZAGEM POR PROJETOS INTEGRADOS </h2>
+
+<h3 align = "center">  <img src="https://i.imgur.com/0gyPTv7.png"   alt="drawing" width=700 </h3>
+
+  <h2 align = "center"> EQUIPE EVO - EVOLUÇÃO </h2>
+
+ <h3 align = "
+
+
+
+
+
+
+
+
+
+
+
+
 <br/>
 
 - [Introdução](#Introdução)
