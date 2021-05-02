@@ -22,22 +22,4 @@
 
   <p align "center">
 
-   <hr>
-
-   <p align ="center">
-
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-  <h2 align = "center"> Documentos </h3>
-
-  <h5 align = "center">
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Sprint%202/DocumentoVisao'>
-   <li> DOCUMENTO DE VISÃO </li></a> </h5>
-
-   <h5 align = "center">
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Sprint%202/CasosDeUso'>
-   <li>MODELO DE CASO DE USO </li> </a> </h5>
+   
