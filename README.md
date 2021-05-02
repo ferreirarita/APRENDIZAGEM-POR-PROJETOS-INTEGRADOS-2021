@@ -1,6 +1,6 @@
 <h1 align="center">Projeto </h1
 
-<h3 align = "center">  <img src="https://i.imgur.com/QTkLtOG.png"   alt="drawing" width=200 </h3>
+<h3 align = "center"> <img src="https://i.imgur.com/QTkLtOG.png" alt="drawing" width=150 </h3>
 
 
 
