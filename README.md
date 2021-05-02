@@ -1,4 +1,15 @@
-<h1 align="center">Projeto - DASH W </h1
+<h1 align="center">Projeto </h1
+
+<h3 align = "center">  <img src="https://i.imgur.com/0gyPTv7.png"   alt="drawing" width=700 </h3>
+
+
+
+
+
+
+
+
+
 
 - [Introdução](#Introdução)
 - [Documentação do Sistema](#Documentacao)
