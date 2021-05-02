@@ -3,9 +3,8 @@
 <p align ="center">
 
 
-<h3 align = "center">  <img src="https://i.imgur.com/dKuDMU6.png"  alt="drawing" width =150 </h3>
+<h3 align = "center">  <img src="https://i.imgur.com/dKuDMU6.png"  alt="drawing" width =150 </h3></p>
 
-</p>
 
 <br/>
 
