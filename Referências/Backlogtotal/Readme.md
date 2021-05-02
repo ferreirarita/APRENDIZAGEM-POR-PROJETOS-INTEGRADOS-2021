@@ -1,7 +1,9 @@
 <h3 align="center"> PRODUCT BACKLOG  </h3>
 
    
-  Para termos uma visão mais clara de como iriamos iniciar o projeto, desenvolvemos uma lista de todas as tarefas relacionadas ao produto.
+  Para termos uma visão mais clara de como iriamos iniciar o projeto, desenvolvemos
+  <br/>
+  uma lista de todas as tarefas relacionadas ao produto.
   <br/>
   O Product Backlog faz parte da estrutura de desenvolvimento Scrum. 
   <br/>
