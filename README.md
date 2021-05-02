@@ -1,5 +1,5 @@
 
-<h2 align = "center">   APRENDIZAGEM POR PROJETO INTEGRADO </h2>
+<h2 align = "center">   APRENDIZAGEM POR PROJETOS INTEGRADOS </h2>
 
  <h3 align = "center">  <img src="https://i.imgur.com/dKuDMU6.png"   alt="drawing"   width=150 </h3>
 
