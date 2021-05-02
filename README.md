@@ -56,11 +56,9 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/CasodeUso'>
 
    <li>MODELO DE CASO DE USO</li> </a> </h5>
-   <br/>
-
+   
    <h5 >
    <a href=''>
-
    <li>BACKLOG SPRINT 1</li> </a> </h5>
    <br/>
 
