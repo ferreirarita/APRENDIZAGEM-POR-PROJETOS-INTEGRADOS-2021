@@ -1,4 +1,4 @@
-h1 align="center">  Sprint 1 </h1>
+   <h1 align="center">  Sprint 1 </h1>
   
    <h3 align="center"> Ao compreender o funcionamento da DashBoard começamos a trabalhar na etapa de modelagem e normalização dos dados.
     Abaixo segue os modelos de ideias para a solução e implementação do projeto. 
