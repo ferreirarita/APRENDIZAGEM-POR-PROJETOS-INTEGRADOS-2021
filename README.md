@@ -1,20 +1,9 @@
  <h1 align="center">Projeto </h1
 
 
- <h3 align = "center"> <img src="https://i.imgur.com/QTkLtOG.png" alt="drawing" width=150 </h3>
-
-
-<p align ="center">
-
-  <h4 align = "center"> DESAFIO </h4>
-
 <h3 align = "center">  <img src="https://i.imgur.com/dKuDMU6.png"  alt="drawing" width =150 </h3>
 
-
-
-
-
-
+<br/>
 
 - [Introdução](#Introdução)
 - [Documentação do Sistema](#Documentacao)
