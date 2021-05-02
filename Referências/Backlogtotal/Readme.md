@@ -1,4 +1,4 @@
-  <h3 align="center"> PRODUCT BACKLOG  </h3>
+  <h3 align="center"> PRODUCT BACKLOG 📋 </h3>
 
   Para termos uma visão mais clara de como iriamos iniciar o projeto, desenvolvemos uma lista
   de todas as tarefas relacionadas ao produto.
