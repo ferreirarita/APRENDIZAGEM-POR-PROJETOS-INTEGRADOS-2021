@@ -27,7 +27,6 @@ Faremos a unificação dos dados em uma única base de dados.
 Para apresentação das informações será criado um painel de controle, neste painel será possível visualizar graficamente as  informações referentes aos projetos, contudo será permitido a criação, exibição e atualização dos registros existente no banco de dados da aplicação.
 
 <br/>
-<br/>
 
 ## Disciplinas Integradas 🎓
 
