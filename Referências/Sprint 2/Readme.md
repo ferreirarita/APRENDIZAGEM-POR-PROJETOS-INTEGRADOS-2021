@@ -1,6 +1,7 @@
 # Sprint 2
 
 <br />
+
 ## FRONTEND DA APLICAÇÃO
 
 <img src="https://i.imgur.com/Ajn2vTi.gif"   alt="drawing" width =700>
