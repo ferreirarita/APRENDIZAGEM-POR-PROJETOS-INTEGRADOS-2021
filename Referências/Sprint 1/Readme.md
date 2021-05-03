@@ -52,11 +52,24 @@
  Como analisar o gráfico Burndown, que consiste basicamente no seguinte:
 
  1.Marca se no eixo Y (Vertical) o somatório das estimativas de esforços das atividades da Sprint;
+
+ <br/>
+
 2.Marca -se no eixo X(Horizontal) o total o de dias de trabalho do Sprint;
-3.Traça – se uma linha reta ligando estes dois pontos.
-Ela representa a meta diária de avanço.
-4.Dia após dia, verifica – se no quadro Scrum as atividades que foram concluídas, e marca -se no gráfico Burndown a quantidade de esforço restante até o fim do Sprint;
-5.A meta é chegar a zero no final do Sprint.  
+
+ <br/>
+
+ 3.Traça – se uma linha reta ligando estes dois pontos.
+ Ela representa a meta diária de avanço.
+ <br/>
+
+4.Dia após dia, verifica – se no quadro Scrum as atividades que foram concluídas,
+
+  <br/>
+
+ e marca -se no gráfico Burndown a quantidade de esforço restante até o fim do Sprint;
+ <br/>
+ 5.A meta é chegar a zero no final do Sprint.  
 
 
    
