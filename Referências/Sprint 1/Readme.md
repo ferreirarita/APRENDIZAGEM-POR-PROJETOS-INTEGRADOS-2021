@@ -47,12 +47,19 @@
 
 
    <h2 align = "center"> GRÁFICO BURNDOWN </h2>
+
    <br/>
+
    TRABALHO DA EQUIPE EVOLUÇÃO AO LONGO DO DESENVOLVIMENTO DA SPRINT 1 
+   
    <br/>
+   
    <br/>
-   O gráfico abaixo demonstra as estimativas de esforços feitos para a atividade do SprintBacklog.<br/>
-   Onde fazemos um acompanhamento da produtividade da Equipe dia a dia.<br/>
+
+   O gráfico abaixo demonstra as estimativas de esforços feitos para a atividade do SprintBacklog.
+
+   Onde fazemos um acompanhamento da produtividade da Equipe dia a dia.
+   
    Como analisar o gráfico Burndown, que consiste basicamente no seguinte:
 
   
