@@ -6,6 +6,10 @@ class UsersController {
   async index(request: Request, response: Response) {
     const users: usuario[] = await Usuarios.query().select("*");
 
+    users.forEach((user: any) => {
+      delete user.senha;
+    });
+
     return response.send({ users });
   }
 }

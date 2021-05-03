@@ -2,48 +2,87 @@ import { Request, Response } from "express";
 import knex from "../database/connection";
 import { ExportToCsv } from "export-to-csv";
 import fs from "fs";
-import bcrypt from "bcrypt";
 import Projetos from "../models/Projetos";
+import Usuarios from "../models/Usuarios";
 
-const encryptedPassword = async (password: string) => {
-  const hash = await bcrypt.hash(password, 10);
-  return hash;
+const getDataByUserId = async (projectId: any, userId: string) => {
+  const data = await knex("tarefas")
+    .join("usuarios", "usuarios.id", "tarefas.id_usuario")
+    .select(
+      "tarefas.id",
+      "tarefas.concluido",
+      "tarefas.status",
+      "tarefas.descricao",
+      "tarefas.horas"
+    )
+
+    .where("id_projeto", projectId)
+    .where("id_usuario", userId);
+
+  const projeto = await Projetos.query()
+    .select("*")
+    .where("id", projectId)
+    .first();
+
+  const tasks = {
+    project: projeto.projetoNome,
+    tasks: data,
+  };
+
+  return tasks;
+};
+
+const getAllData = async (projectId: any) => {
+  const data = await knex("tarefas")
+    .join("usuarios", "usuarios.id", "tarefas.id_usuario")
+    .select(
+      "tarefas.id",
+      "tarefas.concluido",
+      "tarefas.status",
+      "tarefas.descricao",
+      "tarefas.horas"
+    )
+
+    .where("id_projeto", projectId);
+
+  const projeto = await Projetos.query()
+    .select("*")
+    .where("id", projectId)
+    .first();
+
+  const tasks = {
+    project: projeto.projetoNome,
+    tasks: data,
+  };
+
+  return tasks;
 };
 
 class DataController {
   async listar(request: Request, response: Response) {
     const userId = response.locals.tokenData.id;
     const projectId = request.headers.projectid || "";
+    const user = await Usuarios.query().select("*").where("id", userId).first();
 
-    if (userId && projectId) {
-      const data = await knex("tarefas")
-        .join("usuarios", "usuarios.id", "tarefas.id_usuario")
-        .select(
-          "tarefas.id",
-          "tarefas.concluido",
-          "tarefas.status",
-          "tarefas.descricao",
-          "tarefas.horas"
-        )
+    if (user.id_role === "0") {
+      if (userId && projectId) {
+        const tasks = await getDataByUserId(projectId, userId);
 
-        .where("id_projeto", projectId)
-        .where("id_usuario", userId);
-
-      const projeto = await Projetos.query()
-        .select("*")
-        .where("id", projectId)
-        .first();
-
-      const tasks = {
-        project: projeto.projetoNome,
-        tasks: data,
-      };
-
-      return response.status(200).json(tasks);
+        return response.status(200).json(tasks);
+      } else {
+        return response.status(404).json({
+          message: "Necessário informar projeto.",
+        });
+      }
     } else {
-      return response.status(404).json({
-        message: "Necessário informar projeto.",
-      });
+      if (userId && projectId) {
+        const tasks = await getAllData(projectId);
+        return response.status(200).json(tasks);
+      } else {
+        return response.status(404).json({
+          message: "Necessário informar projeto.",
+        });
+      }
     }
   }
 

@@ -5,4 +5,5 @@ export interface usuario {
   sobrenome: string;
   email: string;
   senha: string;
+  id_role: string;
 }

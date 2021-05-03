@@ -3,7 +3,6 @@ import DataController from "./controllers/DataController";
 import ProjectsController from "./controllers/ProjectsController";
 import UsersController from "./controllers/UsersController";
 import AuthController from "./controllers/AuthController";
-import ProjectDataController from "./controllers/ProjectDataController";
 import TasksController from "./controllers/TasksController";
 import auth from "./middlewares/auth";
 
@@ -11,27 +10,40 @@ const usersController = new UsersController();
 const projectsController = new ProjectsController();
 const dataController = new DataController();
 const authController = new AuthController();
-const projectDataController = new ProjectDataController();
 const tasksController = new TasksController();
 
 const routes = express.Router();
 
+/**
+ * ROOT
+ */
 routes.get("/", (request, response) => {
   response.send({ message: "Server online" });
 });
 
-routes.get("/listar", auth, dataController.listar);
-routes.get("/exportData", auth, dataController.exportData);
-
+/**
+ * PROJETO
+ */
 routes.get("/projects/:id", auth, projectsController.show);
 routes.get("/projects", auth, projectsController.list);
+routes.get("/exportData", auth, dataController.exportData);
 
+/**
+ * USER
+ */
 routes.get("/users", auth, usersController.index);
 
+/**
+ * AUTH
+ */
 routes.post("/login", authController.signIn);
 
-routes.post("/seed/projects", projectDataController.storeProject);
-routes.post("/seed/users", projectDataController.storeUsers);
-routes.post("/seed/task", tasksController.storeTasks);
+/**
+ * TAREFAS
+ */
+routes.get("/listar", auth, dataController.listar);
+routes.get("/task/:id", auth, tasksController.read);
+routes.put("/task/:id", auth, tasksController.update);
+routes.delete("/task/:id", auth, tasksController.delete);
 
 export default routes;

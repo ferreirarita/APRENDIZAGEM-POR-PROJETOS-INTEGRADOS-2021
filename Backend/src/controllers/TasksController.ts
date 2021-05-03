@@ -1,78 +1,39 @@
 import { Request, Response } from "express";
-import Projetos from "../models/Projetos";
-import Jira from "../../mocks/data/jira";
-import Trello from "../../mocks/data/trello";
-import { projeto } from "../types/Projeto";
-import { tarefa } from "../types/Tarefas";
 import Tarefas from "../models/Tarefas";
 
 class TasksController {
-  async storeTasks(request: Request, response: Response) {
-    const projetos = await Projetos.query().select("*");
+  async create(request: Request, response: Response) {}
 
-    let tasks: tarefa[] = [];
+  async read(request: Request, response: Response) {
+    const { id } = request.params;
+    const task = await Tarefas.query().select("*").where("id", id).first();
 
-    Jira.forEach((task) => {
-      let completeTask: tarefa = {
-        id: "",
-        status: "",
-        horas: "",
-        id_usuario: "",
-        dataInicio: "",
-        id_projeto: "",
-        concluido: false,
-        descricao: "",
-      };
+    return response.status(200).json(task);
+  }
 
-      projetos.forEach((project) => {
-        task.project === project.projetoNome
-          ? ((completeTask.id_usuario = task.user.id),
-            (completeTask.id = task.id),
-            (completeTask.concluido = task.finished),
-            (completeTask.id_projeto = project.id),
-            (completeTask.descricao = task.cardDescription),
-            (completeTask.status = task.status),
-            (completeTask.dataInicio = task.startedAt),
-            (completeTask.horas = task.amountHours || 0))
-          : null;
-      });
+  async update(request: Request, response: Response) {
+    const { status } = request.body;
+    const { id } = request.params;
 
-      tasks = [...tasks, completeTask];
+    await Tarefas.query().where("id", id).update({ status });
+    const task = await Tarefas.query()
+      .select("status", "descricao")
+      .where("id", id)
+      .first();
+
+    return response.status(200).json({
+      message: "Atualizado com sucesso",
+      task,
     });
+  }
 
-    Trello.forEach((task) => {
-      let completeTask: tarefa = {
-        id: "",
-        status: "",
-        horas: "",
-        id_usuario: "",
-        dataInicio: "",
-        id_projeto: "",
-        concluido: false,
-        descricao: "",
-      };
+  async delete(request: Request, response: Response) {
+    const { id } = request.params;
+    await Tarefas.query().delete().where("id", id);
 
-      projetos.forEach((project) => {
-        task.project === project.projetoNome
-          ? ((completeTask.id_usuario = task.user._id),
-            (completeTask.id = task._id),
-            (completeTask.concluido = task.isFinished),
-            (completeTask.id_projeto = project.id),
-            (completeTask.descricao = task.cardDescription),
-            (completeTask.status = task.status),
-            (completeTask.dataInicio = task.startedAt),
-            (completeTask.horas = task.hours || 0))
-          : null;
-      });
-
-      tasks = [...tasks, completeTask];
+    return response.status(200).json({
+      message: "Deletado com sucesso",
     });
-
-    for (let i = 0; i < tasks.length; i++) {
-      await Tarefas.query().insert(tasks[i]);
-    }
-
-    return response.send(tasks);
   }
 }
 
