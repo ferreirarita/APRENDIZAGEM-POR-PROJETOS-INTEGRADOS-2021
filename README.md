@@ -38,7 +38,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
 <br/>
 
-# Documentacao do Sistema 📂 <a name = "Documentacao"></a>
+# Documentação do Sistema 📂 <a name = "Documentacao"></a>
 
   <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Backlogtotal'>
@@ -116,7 +116,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
  <br/>
 
 
-# Tecnologias <a name = "Tecnologias"></a>
+# Tecnologias 💻 <a name = "Tecnologias"></a>
 
 ## NODE.JS:
 
@@ -131,7 +131,7 @@ Aplicação que possibilita o processamento, a renderização e a execução de 
 <br/>
 
 
-# Cronograma do API <a name = "CronogramadoAPI"></a>
+# Cronograma do API 📆 <a name = "CronogramadoAPI"></a>
 
 Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das sprints.
 
@@ -167,7 +167,7 @@ FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 
   
 
-# Integrantes da Equipe <a name = "IntegrantesdaEquipe"></a>
+# Integrantes da Equipe 👩‍💻👨‍💻 <a name = "IntegrantesdaEquipe"></a>
 
 Nº|Nome|GitHub|Linkedln|Função
 ---|---|---|---|---|
