@@ -4,8 +4,6 @@
 
 ## FRONTEND DA APLICAÇÃO
 
-<br />
-
 ### As funcionalidades que apresentamos para essa sprint são:
 
 - Autenticação por e-mail e senha.
