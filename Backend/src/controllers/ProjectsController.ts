@@ -8,6 +8,12 @@ class ProjectsController {
 
     return response.status(200).send(project);
   }
+
+  async list(request: Request, response: Response) {
+    const projects = await Projetos.query().select("*");
+
+    return response.send(projects);
+  }
 }
 
 export default ProjectsController;

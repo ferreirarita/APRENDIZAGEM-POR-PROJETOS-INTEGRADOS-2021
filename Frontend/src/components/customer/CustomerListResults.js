@@ -73,7 +73,6 @@ const CustomerListResults = ({ customers, ...rest }) => {
                         variant="body1"
                       >
                         {customer.nome}
-                        {' '}
                         {customer.sobrenome}
                       </Typography>
                     </Box>

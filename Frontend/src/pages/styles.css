@@ -7,6 +7,28 @@
   padding: 0 !important;
 }
 
+.select-dash {
+  color: #FFF;
+  border: 1px solid #fff
+}
+
+.select-input-dash {
+  color: #FFF !important;
+  margin: 5px 0;
+}
+
+.css-weuz2y-MuiInputBase-input-MuiOutlinedInput-input {
+  color: #FFF !important;
+}
+
+.css-r2jef8 {
+  background-color: #000;
+}
+
+.header-kanban {
+  margin: 0 25px;
+}
+
 @media (max-width: 1440px) {
   .card-login {
     margin: 20px;

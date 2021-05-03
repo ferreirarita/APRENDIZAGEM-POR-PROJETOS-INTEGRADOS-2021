@@ -6,7 +6,7 @@ Serviço criada com propósito de unificar dados da GSW, fornecer dados para o f
 ### Download
 
 ```
-git clone https://github.com/MatheusCoxxxta/TypeScript-Node-Boilerplate.git server
+git clone https://github.com/MatheusCoxxxta/API-Data-Load.git Backend
 ```
 <br/>
 
@@ -20,6 +20,16 @@ cd server
 yarn install
 ```
 <br/>
+
+### Run migrations
+```
+yarn knex:migrate
+```
+
+### Run seeds
+```
+yarn run:seed
+```
 
 ### Run
 

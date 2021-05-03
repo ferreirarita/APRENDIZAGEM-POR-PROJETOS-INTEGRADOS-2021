@@ -1,262 +1,181 @@
-<h2 align = "center">  API APRENDIZAGEM POR PROJETOS INTEGRADOS </h2>
+<div align="center">
 
-<h3 align = "center">  <img src="https://i.imgur.com/0gyPTv7.png"   alt="drawing" width=700 </h3>
+# APRENDIZAGEM POR PROJETOS INTEGRADOS
 
-  <h2 align = "center"> EQUIPE EVO - EVOLUÇÃO </h2>
+   <img src="https://i.imgur.com/dKuDMU6.png" alt="gsw-logo" width=150 >
+</div>
 
- <h3 align = "center">FATEC São José dos Campos – Prof.Jessen Vidal em parceria com a empresa GSW.</h3>
+ <br/>
 
- <h5 align = "center">
-  Proporcionaram aos alunos do curso de ADS 2ºSemestre a oportunidade de trabalhar com Base em uma Empresa Real. Como cliente a Empresa GSW, nos apresentou dificuldades encontradas em seu sistema de gerenciamento de software.
-  Para que assim pudéssemos encontra soluções alternativas para implementa-lá através da metodologia SCRUM.
-  </h5>
+- [Introdução](#Introdução)
+- [Documentação do Sistema](#Documentacao)
+- [Product Sprint](#ProductSprint)
+- [Tecnologias](#Tecnologias)
+- [Cronograma do API](#CronogramadoAPI)
+- [Integrantes da Equipe](#IntegrantesdaEquipe)
 
-   <p align ="center">
+ <br/>
 
-  <h4 align = "center"> DISCIPLINAS INTEGRADAS </h4>
+# Introdução <a name = "Introdução"></a>
 
+ <br/>
 
-   <h4>Engenharia de SoftwareI:  Prof.Juliana Forin Pasquini Martinez </h4>
-    <h4> Sistema de Informação:   Prof. Claudio Etelvino de Lima</h4>
-   <br>
-   <h4>INTEGRANTES DA EQUIPE:</h4>
+## Visão Geral 🔎
 
-  Nº|Nome|GitHub|Linkedln|Função
----|---|---|---|---|
-1|Rita Ferreira|[acesso](https://github.com/ferreirarita)|[acesso](https://www.linkedin.com/in/rita-ferreira-894ba1200)|Scrum Master
-2|Sarah Silva|[acesso](https://github.com/Sarah6197)|[acesso](https://www.linkedin.com/in/sarah-fernandes-494000196/)|Product Owner
-3|Jonathan Assis|[acesso](https://github.com/Jonathan-Assis)|[acesso](https://www.linkedin.com/in/jonathan-gabriel-/)|Dev Team
-4|Matheus Costa|[acesso](https://www.github.com/MatheusCoxxxta)|[acesso](https://www.linkedin.com/in/matheus-costa-500695187)|Dev Team
-5|Luiz Gustavo|[acesso](https://github.com/UkitakeKazui)|[acesso](https://www.linkedin.com/in/gustavo-vieira-699729207/)|Dev Team
-6|Luiz Camargo|[acesso](https://github.com/Felipe221070)|[acesso](https://www.linkedin.com/in/felipe-programador)|Dev Team
-7|André Silva|[acesso](https://github.com/AndreSilva358)|[acesso](https://www.linkedin.com/in/andr%C3%A9-silva-63a4621ba/)|Dev Team
-8|João da Silva|[acesso](https://github.com/Joaoevr)|[acesso](https://www.linkedin.com/in/joão-vitor-silva-261a471b9/)|Dev Team
+Objetivo desenvolvimento de uma aplicação Web para solucionar problemas causados por dados de fontes diferentes.
+<br/>
+Faremos a unificação dos dados em uma única base de dados.
+<br/>
+Para apresentação das informações será criado um painel de controle, neste painel será possível visualizar graficamente as informações referentes aos projetos, contudo será permitido a criação, exibição e atualização dos registros existente no banco de dados da aplicação.
 
+<br/>
 
+## Disciplinas Integradas 🎓
 
+### Engenharia de Software / Sistema de Informação.
 
- <p align "center">
+Projeto desenvolvidos por alunos do segundo semestre do curso de Analise e desenvolvimento
 
-   <hr>
+de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
-   <p align ="center">
+<br/>
 
-   <p align "center">
+# Documentação do Sistema 📂 <a name = "Documentacao"></a>
 
-   <hr>
+  <h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Backlogtotal'>
+   <li> PRODUCT BACKLOG</li></a> </h5>
 
-   <p align ="center">
+## Sprint 1
 
-
- <h5 align = "center">
-
-
-  <p align ="center">
-
-  <h4 align = "center"> DESAFIO </h4>
-
-<h3 align = "center">  <img src="https://i.imgur.com/dKuDMU6.png"  alt="drawing" width =150 </h3>
-
-  <h5 align = "center">A GSW como consultoria, possui diversos projetos. Cada projeto utiliza um sistema diferente de gerenciamento
-  (como Jira e Trello, por exemplo).Seria preciso unificar esses dados em uma única base,para fácil visualização dos
-  status dos andamentos.Posteriormente, apresentar as informações resumidas do andamento geral dos projetos em uma única Dashboard(Painel de Controle).</h5>
-
-   <hr>
-
-   <p align ="center">
-
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-
- <h5 align = "center">
-
-
-  <p align ="center">
-
-  <h4 align = "center"> SOLUÇÃO PARA IMPLEMENTAR PROJETO GSW </h4>
-
-<h5 align = "center"> Será desenvolvida uma Aplicação web para solucionar os problemas causados por dados de fontes Diferentes. A Aplicação irá Consumir um serviço com um base de dados unificada e com o potencial de fornecer soluções mais especificas para a necessidade da GSW Soluções Integradas.</h5>
-
-   <hr>
-
-   <p align ="center">
-
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-
- <h5 align = "center">
-
-
-  <p align ="center">
-
-
-<h4 align = "center"> PRODUCT BACKLOG </h4>
-
-   ![](https://user-images.githubusercontent.com/73767256/115166210-5101c900-a088-11eb-9064-126610d986e2.jpeg)
-
-
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-
- <h5 align = "center">
-
-
-  <p align ="center">
-
-<h4 align = "center"> TECNOLOGIAS UTILIZADAS </h4>
- <h3 align = "center">  <img src="https://www.icoldo.com/wordpress/wp-content/uploads/2018/02/js_node_js_react_logos-300x225.png"   alt="drawing" width =350 </h3>
-
-  <h5 align = "center">  Node.js | ReactJS</h5>
-
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-
- <h5 align = "center">
-
-
-  <p align ="center">
-
-   <h4 align = "center"> DOCUMENTAÇÃO DO SOFTWARE </h4>
-
-
-   <h5 align = "center">
+  <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Planejamento'>
    <li> PLANEJAMENTO DA ENTREVISTA</li></a> </h5>
 
-   <h5 align = "center">
+   <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Ata'>
    <li> ATA DE REUNIÃO</li></a> </h5>
 
-   <h5 align = "center">
+   <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/DocumentoVisao'>
    <li>DOCUMENTO DE VISÃO</li></a> </h5>
 
-
-   <h5 align = "center">
+   <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/CasodeUso'>
+
    <li>MODELO DE CASO DE USO</li> </a> </h5>
 
-   <p align "center">
+   <h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/DocBacklogSprint1'>
+   <li>BACKLOG SPRINT 1</li> </a> </h5>
+   <br/>
 
-   <hr>
+## Sprint 2
 
-   <p align ="center">
+   <h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Documentos/Sprint%202/DocumentoVisao'>
+   <li>DOCUMENTO DE VISÃO</li></a> </h5>
 
-   <p align "center">
+   <h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Sprint%202/CasosDeUso'>
 
-   <hr>
+   <li>MODELO DE CASO DE USO</li> </a> </h5>
 
-   <p align ="center">
+   <h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/DocBacklogSprint2'>
 
+   <li>BACKLOG SPRINT 2</li> </a> </h5>
+   <br/>
 
-   <h5 align = "center">
+## Sprint 3
 
+   <h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/DocBacklogSprint3'>
 
-<h4 align = "center"> BACKLOG DAS SPRINTS </h4>
+   <li>BACKLOG SPRINT 3</li> </a> </h5>
 
-   ![](https://user-images.githubusercontent.com/73767256/115166281-bfdf2200-a088-11eb-99da-7499a529db65.jpeg)
+   <br/>
 
-   <p align "center">
+## Sprint 4
 
-   <hr>
+  <h5 >
+  <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/DocBacklogSprint4'>
 
-   <p align ="center">
+  <li>BACKLOG SPRINT 4</li> </a> </h5>
 
-   <p align "center">
+  <br/>
 
-   <hr>
+# Sprint Backlog 📃<a name = "ProductSprint"></a>
 
-   <p align ="center">
+<h align="center"> Abaixo segue a demonstração das atividades que serão realizadas durante determinada Sprint. .</h>
 
+ <br/>
 
-   <h5 align = "center">
+![](https://i.imgur.com/ySfad3c.jpg)
 
+ <br/>
 
+Visualize o Sprint Card do produto:[link](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Cards)
 
-   <h4 align = "center"> CRONOGRAMA API </h4>
+ <br/>
 
-   <h5 align = "center"> FORAM ACORDADAS ENTRE AS PARTES ENVOLVIDAS AS SEGUINTES DATAS PARA ENTREGA DAS SPRINTS </h5>
+# Tecnologias 💻 <a name = "Tecnologias"></a>
 
+## Node.js - TypeScript:
 
-   <h5 align = "center">
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências//Kickoff'>
-   KICK OFF DO PROJETO </a> - 28/02/2021 a 06/03/2021</h5>
+Como ferramenta para desenvolvimento do nosso backend, foi escolhido o TypeScript, sendo utilizado para rodar um servidor Node.js. A escolha do Node.js+TypeScript se dá pelo poder de escalabilidade, performance, robustez e por ser uma ótima opção em um ecossistema JavaScript. Como Framework de backend foi utilizado o Express.
 
-   <h5 align = "center">
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Sprint%201'>
-   SPRINT 1 </a> - 08/03 a 28/03/2021</h5>
+   <br/>
 
-   <h5 align = "center">
+## ReactJS:
+
+Como framework para Frontend, foi escolhido o ReactJS, por todo seu poder com o uso de estados globais, componentização  e pela documentação robusta. Utlizilamos como base da aplicação o Material UI Dashboard, template disponibilizado pelo Google que usa os componentes do Material UI.
+
+<br/>
+
+# Cronograma do API 📆 <a name = "CronogramadoAPI"></a>
+
+Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das sprints.
+
+<h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Kickoff'>
+   KICK OFF DO PROJETO </a> - 28/02/2021 a 06/03/2021 ✔</h5>
+
+   <h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%201'>
+   SPRINT 1 </a> - 08/03 a 28/03/2021 ✔</h5>
+
+   <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%202'>
-   SPRINT 2 </a> - 29/03 a 18/04/2021</h5>
+   SPRINT 2 </a> - 29/03 a 18/04/2021 ✔</h5>
 
-   <h5 align = "center">
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%203'>
-   SPRINT 3 </a> - 26/04 a 16/05/2021</h5>
+   <h5 >
 
-   <h5 align = "center">
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%204'>
-   SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
+SPRINT 3 </a> - 26/04 a 16/05/2021 - Desenvolvimento</h5>
 
-   <h5 align = "center">
+   <h5 >
 
-   APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
+SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
 
-   <h5 align = "center">
+   <h5 >
 
-   FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
+APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
 
-  </h5>
+   <h5 >
 
-  <p align "center">
+FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 
-   <hr>
+<br/>
 
-   <p align ="center">
+# Integrantes da Equipe 👩‍💻👨‍💻 <a name = "IntegrantesdaEquipe"></a>
 
-   <p align "center">
-
-
-   <p align ="center">
-
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-
-   <h5 align = "center">
-    <h4 align = "center"> SPRINT CARD </h4>
-
-   <h4 align = "center"> REPRESENTAÇÃO DAS SPRINTS POR ETAPAS </h4>
-
-   <h3 align = "center">  <img src="https://user-images.githubusercontent.com/73767256/115163610-6115aa80-a080-11eb-8b5c-e6e6811ff4d0.jpeg"   alt="drawing" width =700 </h3>
+| Nº                                                                      | Nome           | GitHub                                          | Linkedln                                                          | Função        |
+| ----------------------------------------------------------------------- | -------------- | ----------------------------------------------- | ----------------------------------------------------------------- | ------------- |
+| <img width="25px" height="25px" src="https://i.imgur.com/kEh4Dqy.png">  | Rita Ferreira  | [acesso](https://github.com/ferreirarita)       | [acesso](https://www.linkedin.com/in/rita-ferreira-894ba1200)     | Scrum Master  |
+| <img width="25px" height="25px" src="https://i.imgur.com/mnY9Ye9.jpeg"> | Sarah Silva    | [acesso](https://github.com/Sarah6197)          | [acesso](https://www.linkedin.com/in/sarah-fernandes-494000196/)  | Product Owner |
+| <img width="25px" height="25px" src="https://i.imgur.com/IVGZ0fB.png">  | Jonathan Assis | [acesso](https://github.com/Jonathan-Assis)     | [acesso](https://www.linkedin.com/in/jonathan-gabriel-/)          | Dev Team      |
+| <img width="25px" height="25px" src="https://i.imgur.com/OoDTvzZ.png">  | Matheus Costa  | [acesso](https://www.github.com/MatheusCoxxxta) | [acesso](https://www.linkedin.com/in/matheus-costa-500695187)     | Dev Team      |
+| <img width="25px" height="25px" src="https://i.imgur.com/3iXu5DL.jpg">  | Luiz Gustavo   | [acesso](https://github.com/UkitakeKazui)       | [acesso](https://www.linkedin.com/in/gustavo-vieira-699729207/)   | Dev Team      |
+| <img width="25px" height="25px" src="https://i.imgur.com/zWdgoeZ.jpeg"> | Luiz Camargo   | [acesso](https://github.com/Felipe221070)       | [acesso](https://www.linkedin.com/in/felipe-programador)          | Dev Team      |
+| <img width="25px" height="25px" src="https://i.imgur.com/sWAKtzF.jpg">  | André Silva    | [acesso](https://github.com/AndreSilva358)      | [acesso](https://www.linkedin.com/in/andr%C3%A9-silva-63a4621ba/) | Dev Team      |
+| <img width="25px" height="25px" src="https://i.imgur.com/hUlRdDm.jpg">  | João da Silva  | [acesso](https://github.com/Joaoevr)            | [acesso](https://www.linkedin.com/in/joão-vitor-silva-261a471b9/) | Dev Team      |

@@ -1,140 +1,89 @@
 import { Request, Response } from "express";
-import Projetos from "../models/Projetos";
-import Jira from "../../mocks/data/jira";
-import Trello from "../../mocks/data/trello";
-import { projeto } from "../types/Projeto";
-import Usuarios from "../models/Usuarios";
-import { usuario } from "../types/Usuarios";
-import { removeDeplicated } from "../helpers/RemoveDuplicated";
 import knex from "../database/connection";
 import { ExportToCsv } from "export-to-csv";
 import fs from "fs";
+import Projetos from "../models/Projetos";
+import Usuarios from "../models/Usuarios";
+
+const getDataByUserId = async (projectId: any, userId: string) => {
+  const data = await knex("tarefas")
+    .join("usuarios", "usuarios.id", "tarefas.id_usuario")
+    .select(
+      "tarefas.id",
+      "tarefas.concluido",
+      "tarefas.status",
+      "tarefas.descricao",
+      "tarefas.horas"
+    )
+
+    .where("id_projeto", projectId)
+    .where("id_usuario", userId);
+
+  const projeto = await Projetos.query()
+    .select("*")
+    .where("id", projectId)
+    .first();
+
+  const tasks = {
+    project: projeto.projetoNome,
+    tasks: data,
+  };
+
+  return tasks;
+};
+
+const getAllData = async (projectId: any) => {
+  const data = await knex("tarefas")
+    .join("usuarios", "usuarios.id", "tarefas.id_usuario")
+    .select(
+      "tarefas.id",
+      "tarefas.concluido",
+      "tarefas.status",
+      "tarefas.descricao",
+      "tarefas.horas"
+    )
+
+    .where("id_projeto", projectId);
+
+  const projeto = await Projetos.query()
+    .select("*")
+    .where("id", projectId)
+    .first();
+
+  const tasks = {
+    project: projeto.projetoNome,
+    tasks: data,
+  };
+
+  return tasks;
+};
 
 class DataController {
-  async joinData(request: Request, response: Response) {
-    let jiraUsers: usuario[] = [];
-    let trelloUsers: usuario[] = [];
-    let jiraProjects: projeto[] = [];
-    let trelloProjects: projeto[] = [];
-
-    Jira.forEach(async (dado: any) => {
-      let myUser: usuario = {
-        id: "",
-        imagem: "",
-        nome: "",
-        sobrenome: "",
-        email: "",
-      };
-
-      let myProjects: projeto = {
-        id: "",
-        status: "",
-        horas: 0,
-        id_usuario: "",
-        dataInicio: "",
-        projetoNome: "",
-        concluido: false,
-        descricao: "",
-      };
-
-      myUser.id = dado.user.id;
-      myUser.imagem = dado.user.avatar;
-      myUser.nome = dado.user.first_name;
-      myUser.sobrenome = dado.user.last_name;
-      myUser.email = dado.user.email;
-
-      myProjects.id = dado.id;
-      myProjects.status = dado.status;
-      myProjects.horas = dado.amountHours || 0;
-      myProjects.dataInicio = dado.startedAt;
-      myProjects.projetoNome = dado.project;
-      myProjects.concluido = dado.finished ? true : false;
-      myProjects.descricao = dado.cardDescription;
-
-      myProjects.id_usuario = dado.user.id;
-
-      jiraUsers = [...jiraUsers, myUser];
-      jiraProjects = [...jiraProjects, myProjects];
-      await Projetos.query().insert(myProjects);
-    });
-
-    Trello.forEach(async (dado: any) => {
-      let myUser: usuario = {
-        id: "",
-        imagem: "",
-        nome: "",
-        sobrenome: "",
-        email: "",
-      };
-
-      let myProjects: projeto = {
-        id: "",
-        status: "",
-        horas: 0,
-        id_usuario: "",
-        dataInicio: "",
-        projetoNome: "",
-        concluido: false,
-        descricao: "",
-      };
-
-      myProjects.id = dado._id;
-      myProjects.status = dado.status;
-      myProjects.horas = dado.hours || 0;
-
-      myProjects.dataInicio = dado.startedAt;
-      myProjects.projetoNome = dado.project;
-      myProjects.concluido = dado.isFinished ? true : false;
-      myProjects.descricao = dado.cardDescription;
-
-      myUser.id = dado.user._id;
-      myUser.imagem = dado.user.avatar;
-      myUser.nome = dado.user.userName;
-      myUser.sobrenome = dado.user.userLastName;
-      myUser.email = dado.user.userEmail;
-
-      myProjects.id_usuario = dado.user._id;
-
-      trelloUsers = [...trelloUsers, myUser];
-      trelloProjects = [...trelloProjects, myProjects];
-      await Projetos.query().insert(myProjects);
-    });
-
-    const allUsers = trelloUsers.concat(jiraUsers);
-    const formatedUsers = await removeDeplicated(allUsers);
-
-    formatedUsers.forEach(async (user: usuario) => {
-      await Usuarios.query().insert(user);
-    });
-
-    return response.status(201).send(jiraProjects.concat(trelloProjects));
-  }
-
   async listar(request: Request, response: Response) {
-    const { page } = request.params;
+    const userId = response.locals.tokenData.id;
+    const projectId = request.headers.projectid || "";
+    const user = await Usuarios.query().select("*").where("id", userId).first();
 
-    const myPage: number = parseInt(page);
-    const [count] = await knex("projetos").count();
-    const data = await knex("projetos")
-      .join("usuarios", "usuarios.id", "projetos.id_usuario")
-      .select(
-        "projetos.id",
-        "projetos.status",
-        "projetos.horas",
-        "projetos.dataInicio",
-        "projetos.projetoNome",
-        "projetos.concluido",
-        "projetos.descricao",
-        "projetos.id_usuario",
-        "usuarios.nome",
-        "usuarios.imagem",
-        "usuarios.email",
-        "usuarios.sobrenome"
-      )
-      .limit(50)
-      .offset((myPage - 1) * 5);
+    if (user.id_role === "0") {
+      if (userId && projectId) {
+        const tasks = await getDataByUserId(projectId, userId);
 
-    return response.status(200).json({ total: count, data: data });
+        return response.status(200).json(tasks);
+      } else {
+        return response.status(404).json({
+          message: "Necessário informar projeto.",
+        });
+      }
+    } else {
+      if (userId && projectId) {
+        const tasks = await getAllData(projectId);
+        return response.status(200).json(tasks);
+      } else {
+        return response.status(404).json({
+          message: "Necessário informar projeto.",
+        });
+      }
+    }
   }
 
   async exportData(request: Request, res: Response) {

@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 /* eslint-disable no-nested-ternary */
 /* eslint-disable react/no-array-index-key */
 import PerfectScrollbar from 'react-perfect-scrollbar';
@@ -13,11 +14,10 @@ import {
   TableHead,
   TableRow
 } from '@material-ui/core';
-import Project from '../../__mocks__/Project';
 import colors from '../../constants/color';
 
-const TaskList = (props) => (
-  <Card {...props}>
+const TaskList = ({ project }) => (
+  <Card>
     <CardHeader title="Tarefas do Projeto" />
     <Divider />
     <PerfectScrollbar>
@@ -31,10 +31,10 @@ const TaskList = (props) => (
             </TableRow>
           </TableHead>
           <TableBody>
-            {Project.tasks.map((task, index) => (
+            {project.tasks.map((task, index) => (
               <TableRow hover key={index}>
                 <TableCell>{task.descricao}</TableCell>
-                <TableCell>{`${task.hora}h`}</TableCell>
+                <TableCell>{`${task.horas}h`}</TableCell>
                 <TableCell>
                   <Chip
                     style={{
