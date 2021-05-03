@@ -48,6 +48,9 @@
 ## GRAFICO BURNDOWN
 
  O gráfico abaixo demonstra as estimativas de esforços feitos para a atividade do SprintBacklog.
+ 
+ <br/>
+ 
  Onde fazemos um acompanhamento da produtividade da Equipe dia a dia.
 
  <br/>
