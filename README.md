@@ -129,7 +129,7 @@ Como ferramenta para desenvolvimento do nosso backend, foi escolhido o TypeScrip
 
 ## ReactJS:
 
-Como framework para Frontend, foi escolhido o ReactJS, por todo seu poder com o uso de estados globais, componentização  e pela documentação robusta. Utlizilamos como base da aplicação o Material UI Dashboard, template disponibilizado pelo Google que usa os componentes do Material UI.
+Como framework para Frontend, foi escolhido o ReactJS, por todo seu poder com o uso de estados globais, componentização  e pela documentação robusta. Utilizamos como base da aplicação o Material UI Dashboard, template disponibilizado pelo Google que usa os componentes do Material UI.
 
 <br/>
 
