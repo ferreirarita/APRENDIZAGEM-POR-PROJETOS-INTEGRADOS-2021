@@ -45,14 +45,13 @@
 
    <h5 align = "center">
 
+## GRAFICO BURNDOWN
 
-   <h2 align = "center"> GRÁFICO BURNDOWN </h2>
-
-   O gráfico abaixo demonstra as estimativas de esforços feitos para a atividade do SprintBacklog.
+O gráfico abaixo demonstra as estimativas de esforços feitos para a atividade do SprintBacklog.
 Onde fazemos um acompanhamento da produtividade da Equipe dia a dia.
 Como analisar o gráfico Burndown, que consiste basicamente no seguinte:
 
-    
+   
    ![](https://i.imgur.com/w0K761e.png)
    <p align "center">
 
