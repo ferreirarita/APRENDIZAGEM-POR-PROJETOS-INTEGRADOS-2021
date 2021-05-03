@@ -117,6 +117,10 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
  <br/>
 
+ Visualize o Sprint Card do produto:[link](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Cards)  
+
+ <br/>
+
 
 # Tecnologias 💻 <a name = "Tecnologias"></a>
 
