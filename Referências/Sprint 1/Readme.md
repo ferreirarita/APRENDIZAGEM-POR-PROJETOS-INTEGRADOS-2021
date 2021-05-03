@@ -48,6 +48,7 @@
 
    <h2 align = "center"> GRÁFICO BURNDOWN </h2>
    <h3 align = "center"> TRABALHO DA EQUIPE EVOLUÇÃO AO LONGO DO DESENVOLVIMENTO DA SPRINT 1 </h3>
+   <br/>
 
   O gráfico abaixo demonstra as estimativas de esforços feitos para a atividade do SprintBacklog.
   <br/>
