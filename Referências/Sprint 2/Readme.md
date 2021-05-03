@@ -1,22 +1,10 @@
-   <h2 align = "center"> FRONTEND DA APLICAÇÃO </h2>
+# Sprint 2
 
-   <h3 align = "center">  <img src="https://i.imgur.com/Ajn2vTi.gif"   alt="drawing" width =700 </h3>
+## FRONTEND DA APLICAÇÃO
 
-   <p align ="center">
+<img src="https://i.imgur.com/Ajn2vTi.gif"   alt="drawing" width =700>
 
-   <p align "center">
 
-   <hr>
+## GRÁFICO BURNDOWN
 
-   <p align ="center">
-
-   
-   <h3 align = "center"> GRÁFICO BURNDOWN </h3>
-   <h3 align = "center"> TRABALHO DA EQUIPE AO LONGO DO DESENVOLVIMENTO DA SPRINT 2  </h3>
-  </h5>
-
-![](https://user-images.githubusercontent.com/73767256/115142645-4f4cec80-a019-11eb-9752-e58285614ea1.png)
-
-  <p align "center">
-
-   
+<img src="https://user-images.githubusercontent.com/73767256/115142645-4f4cec80-a019-11eb-9752-e58285614ea1.png"   alt="drawing" width=800>
