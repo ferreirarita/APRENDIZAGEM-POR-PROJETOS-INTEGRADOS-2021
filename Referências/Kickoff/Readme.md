@@ -1,8 +1,8 @@
 
 <h1 align="center">  KickOff GSW </h1>
 
- Com a finalidade de fazer se entender o projeto e para que o mesmo seja bem-sucedido.
- Participamos da reunião da empresas GSW, onde conseguimos identificar as expectativas solicitadas pelo cliente.
+ Com a finalidade de fazer se entender o projeto e para que o mesmo seja bem-sucedido,
+ participamos da reunião da empresas GSW, onde conseguimos identificar as expectativas solicitadas pelo cliente.
  <br/>
  As bases de dados referente ao projeto foram fornecida pela empresa GSW, assim como uma descrição básica do painel de controle solicitado.  
 
