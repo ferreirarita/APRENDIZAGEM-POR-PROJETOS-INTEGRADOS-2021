@@ -53,7 +53,7 @@ Como analisar o gráfico Burndown, que consiste basicamente no seguinte:
 
    
    ![](https://i.imgur.com/w0K761e.png)
-   <p align "center">
+ 
 
    
 
