@@ -121,15 +121,15 @@ Visualize o Sprint Card do produto:[link](https://github.com/ferreirarita/APREND
 
 # Tecnologias 💻 <a name = "Tecnologias"></a>
 
-## NODE.JS:
+## NODE.JS - TypeScript:
 
-Aplicação que possibilita o processamento, a renderização e a execução de elementos escritos em linguagem não suportadas nativamente pelo sistema que permite ao programador desenvolver aplicações Java Script diretamente do Servidor.
+Como ferramenta para desenvolvimento do nosso backend, foi escolhido o TypeScript, sendo utilizado para rodar um servidor Node.js. A escolha do Node.js+TypeScript se dá pelo poder de escalabilidade, performance, robustez e por ser uma ótima opção em um ecossistema JavaScript. Como Framework de backend foi utilizado o Express.
 
    <br/>
 
 ## REACT.JS:
 
-É portanto, uma biblioteca de JavaScript, open source,utilizada para construir user interfaces, nomeadas para aplicações de páginas únicas.Assim possibilita aos desenvlvedores criarem aplicações web, tendo a facilidade de alterar elementos ou dados exibidos, sem carregar a página
+Como framework para Frontend, foi escolhido o ReactJS, por todo seu poder com o uso de estados globais, componentização  e pela documentação robusta. Utlizilamos como base da aplicação o Material UI Dashboard, template disponibilizado pelo Google que usa os componentes do Material UI.
 
 <br/>
 
