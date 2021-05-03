@@ -2,6 +2,7 @@ import { Model } from "objection";
 import connection from "../database/connection";
 import { projeto as ProjetosType } from "../types/Projeto";
 import Usuarios from "./Usuarios";
+import { v4 as uuidv4 } from "uuid";
 
 Model.knex(connection);
 
@@ -10,6 +11,10 @@ interface Projetos extends ProjetosType {}
 class Projetos extends Model {
   static get tableName() {
     return "projetos";
+  }
+
+  $beforeInsert() {
+    this.id = uuidv4();
   }
 
   static get idColumn() {
@@ -22,27 +27,10 @@ class Projetos extends Model {
 
       properties: {
         id: { type: "string" },
-        status: { type: "string", minLength: 1, maxLength: 255 },
-        horas: { type: "float", minLength: 1, maxLength: 255 },
-        id_usuario: { type: "string", minLength: 1, maxLength: 255 },
-        dataInicio: { type: "string", minLength: 1, maxLength: 255 },
         projetoNome: { type: "string", minLength: 1, maxLength: 255 },
-        concluido: { type: "boolean" },
-        descricao: { type: "string", minLength: 1, maxLength: 255 },
       },
     };
   }
-
-  static relationMappings = {
-    users: {
-      relation: Model.HasOneRelation,
-      modelClass: Usuarios,
-      join: {
-        from: "projetos.id_usuario",
-        to: "usuarios.id",
-      },
-    },
-  };
 }
 
 export default Projetos;

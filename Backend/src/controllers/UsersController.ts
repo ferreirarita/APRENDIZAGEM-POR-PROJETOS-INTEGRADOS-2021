@@ -1,11 +1,12 @@
 import { Request, Response } from "express";
 import Usuarios from "../models/Usuarios";
+import { usuario } from "../types/Usuarios";
 
 class UsersController {
   async index(request: Request, response: Response) {
-    const users = await Usuarios.query().select("*");
+    const users: usuario[] = await Usuarios.query().select("*");
 
-    return response.status(200).send(users);
+    return response.send({ users });
   }
 }
 

@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import React, { useState, createContext, useEffect } from 'react';
 
-const AuthContext = createContext({ signed: true, user: {} });
+const AuthContext = createContext({ signed: true, user: {}, token: '' });
 
 export const AuthProvider = ({ children }) => {
   const [token, setToken] = useState(null);
@@ -41,6 +41,7 @@ export const AuthProvider = ({ children }) => {
       value={{
         signed: !!token,
         user,
+        token,
         signIn,
         signOut
       }}
