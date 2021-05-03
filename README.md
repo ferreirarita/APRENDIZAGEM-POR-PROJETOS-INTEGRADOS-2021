@@ -1,9 +1,9 @@
-<div class="myWrapper" markdown="1" style="text-align: center">
+<center>
 
 # APRENDIZAGEM POR PROJETOS INTEGRADOS
 
    <img src="https://i.imgur.com/dKuDMU6.png" alt="gsw-logo" width=150 >
-</div>
+</center>
 
  <br/>
 
