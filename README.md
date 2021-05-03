@@ -105,7 +105,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
   <br/>
 
 
-# Sprint Backlog <a name = "ProductSprint"></a>
+# Sprint Backlog 📃<a name = "ProductSprint"></a>
 
 <h align="center">  Abaixo segue a demonstração das atividades que serão realizadas durante determinada Sprint. .</h>
 
