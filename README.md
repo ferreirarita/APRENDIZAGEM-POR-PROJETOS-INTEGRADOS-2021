@@ -43,8 +43,8 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
   <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Backlogtotal'>
    <li> PRODUCT BACKLOG</li></a> </h5>
-    
- 
+
+
    ## Sprint 1
   <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Planejamento'>
@@ -63,7 +63,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/CasodeUso'>
 
    <li>MODELO DE CASO DE USO</li> </a> </h5>
-   
+
    <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/DocBacklogSprint1'>
    <li>BACKLOG SPRINT 1</li> </a> </h5>
@@ -79,7 +79,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Sprint%202/CasosDeUso'>
 
    <li>MODELO DE CASO DE USO</li> </a> </h5>
-   
+
    <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/DocBacklogSprint2'>
 
@@ -108,15 +108,15 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 # Sprint Backlog 📃<a name = "ProductSprint"></a>
 
 <h align="center">  Abaixo segue a demonstração das atividades que serão realizadas  durante determinada Sprint. .</h>
- 
- 
+
+
  <br/>
 
 ![](https://i.imgur.com/ySfad3c.jpg)
 
  <br/>
 
- Visualize o Sprint Card do produto:[link](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Cards)  
+ Visualize o Sprint Card do produto:[link](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Cards)
 
  <br/>
 
@@ -153,11 +153,11 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
    SPRINT 2 </a> - 29/03 a 18/04/2021 ✔</h5>
 
    <h5 >
-   
+
    SPRINT 3 </a> - 26/04 a 16/05/2021 - Desenvolvimento</h5>
 
    <h5 >
-   
+
    SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
 
    <h5 >
@@ -170,23 +170,17 @@ FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 
 <br/>
 
-  
+
 
 # Integrantes da Equipe 👩‍💻👨‍💻 <a name = "IntegrantesdaEquipe"></a>
 
 Nº|Nome|GitHub|Linkedln|Função
 ---|---|---|---|---|
  <img style="border-radius: 50px; width: 25px; height: 25px;" src="https://i.imgur.com/kEh4Dqy.png">|Rita Ferreira|[acesso](https://github.com/ferreirarita)|[acesso](https://www.linkedin.com/in/rita-ferreira-894ba1200)|Scrum Master
- <img style="border-radius: 50px; width: 25px; height: 25px;" src="https://i.imgur.com/mnY9Ye9.jpeg">|Sarah Silva|[acesso](https://github.com/Sarah6197)|[acesso](https://www.linkedin.com/in/sarah-fernandes-494000196/)|Product Owner
+ <img style="border-radius: 50px!important; width: 25px!important; height: 25px!important;" src="https://i.imgur.com/mnY9Ye9.jpeg">|Sarah Silva|[acesso](https://github.com/Sarah6197)|[acesso](https://www.linkedin.com/in/sarah-fernandes-494000196/)|Product Owner
  <img style="border-radius: 50px; width: 25px; height: 25px;" src="https://i.imgur.com/IVGZ0fB.png">|Jonathan Assis|[acesso](https://github.com/Jonathan-Assis)|[acesso](https://www.linkedin.com/in/jonathan-gabriel-/)|Dev Team
  <img style="border-radius: 50px; width: 25px; height: 25px;" src="https://i.imgur.com/OoDTvzZ.png">|Matheus Costa|[acesso](https://www.github.com/MatheusCoxxxta)|[acesso](https://www.linkedin.com/in/matheus-costa-500695187)|Dev Team
  <img style="border-radius: 50px; width: 25px; height: 25px;" src="https://i.imgur.com/3iXu5DL.jpg">|Luiz Gustavo|[acesso](https://github.com/UkitakeKazui)|[acesso](https://www.linkedin.com/in/gustavo-vieira-699729207/)|Dev Team
  <img style="border-radius: 50px; width: 25px; height: 25px;" src="https://i.imgur.com/zWdgoeZ.jpeg">|Luiz Camargo|[acesso](https://github.com/Felipe221070)|[acesso](https://www.linkedin.com/in/felipe-programador)|Dev Team
  <img style="border-radius: 50px; width: 25px; height: 25px;" src="https://i.imgur.com/sWAKtzF.jpg">|André Silva|[acesso](https://github.com/AndreSilva358)|[acesso](https://www.linkedin.com/in/andr%C3%A9-silva-63a4621ba/)|Dev Team
  <img style="border-radius: 50px; width: 25px; height: 25px;" src="https://i.imgur.com/hUlRdDm.jpg">|João da Silva|[acesso](https://github.com/Joaoevr)|[acesso](https://www.linkedin.com/in/joão-vitor-silva-261a471b9/)|Dev Team
-
-
-
-
-
-
