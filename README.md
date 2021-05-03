@@ -43,7 +43,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 # Documentação do Sistema 📂 <a name = "Documentacao"></a>
 
   <h5 >
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Backlogtotal'>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Backlogtotal'>
    <li> PRODUCT BACKLOG</li></a> </h5>
 
 ## Sprint 1
@@ -66,7 +66,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
    <li>MODELO DE CASO DE USO</li> </a> </h5>
 
    <h5 >
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/DocBacklogSprint1'>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/DocBacklogSprint1'>
    <li>BACKLOG SPRINT 1</li> </a> </h5>
    <br/>
 
@@ -82,7 +82,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
    <li>MODELO DE CASO DE USO</li> </a> </h5>
 
    <h5 >
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/DocBacklogSprint2'>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/DocBacklogSprint2'>
 
    <li>BACKLOG SPRINT 2</li> </a> </h5>
    <br/>
@@ -90,7 +90,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 ## Sprint 3
 
    <h5 >
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/DocBacklogSprint3'>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/DocBacklogSprint3'>
 
    <li>BACKLOG SPRINT 3</li> </a> </h5>
 
@@ -99,7 +99,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 ## Sprint 4
 
   <h5 >
-  <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/DocBacklogSprint4'>
+  <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/DocBacklogSprint4'>
 
   <li>BACKLOG SPRINT 4</li> </a> </h5>
 
@@ -115,7 +115,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
  <br/>
 
-Visualize o Sprint Card do produto:[link](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Cards)
+Visualize o Sprint Card do produto:[link](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Cards)
 
  <br/>
 
