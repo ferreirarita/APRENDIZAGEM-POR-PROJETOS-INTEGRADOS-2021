@@ -17,7 +17,7 @@
  <br/>
    
 
-## GRAFICO BURNDOWN 📉.
+## GRAFICO BURNDOWN EQUIPE EVOLUÇÃO 📉.
 
  O gráfico abaixo demonstra as estimativas de esforços feitos para a atividade do SprintBacklog.
  
