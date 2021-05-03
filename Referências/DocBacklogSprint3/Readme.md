@@ -1,7 +1,10 @@
-<h1 align = "center">  Sprint 3 </h1>
+   <h1 align = "center">  BACKLOG SPRINT 3 </h1>
 
- <h3 align="center"> CONFORME DATAS ESTIPULADAS NO CRONOGRAMA SEGUE ABAIXO CONTEÚDO PARA PROXIMAS ENTREGAS   </h3>
+   Desmembramos as “historias” do Product Backlog em tarefas que representa uma unidade de trabalho a ser realizada.
+   Segue abaixo a lista de atividades desenvolvidas na Sprint 3.
 
+   <br/>
+  
    ![](https://i.imgur.com/uMXPnNP.jpg)
 
    <p align "center">
