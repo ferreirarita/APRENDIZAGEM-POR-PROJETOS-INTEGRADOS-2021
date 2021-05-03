@@ -1,9 +1,9 @@
-<center>
+<div align="center">
 
 # APRENDIZAGEM POR PROJETOS INTEGRADOS
 
    <img src="https://i.imgur.com/dKuDMU6.png" alt="gsw-logo" width=150 >
-</center>
+</div>
 
  <br/>
 
