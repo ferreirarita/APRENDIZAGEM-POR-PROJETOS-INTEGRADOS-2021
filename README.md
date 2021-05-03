@@ -109,7 +109,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
 <h align="center">  Abaixo segue a demonstração das atividades que serão realizadas  durante determinada Sprint. .</h>
  <br/>
- Visualize o Sprint Card do produto:[link]()  
+ Visualize o Sprint Card do produto:[link](https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Cards)  
 
  <br/>
 
