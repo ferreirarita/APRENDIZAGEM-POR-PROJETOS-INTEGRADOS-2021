@@ -1,23 +1,24 @@
-   <h1 align="center">  Sprint 1 </h1>
+   # Sprint 1
+
+   <br/>
   
-    
+      
+   DEMOSTRAÇÃO PROTÓTIPO FIGMA 
+
+   <img src="https://i.imgur.com/Sq6goG9.gif"   alt="drawing" width =700>
+
+  
+   <br/> 
+
+   DEMOSTRAÇÃO DAS FUNCIONALIDADES 
    
-   <h2 align = "center"> DEMOSTRAÇÃO PROTÓTIPO FIGMA </h2>
-
-   <h3 align = "center">  <img src="https://i.imgur.com/Sq6goG9.gif"   alt="drawing" width =700 </h3>
+   <img src="https://user-images.githubusercontent.com/73767256/112738788-f53e9700-8f44-11eb-88e2-5b706c95904f.gif"   alt="drawing" width =700>
 
   
-
-
-  
-   <h2 align = "center"> DEMOSTRAÇÃO DAS FUNCIONALIDADES </h2>
-
-   <h3 align = "center">  <img src="https://user-images.githubusercontent.com/73767256/112738788-f53e9700-8f44-11eb-88e2-5b706c95904f.gif"   alt="drawing" width =700 </h3>
-
- <br/>
+   <br/>
    
 
-## GRAFICO BURNDOWN EQUIPE EVOLUÇÃO 📉.
+  ## GRAFICO BURNDOWN EQUIPE EVOLUÇÃO 📉.
 
  O gráfico abaixo demonstra as estimativas de esforços feitos para a atividade do SprintBacklog.
  
