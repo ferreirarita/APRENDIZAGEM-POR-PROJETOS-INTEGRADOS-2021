@@ -68,11 +68,14 @@
   <br/>
 
  e marca -se no gráfico Burndown a quantidade de esforço restante até o fim do Sprint;
+ 
  <br/>
+
  5.A meta é chegar a zero no final do Sprint.  
 
+ <br/>
 
-   
+ 
    ![](https://i.imgur.com/w0K761e.png)
  
 
