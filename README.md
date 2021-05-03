@@ -177,10 +177,10 @@ FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 Nº|Nome|GitHub|Linkedln|Função
 ---|---|---|---|---|
  <img width="25px" height="25px" src="https://i.imgur.com/kEh4Dqy.png">|Rita Ferreira|[acesso](https://github.com/ferreirarita)|[acesso](https://www.linkedin.com/in/rita-ferreira-894ba1200)|Scrum Master
- <img width="25px" height="25px" style="border-radius:50%" src="https://i.imgur.com/mnY9Ye9.jpeg">|Sarah Silva|[acesso](https://github.com/Sarah6197)|[acesso](https://www.linkedin.com/in/sarah-fernandes-494000196/)|Product Owner
- <img width="25px" height="25px" style="border-radius:50%" src="https://i.imgur.com/IVGZ0fB.png">|Jonathan Assis|[acesso](https://github.com/Jonathan-Assis)|[acesso](https://www.linkedin.com/in/jonathan-gabriel-/)|Dev Team
- <img width="25px" height="25px" style="border-radius:50%" src="https://i.imgur.com/OoDTvzZ.png">|Matheus Costa|[acesso](https://www.github.com/MatheusCoxxxta)|[acesso](https://www.linkedin.com/in/matheus-costa-500695187)|Dev Team
- <img width="25px" height="25px" style="border-radius:50%" src="https://i.imgur.com/3iXu5DL.jpg">|Luiz Gustavo|[acesso](https://github.com/UkitakeKazui)|[acesso](https://www.linkedin.com/in/gustavo-vieira-699729207/)|Dev Team
- <img width="25px" height="25px" style="border-radius:50%" src="https://i.imgur.com/zWdgoeZ.jpeg">|Luiz Camargo|[acesso](https://github.com/Felipe221070)|[acesso](https://www.linkedin.com/in/felipe-programador)|Dev Team
- <img width="25px" height="25px" style="border-radius:50%" src="https://i.imgur.com/sWAKtzF.jpg">|André Silva|[acesso](https://github.com/AndreSilva358)|[acesso](https://www.linkedin.com/in/andr%C3%A9-silva-63a4621ba/)|Dev Team
- <img width="25px" height="25px" style="border-radius:50%" src="https://i.imgur.com/hUlRdDm.jpg">|João da Silva|[acesso](https://github.com/Joaoevr)|[acesso](https://www.linkedin.com/in/joão-vitor-silva-261a471b9/)|Dev Team
+ <img width="25px" height="25px" src="https://i.imgur.com/mnY9Ye9.jpeg">|Sarah Silva|[acesso](https://github.com/Sarah6197)|[acesso](https://www.linkedin.com/in/sarah-fernandes-494000196/)|Product Owner
+ <img width="25px" height="25px" src="https://i.imgur.com/IVGZ0fB.png">|Jonathan Assis|[acesso](https://github.com/Jonathan-Assis)|[acesso](https://www.linkedin.com/in/jonathan-gabriel-/)|Dev Team
+ <img width="25px" height="25px" src="https://i.imgur.com/OoDTvzZ.png">|Matheus Costa|[acesso](https://www.github.com/MatheusCoxxxta)|[acesso](https://www.linkedin.com/in/matheus-costa-500695187)|Dev Team
+ <img width="25px" height="25px" src="https://i.imgur.com/3iXu5DL.jpg">|Luiz Gustavo|[acesso](https://github.com/UkitakeKazui)|[acesso](https://www.linkedin.com/in/gustavo-vieira-699729207/)|Dev Team
+ <img width="25px" height="25px" src="https://i.imgur.com/zWdgoeZ.jpeg">|Luiz Camargo|[acesso](https://github.com/Felipe221070)|[acesso](https://www.linkedin.com/in/felipe-programador)|Dev Team
+ <img width="25px" height="25px" src="https://i.imgur.com/sWAKtzF.jpg">|André Silva|[acesso](https://github.com/AndreSilva358)|[acesso](https://www.linkedin.com/in/andr%C3%A9-silva-63a4621ba/)|Dev Team
+ <img width="25px" height="25px" src="https://i.imgur.com/hUlRdDm.jpg">|João da Silva|[acesso](https://github.com/Joaoevr)|[acesso](https://www.linkedin.com/in/joão-vitor-silva-261a471b9/)|Dev Team
