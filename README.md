@@ -44,10 +44,8 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/develop/Refer%C3%AAncias/Backlogtotal'>
    <li> PRODUCT BACKLOG</li></a> </h5>
     
-
  
-
-  ## Sprint 1
+   ## Sprint 1
   <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/Planejamento'>
    <li> PLANEJAMENTO DA ENTREVISTA</li></a> </h5>
@@ -109,7 +107,7 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
 # Sprint Backlog <a name = "ProductSprint"></a>
 
-<h align="center"> .</h>
+<h align="center">  Abaixo segue a demonstração de atividades que serão realizadas durante determinada Sprint. .</h>
 
  <br/>
 
