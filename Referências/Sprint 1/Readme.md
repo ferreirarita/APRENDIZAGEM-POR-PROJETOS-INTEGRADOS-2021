@@ -49,6 +49,9 @@
 
  O gráfico abaixo demonstra as estimativas de esforços feitos para a atividade do SprintBacklog.
  Onde fazemos um acompanhamento da produtividade da Equipe dia a dia.
+
+ <br/>
+
  Como analisar o gráfico Burndown, que consiste basicamente no seguinte:
 
  1.Marca se no eixo Y (Vertical) o somatório das estimativas de esforços das atividades da Sprint;
@@ -65,7 +68,7 @@
 
 4.Dia após dia, verifica – se no quadro Scrum as atividades que foram concluídas,
 
-  <br/>
+ <br/>
 
  e marca -se no gráfico Burndown a quantidade de esforço restante até o fim do Sprint;
  
