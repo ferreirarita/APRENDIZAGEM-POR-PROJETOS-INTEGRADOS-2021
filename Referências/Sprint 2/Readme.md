@@ -22,6 +22,38 @@
 <br />
 <br />
 
+## WIREFRAME DA APLICAÇÃO.
+
+<br />
+
+AUTENTICAÇÃO DA TELA
+ 
+<img src="https://i.imgur.com/5l0vq3b.jpg"   alt="drawing" width=600>
+
+<br />
+<br />
+TELA COLABORADORES
+
+<img src="https://i.imgur.com/HucqEQZ.jpeg"   alt="drawing" width=600>
+
+TELA PROJETOS
+
+
+<img src="https://i.imgur.com/4DGweX5.jpg"   alt="drawing" width=600>
+
+TELA TAREFAS 
+
+
+<img src="https://i.imgur.com/aD7fHtG.jpg"   alt="drawing" width=600>
+
+TELA KANBAM
+
+
+<img src="https://i.imgur.com/k3F5OxV.jpg"   alt="drawing" width=600>
+
+<br/>
+<br/>
+
 ## GRÁFICO BURNDOWN
 
 Acompanhamento da produtividade da Equipe Evolução.
