@@ -1,4 +1,14 @@
    # Sprint 1
+  <h3 align="center">  BACKLOG SPRINT 1 </h3>
+
+  Desmembramos as “historias” do Product Backlog em tarefas que representa uma unidade de trabalho a ser realizada.
+  Segue abaixo a lista de atividades desenvolvidas na Sprint 1.
+
+  <br/>
+ 
+   <h3 align = "center">  <img src="https://user-images.githubusercontent.com/73767256/115162578-ca92ba80-a07a-11eb-90b7-b3de08642881.jpeg"   alt="drawing" width =700 </h3>
+
+
 
    <br/>
   
@@ -20,41 +30,10 @@
 
   ## GRAFICO BURNDOWN EQUIPE EVOLUÇÃO 📉.
 
- O gráfico abaixo demonstra as estimativas de esforços feitos para a atividade do SprintBacklog.
+  Estimativas de esforços feitos para as atividade do SprintBacklog.
  
  <br/>
-
- Onde fazemos um acompanhamento da produtividade da Equipe dia a dia.
-
- <br/>
-
- Como analisar o gráfico Burndown, que consiste basicamente no seguinte:
-
- 1.Marca se no eixo Y (Vertical) o somatório das estimativas de esforços das atividades da Sprint;
-
- <br/>
-
-2.Marca -se no eixo X(Horizontal) o total o de dias de trabalho do Sprint;
-
- <br/>
-
- 3.Traça – se uma linha reta ligando estes dois pontos.
- Ela representa a meta diária de avanço.
- <br/>
-
-4.Dia após dia, verifica – se no quadro Scrum as atividades que foram concluídas,
-
- <br/>
-
- e marca -se no gráfico Burndown a quantidade de esforço restante até o fim do Sprint;
- 
- <br/>
-
- 5.A meta é chegar a zero no final do Sprint.  
-
- <br/>
-
- 
+  
    ![](https://i.imgur.com/w0K761e.png)
  
 
