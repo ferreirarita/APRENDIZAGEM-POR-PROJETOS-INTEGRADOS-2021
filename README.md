@@ -10,7 +10,7 @@
 - [Introdução](#Introdução)
 - [Cronograma do API](#CronogramadoAPI)
 - [Documentação do Sistema](#Documentacao)
-- [Product Sprint](#ProductSprint)
+- [Sprint Backlog](#SprintBacklog)
 - [Tecnologias](#Tecnologias)
 - [Integrantes da Equipe](#IntegrantesdaEquipe)
 
@@ -132,7 +132,7 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
 
   <br/>
 
-# Sprint Backlog 📃<a name = "ProductSprint"></a>
+# Sprint Backlog 📃<a name = "SprintBacklog "></a>
 
 <h align="center"> Abaixo segue a demonstração das atividades que serão realizadas durante cada Sprint. .</h>
 
