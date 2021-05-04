@@ -8,10 +8,10 @@
  <br/>
 
 - [Introdução](#Introdução)
-- [Documentação do Sistema](#Documentacao)
+- [Cronograma do API](#CronogramadoAPI)
 - [Product Sprint](#ProductSprint)
 - [Tecnologias](#Tecnologias)
-- [Cronograma do API](#CronogramadoAPI)
+- [Documentação do Sistema](#Documentacao)
 - [Integrantes da Equipe](#IntegrantesdaEquipe)
 
  <br/>
