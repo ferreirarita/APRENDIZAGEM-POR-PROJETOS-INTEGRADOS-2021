@@ -5,7 +5,7 @@
   Desmembramos as “historias” do Product Backlog em tarefas que representa uma unidade de trabalho a ser realizada.
   Segue abaixo a lista de atividades desenvolvidas na Sprint 1.
 
-   <a href='ttps://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/DocBacklogSprint1'>
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/DocBacklogSprint1'>
    
    Visualizar Código </a> 
 
