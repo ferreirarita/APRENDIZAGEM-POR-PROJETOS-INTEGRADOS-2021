@@ -108,10 +108,6 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
 
    <li>MODELO DE CASO DE USO</li> </a> </h5>
 
-   <h5 >
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/DocBacklogSprint2'>
-
-   <li>BACKLOG SPRINT 2</li> </a> </h5>
    <br/>
 
 ## Sprint 3
