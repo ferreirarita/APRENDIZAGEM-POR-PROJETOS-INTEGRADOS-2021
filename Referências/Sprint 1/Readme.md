@@ -6,21 +6,23 @@
   Segue abaixo a lista de atividades desenvolvidas na Sprint 1.
 
    <br/>
+
+   ![](https://user-images.githubusercontent.com/73767256/115162578-ca92ba80-a07a-11eb-90b7-b3de08642881.jpeg)
  
-   <h3 align = "center">  <img src="https://user-images.githubusercontent.com/73767256/115162578-ca92ba80-a07a-11eb-90b7-b3de08642881.jpeg"   alt="drawing" width =700 </h3>
-   <br/>
-   <br/>
+   
         
    DEMOSTRAÇÃO PROTÓTIPO FIGMA 
 
-   <img src="https://i.imgur.com/Sq6goG9.gif"   alt="drawing" width =700>
-   <br/>  
-   <br/> 
+   ![](https://i.imgur.com/Sq6goG9.gif)
+
+
+   
 
    DEMOSTRAÇÃO DAS FUNCIONALIDADES 
    
-   <img src="https://user-images.githubusercontent.com/73767256/112738788-f53e9700-8f44-11eb-88e2-5b706c95904f.gif"   alt="drawing" width =700>
+   ![](https://user-images.githubusercontent.com/73767256/112738788-f53e9700-8f44-11eb-88e2-5b706c95904f.gif)
 
+  
    <br/>
    <br/>
    
