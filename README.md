@@ -40,6 +40,40 @@ de Sistemas da Fatec - SJC, durante o primeiro semestre do ano de 2021.
 
 <br/>
 
+# Cronograma do API 📆 <a name = "CronogramadoAPI"></a>
+
+Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das sprints.
+
+<h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Kickoff'>
+   KICK OFF DO PROJETO </a> - 28/02/2021 a 06/03/2021 ✔</h5>
+
+   <h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%201'>
+   SPRINT 1 </a> - 08/03 a 28/03/2021 ✔</h5>
+
+   <h5 >
+   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%202'>
+   SPRINT 2 </a> - 29/03 a 18/04/2021 ✔</h5>
+
+   <h5 >
+
+ SPRINT 3 </a> - 26/04 a 16/05/2021 - Desenvolvimento</h5>
+
+   <h5 >
+
+ SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
+
+   <h5 >
+
+ APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
+
+   <h5 >
+
+ FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
+
+ <br/>
+
 # Documentação do Sistema 📂 <a name = "Documentacao"></a>
 
   <h5 >
@@ -130,40 +164,6 @@ Como ferramenta para desenvolvimento do nosso backend, foi escolhido o TypeScrip
 ## ReactJS:
 
 Como framework para Frontend, foi escolhido o ReactJS, por todo seu poder com o uso de estados globais, componentização  e pela documentação robusta. Utilizamos como base da aplicação o Material UI Dashboard, template disponibilizado pelo Google que usa os componentes do Material UI.
-
-<br/>
-
-# Cronograma do API 📆 <a name = "CronogramadoAPI"></a>
-
-Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das sprints.
-
-<h5 >
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Kickoff'>
-   KICK OFF DO PROJETO </a> - 28/02/2021 a 06/03/2021 ✔</h5>
-
-   <h5 >
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%201'>
-   SPRINT 1 </a> - 08/03 a 28/03/2021 ✔</h5>
-
-   <h5 >
-   <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/Sprint%202'>
-   SPRINT 2 </a> - 29/03 a 18/04/2021 ✔</h5>
-
-   <h5 >
-
-SPRINT 3 </a> - 26/04 a 16/05/2021 - Desenvolvimento</h5>
-
-   <h5 >
-
-SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
-
-   <h5 >
-
-APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
-
-   <h5 >
-
-FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 
 <br/>
 
