@@ -24,7 +24,7 @@ Visualizar Código - <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-P
 - Visualização das tarefas do usuário comum filtradas por projeto.
 - Visualização de todas as tarefas filtradas pela empresa - essa funcionalidade só será permitida para o usuário com cargo máximo.
 - Visualização de todos os funcionários cadastrados no sistema.
-- Visualização das tarefas filtradas por projeto e organizadas em um Kanbanboard.
+- Visualização das tarefas filtradas por projeto e organizadas em um   Kanbanboard.
 
 <br />
 
