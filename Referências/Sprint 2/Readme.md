@@ -1,20 +1,15 @@
 # Sprint 2
 
-
- BACKLOG SPRINT 2
+BACKLOG SPRINT 2
 
 Desmembramos as “historias” do Product Backlog em tarefas que representa uma unidade de trabalho a ser realizada.
 Segue abaixo a lista de atividades desenvolvidas na Sprint 2.
 
-<a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/DocBacklogSprint2'>
-   
- Visualizar Código </a> 
+Visualizar Código - <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Backend'>Backend</a> | <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Frontend'>Frontend</a>
 
-<br/> 
+<br/>
 
 ![](https://user-images.githubusercontent.com/73767256/115162456-f8c3ca80-a079-11eb-9fee-d498513d8f33.jpeg)
-
-
 
 <br />
 
@@ -43,7 +38,7 @@ Segue abaixo a lista de atividades desenvolvidas na Sprint 2.
 <br />
 
 AUTENTICAÇÃO DA TELA
- 
+
 <img src="https://i.imgur.com/5l0vq3b.jpg"   alt="drawing" width=600>
 
 <br />
@@ -54,16 +49,13 @@ TELA COLABORADORES
 
 TELA PROJETOS
 
-
 <img src="https://i.imgur.com/4DGweX5.jpg"   alt="drawing" width=600>
 
-TELA TAREFAS 
-
+TELA TAREFAS
 
 <img src="https://i.imgur.com/aD7fHtG.jpg"   alt="drawing" width=600>
 
 TELA KANBAM
-
 
 <img src="https://i.imgur.com/k3F5OxV.jpg"   alt="drawing" width=600>
 
