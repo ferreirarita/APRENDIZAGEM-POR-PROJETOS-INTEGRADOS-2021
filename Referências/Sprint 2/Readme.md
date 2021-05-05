@@ -37,23 +37,27 @@ Visualizar Código - <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-P
 
 <br />
 
-AUTENTICAÇÃO DA TELA
+AUTENTICAÇÃO DA APLICAÇÃO
 
 <img src="https://i.imgur.com/5l0vq3b.jpg"   alt="drawing" width=600>
 
 <br />
 <br />
-TELA COLABORADORES
-
-<img src="https://i.imgur.com/HucqEQZ.jpeg"   alt="drawing" width=600>
 
 TELA PROJETOS
 
 <img src="https://i.imgur.com/4DGweX5.jpg"   alt="drawing" width=600>
 
+
 TELA TAREFAS
 
 <img src="https://i.imgur.com/aD7fHtG.jpg"   alt="drawing" width=600>
+
+
+TELA COLABORADORES
+
+<img src="https://i.imgur.com/HucqEQZ.jpeg"   alt="drawing" width=600>
+
 
 TELA KANBAM
 
