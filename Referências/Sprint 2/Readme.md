@@ -46,12 +46,12 @@ AUTENTICAÇÃO DA APLICAÇÃO
 
 TELA PROJETOS
 
-<img src="https://i.imgur.com/4DGweX5.jpg"   alt="drawing" width=600>
-
-
-TELA TAREFAS
-
 <img src="https://i.imgur.com/aD7fHtG.jpg"   alt="drawing" width=600>
+
+
+TELA PROJETOS
+
+<img src="https://i.imgur.com/4DGweX5.jpg"   alt="drawing" width=600>
 
 
 TELA COLABORADORES
