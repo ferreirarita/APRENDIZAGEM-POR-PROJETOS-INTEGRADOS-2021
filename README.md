@@ -57,7 +57,7 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
 
    <h5 >
 
- SPRINT 3 </a> - 26/04 a 16/05/2021 - Desenvolvimento</h5>
+ SPRINT 3 </a> - 26/04 a 16/05/2021 - 🛠</h5>
 
    <h5 >
 
