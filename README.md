@@ -117,8 +117,6 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
 
    <li>DOCUMENTO DE VISÃO</li> </a> </h5>
 
-   <br/>
-
    <a href=''>
 
    <li>MODELO DE CASO DE USO</li> </a> </h5>
