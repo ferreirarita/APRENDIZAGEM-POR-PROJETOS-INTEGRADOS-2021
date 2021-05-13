@@ -115,9 +115,17 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
    <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/DocBacklogSprint3'>
 
-   <li>BACKLOG SPRINT 3</li> </a> </h5>
+   <li>DOCUMENTO DE VISÃO</li> </a> </h5>
 
    <br/>
+
+   <h5 >
+   <a href=''>
+
+   <li>MODELO DE CASO DE USO</li> </a> </h5>
+
+   <br/>
+
 
 ## Sprint 4
 
