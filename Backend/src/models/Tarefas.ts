@@ -3,6 +3,7 @@ import connection from "../database/connection";
 import { tarefa as TarefasType } from "../types/Tarefas";
 import Usuarios from "./Usuarios";
 import Projetos from "./Projetos";
+import { v4 as uuidv4 } from "uuid";
 
 Model.knex(connection);
 
@@ -15,6 +16,10 @@ class Tarefas extends Model {
 
   static get idColumn() {
     return "id";
+  }
+
+  $beforeInsert() {
+    if (!this.id) this.id = uuidv4();
   }
 
   static get jsonSchema() {
