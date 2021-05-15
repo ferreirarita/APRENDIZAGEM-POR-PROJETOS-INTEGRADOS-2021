@@ -22,3 +22,25 @@
 
    <h5 align = "center">
 
+
+## FRONTEND DA APLICAÇÃO
+
+
+
+<br />
+
+<img src=""   alt="drawing" width =700>
+
+<br />
+<br />
+
+## WIREFRAME DA APLICAÇÃO.
+
+<br />
+
+
+## GRÁFICO BURNDOWN
+
+Acompanhamento da produtividade da Equipe Evolução.
+
+<img src="https://i.imgur.com/qtsjsVU.png"   alt="drawing" width=800>
