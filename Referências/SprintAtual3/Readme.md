@@ -26,7 +26,6 @@ Visualizar Código - <a href='https://github.com/MatheusCoxxxta/API-Data-Load'>B
 ## DEMONSTRAÇÃO DA APLICAÇÃO
 
 <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021'>Visualizar</a>
-"" alt="drawing" width =700>
 
 <br />
 <br />
