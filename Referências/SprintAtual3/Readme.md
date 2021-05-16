@@ -27,6 +27,8 @@ Visualizar Código - <a href='https://github.com/MatheusCoxxxta/API-Data-Load'>B
 
 <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021'>Visualizar</a>
 
+<img src="https://raw.githubusercontent.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/main/Refer%C3%AAncias/Assets/dashw.png"   alt="drawing" width=800>
+
 <br />
 <br />
 
