@@ -8,7 +8,7 @@
 
    <br/>
   
-   ![](https://i.imgur.com/uMXPnNP.jpg)
+   ![](https://i.imgur.com/AceA3FS.png)
 
    <p align "center">
 
