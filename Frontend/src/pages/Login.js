@@ -83,6 +83,7 @@ const Login = () => {
                     }}
                   />
                   <TextField
+                    className="login-fields"
                     fullWidth
                     label="E-mail"
                     margin="normal"
@@ -93,6 +94,7 @@ const Login = () => {
                     variant="outlined"
                   />
                   <TextField
+                    className="login-fields"
                     fullWidth
                     label="Senha"
                     margin="normal"

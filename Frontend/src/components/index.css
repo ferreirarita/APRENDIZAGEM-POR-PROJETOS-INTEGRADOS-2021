@@ -34,3 +34,7 @@
 .css-1h67mkt-MuiButtonBase-root-MuiButton-root {
   border-radius: 10px !important;
 }
+
+.css-46bh2p-MuiCardContent-root:last-child {
+  padding-bottom: 0!important;
+}

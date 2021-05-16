@@ -1,8 +1,8 @@
+/* eslint-disable react/prop-types */
 import { useState } from 'react';
 import PropTypes from 'prop-types';
 import PerfectScrollbar from 'react-perfect-scrollbar';
 import {
-  Avatar,
   Box,
   Card,
   Table,
@@ -13,10 +13,10 @@ import {
   TableRow,
   Typography
 } from '@material-ui/core';
-import getInitials from 'src/utils/getInitials';
+import extractHours from 'src/utils/extractHours';
 
-const CustomerListResults = ({ customers, ...rest }) => {
-  const [limit, setLimit] = useState(10);
+const ProjectList = ({ projects, chooseProject, ...rest }) => {
+  const [limit, setLimit] = useState(5);
   const [page, setPage] = useState(0);
 
   const handleLimitChange = (event) => {
@@ -34,14 +34,17 @@ const CustomerListResults = ({ customers, ...rest }) => {
           <Table>
             <TableHead>
               <TableRow>
-                <TableCell>Nome</TableCell>
-                <TableCell>Email</TableCell>
-                <TableCell>Horas</TableCell>
+                <TableCell>Nome do Projeto</TableCell>
+                <TableCell>Horas trabalhadas</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
-              {customers.slice(0, limit).map((customer) => (
-                <TableRow hover key={customer.id}>
+              {projects.slice(0, limit).map((project) => (
+                <TableRow
+                  hover
+                  key={project.project.id}
+                  onClick={() => chooseProject(project.project.id)}
+                >
                   <TableCell>
                     <Box
                       sx={{
@@ -49,18 +52,12 @@ const CustomerListResults = ({ customers, ...rest }) => {
                         display: 'flex'
                       }}
                     >
-                      <Avatar src={customer.user.imagem} sx={{ mr: 2 }}>
-                        {getInitials(customer.user.nome)}
-                      </Avatar>
                       <Typography color="textPrimary" variant="body1">
-                        {`${customer.user.nome} ${customer.user.sobrenome}`}
+                        {project.project.projetoNome}
                       </Typography>
                     </Box>
                   </TableCell>
-                  <TableCell>{customer.user.email}</TableCell>
-                  <TableCell>
-                    {Object.entries(customer)[0][1].toFixed(2)}
-                  </TableCell>
+                  <TableCell>{extractHours(project)}</TableCell>
                 </TableRow>
               ))}
             </TableBody>
@@ -69,19 +66,19 @@ const CustomerListResults = ({ customers, ...rest }) => {
       </PerfectScrollbar>
       <TablePagination
         component="div"
-        count={customers.length}
+        count={projects.length}
         onPageChange={handlePageChange}
         onRowsPerPageChange={handleLimitChange}
         page={page}
         rowsPerPage={limit}
-        rowsPerPageOptions={[5, 10, 25]}
+        rowsPerPageOptions={[5, projects.length]}
       />
     </Card>
   );
 };
 
-CustomerListResults.propTypes = {
-  customers: PropTypes.array.isRequired
+ProjectList.propTypes = {
+  projects: PropTypes.array.isRequired
 };
 
-export default CustomerListResults;
+export default ProjectList;

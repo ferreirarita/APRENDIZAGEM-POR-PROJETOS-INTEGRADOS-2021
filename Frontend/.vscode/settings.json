@@ -10,11 +10,11 @@
   "workbench.editor.limit.value": 6, //The maximum number of open editors (10 by default).
   //======================================================================//
   // Configuraçao de formato e correcao do codigo (eslint) automatica (prettier)
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   "eslint.validate": ["javascript", "typescript"],
   // Enable per-language
   "[javascript]": {
-    "editor.formatOnSave": false,
+    "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[typescript]": {
@@ -45,7 +45,7 @@
   "git.enableSmartCommit": true,
   "git.autofetch": true,
   "git.confirmSync": false,
-  "window.zoomLevel": 0,
+  "window.zoomLevel": -1,
   "workbench.colorTheme": "Deep Ocean - Blue",
   "[vue]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"

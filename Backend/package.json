@@ -6,7 +6,10 @@
   "scripts": {
     "test": "NODE_ENV=test jest",
     "start": "ts-node-dev src/app.ts",
-    "knex:migrate": "knex migrate:latest --knexfile knexfile.ts  migrate:latest"
+    "knex:migrate": "knex migrate:latest --knexfile knexfile.ts  migrate:latest",
+    "build": "rm -rf build && mkdir build && tsc --outDir build && cp ../dbBackup/database.sqlite build/src/database && cp .env build/",
+    "start:prod": "pm2 start build/src/app.js",
+    "backup": "cd ../ && rm -rf dbBackup && mkdir dbBackup && cp server/build/src/database/database.sqlite dbBackup"
   },
   "keywords": [],
   "author": "",
@@ -33,6 +36,7 @@
     "@types/supertest": "^2.0.10",
     "@types/uuid": "^8.3.0",
     "jest": "^26.6.3",
+    "rimraf": "^3.0.2",
     "supertest": "^6.0.1",
     "ts-jest": "^26.4.4",
     "ts-node": "^9.1.1",

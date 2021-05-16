@@ -4,14 +4,8 @@ import { tarefa } from "../types/Tarefas";
 
 class TasksController {
   async create(request: Request, response: Response) {
-    const {
-      horas,
-      id_usuario,
-      dataInicio,
-      id_projeto,
-      concluido,
-      descricao,
-    } = request.body;
+    const { horas, id_usuario, dataInicio, id_projeto, concluido, descricao } =
+      request.body;
 
     const data: tarefa = {
       id: "",

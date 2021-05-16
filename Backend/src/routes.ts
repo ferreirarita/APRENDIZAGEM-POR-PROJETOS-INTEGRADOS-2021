@@ -26,12 +26,13 @@ routes.get("/", (request, response) => {
  */
 routes.get("/projects/:id", auth, projectsController.show);
 routes.get("/projects", auth, projectsController.list);
-routes.get("/exportData", auth, dataController.exportData);
+routes.get("/project/hours", auth, projectsController.listHoursByProject);
 
 /**
  * USER
  */
 routes.get("/users", auth, usersController.index);
+routes.get("/users/hours", auth, usersController.listHoursByUser);
 
 /**
  * AUTH

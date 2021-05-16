@@ -14,8 +14,9 @@ import {
   Typography
 } from '@material-ui/core';
 import getInitials from 'src/utils/getInitials';
+import extractHours from 'src/utils/extractHours';
 
-const CustomerListResults = ({ customers, ...rest }) => {
+const ColabsList = ({ customers, ...rest }) => {
   const [limit, setLimit] = useState(10);
   const [page, setPage] = useState(0);
 
@@ -58,9 +59,7 @@ const CustomerListResults = ({ customers, ...rest }) => {
                     </Box>
                   </TableCell>
                   <TableCell>{customer.user.email}</TableCell>
-                  <TableCell>
-                    {Object.entries(customer)[0][1].toFixed(2)}
-                  </TableCell>
+                  <TableCell>{extractHours(customer)}</TableCell>
                 </TableRow>
               ))}
             </TableBody>
@@ -80,8 +79,8 @@ const CustomerListResults = ({ customers, ...rest }) => {
   );
 };
 
-CustomerListResults.propTypes = {
+ColabsList.propTypes = {
   customers: PropTypes.array.isRequired
 };
 
-export default CustomerListResults;
+export default ColabsList;

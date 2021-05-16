@@ -1,3 +1,8 @@
+/* eslint-disable no-param-reassign */
+/* eslint-disable no-unused-expressions */
+/* eslint-disable function-paren-newline */
+/* eslint-disable implicit-arrow-linebreak */
+/* eslint-disable no-confusing-arrow */
 import React, { useEffect, useContext, useState } from 'react';
 import { Helmet } from 'react-helmet';
 import {
@@ -43,6 +48,20 @@ const ProductList = () => {
     setProject(response.data);
   };
 
+  const updateAll = async (id, status) => {
+    let updatedTasks = [];
+
+    project.tasks.tasks.forEach((proj) => {
+      proj.id === id ? (proj.status = status) : null;
+      updatedTasks = [...updatedTasks, proj];
+    });
+
+    const projectName = project.tasks.project;
+    const tasks = { project: projectName, tasks: updatedTasks };
+
+    setProject({ tasks });
+  };
+
   return (
     <>
       <Helmet>
@@ -56,11 +75,11 @@ const ProductList = () => {
           onChange={(value) => getProject(value.target.value)}
           id="select"
           value="null"
-          className="select-dash"
+          className="select-dash select-style"
           variant="outlined"
         >
           <MenuItem value={null} disabled>
-            {project ? project.project : 'Selecione um projeto'}
+            {project ? project.tasks.project : 'Selecione um projeto'}
           </MenuItem>
           {projects.map((myProject) => (
             <MenuItem value={myProject.id}>{myProject.projetoNome}</MenuItem>
@@ -98,23 +117,28 @@ const ProductList = () => {
                       gutterBottom
                       variant="h5"
                     >
-                      IN_PROGESS
+                      IN_PROGRESS
                     </Typography>
-                    {project.tasks.map((task) => (task.status === 'IN_PROGRESS' ? (
-                      <Grid
-                        item
-                        lg={12}
-                        sm={6}
-                        xl={3}
-                        xs={12}
-                        sx={{ margin: 1 }}
-                      >
-                        <TaskCard
-                          description={task.descricao}
-                          workedHours={task.horas}
-                        />
-                      </Grid>
-                    ) : null))}
+                    {project.tasks.tasks.map((task) =>
+                      task.status === 'IN_PROGRESS' ? (
+                        <Grid
+                          item
+                          lg={12}
+                          sm={6}
+                          xl={3}
+                          xs={12}
+                          sx={{ margin: 1 }}
+                        >
+                          <TaskCard
+                            description={task.descricao}
+                            workedHours={task.horas}
+                            currentStatus={task.status}
+                            taskId={task.id}
+                            updateAll={updateAll}
+                          />
+                        </Grid>
+                      ) : null
+                    )}
                   </Grid>
                 </Grid>
               </Box>
@@ -139,14 +163,19 @@ const ProductList = () => {
                     >
                       QA_TESTING
                     </Typography>
-                    {project.tasks.map((task) => (task.status === 'QA_TESTING' ? (
-                      <Grid item lg={12} sm={6} xl={3} xs={12}>
-                        <TaskCard
-                          description={task.descricao}
-                          workedHours={task.horas}
-                        />
-                      </Grid>
-                    ) : null))}
+                    {project.tasks.tasks.map((task) =>
+                      task.status === 'QA_TESTING' ? (
+                        <Grid item lg={12} sm={6} xl={3} xs={12}>
+                          <TaskCard
+                            description={task.descricao}
+                            workedHours={task.horas}
+                            currentStatus={task.status}
+                            taskId={task.id}
+                            updateAll={updateAll}
+                          />
+                        </Grid>
+                      ) : null
+                    )}
                   </Grid>
                 </Grid>
               </Box>
@@ -171,14 +200,19 @@ const ProductList = () => {
                     >
                       QA_DEPLOYING
                     </Typography>
-                    {project.tasks.map((task) => (task.status === 'QA_DEPLOYING' ? (
-                      <Grid item lg={12} sm={6} xl={3} xs={12}>
-                        <TaskCard
-                          description={task.descricao}
-                          workedHours={task.horas}
-                        />
-                      </Grid>
-                    ) : null))}
+                    {project.tasks.tasks.map((task) =>
+                      task.status === 'QA_DEPLOYING' ? (
+                        <Grid item lg={12} sm={6} xl={3} xs={12}>
+                          <TaskCard
+                            description={task.descricao}
+                            workedHours={task.horas}
+                            currentStatus={task.status}
+                            taskId={task.id}
+                            updateAll={updateAll}
+                          />
+                        </Grid>
+                      ) : null
+                    )}
                   </Grid>
                 </Grid>
               </Box>
@@ -203,14 +237,19 @@ const ProductList = () => {
                     >
                       RELEASE_TO_PROD
                     </Typography>
-                    {project.tasks.map((task) => (task.status === 'RELEASE_TO_PROD' ? (
-                      <Grid item lg={12} sm={6} xl={3} xs={12}>
-                        <TaskCard
-                          description={task.descricao}
-                          workedHours={task.horas}
-                        />
-                      </Grid>
-                    ) : null))}
+                    {project.tasks.tasks.map((task) =>
+                      task.status === 'RELEASE_TO_PROD' ? (
+                        <Grid item lg={12} sm={6} xl={3} xs={12}>
+                          <TaskCard
+                            description={task.descricao}
+                            workedHours={task.horas}
+                            currentStatus={task.status}
+                            taskId={task.id}
+                            updateAll={updateAll}
+                          />
+                        </Grid>
+                      ) : null
+                    )}
                   </Grid>
                 </Grid>
               </Box>
@@ -236,14 +275,19 @@ const ProductList = () => {
                     >
                       FOR_TEST
                     </Typography>
-                    {project.tasks.map((task) => (task.status === 'FOR_TEST' ? (
-                      <Grid item lg={12} sm={6} xl={3} xs={12}>
-                        <TaskCard
-                          description={task.descricao}
-                          workedHours={task.horas}
-                        />
-                      </Grid>
-                    ) : null))}
+                    {project.tasks.tasks.map((task) =>
+                      task.status === 'FOR_TEST' ? (
+                        <Grid item lg={12} sm={6} xl={3} xs={12}>
+                          <TaskCard
+                            description={task.descricao}
+                            workedHours={task.horas}
+                            currentStatus={task.status}
+                            taskId={task.id}
+                            updateAll={updateAll}
+                          />
+                        </Grid>
+                      ) : null
+                    )}
                   </Grid>
                 </Grid>
               </Box>
@@ -269,14 +313,19 @@ const ProductList = () => {
                     >
                       PROD_DEPLOYING
                     </Typography>
-                    {project.tasks.map((task) => (task.status === 'PROD_DEPLOYING' ? (
-                      <Grid item lg={12} sm={6} xl={3} xs={12}>
-                        <TaskCard
-                          description={task.descricao}
-                          workedHours={task.horas}
-                        />
-                      </Grid>
-                    ) : null))}
+                    {project.tasks.tasks.map((task) =>
+                      task.status === 'PROD_DEPLOYING' ? (
+                        <Grid item lg={12} sm={6} xl={3} xs={12}>
+                          <TaskCard
+                            description={task.descricao}
+                            workedHours={task.horas}
+                            currentStatus={task.status}
+                            taskId={task.id}
+                            updateAll={updateAll}
+                          />
+                        </Grid>
+                      ) : null
+                    )}
                   </Grid>
                 </Grid>
               </Box>
@@ -301,14 +350,19 @@ const ProductList = () => {
                     >
                       DONE
                     </Typography>
-                    {project.tasks.map((task) => (task.status === 'DONE' ? (
-                      <Grid item lg={12} sm={6} xl={3} xs={12}>
-                        <TaskCard
-                          description={task.descricao}
-                          workedHours={task.horas}
-                        />
-                      </Grid>
-                    ) : null))}
+                    {project.tasks.tasks.map((task) =>
+                      task.status === 'DONE' ? (
+                        <Grid item lg={12} sm={6} xl={3} xs={12}>
+                          <TaskCard
+                            description={task.descricao}
+                            workedHours={task.horas}
+                            currentStatus={task.status}
+                            taskId={task.id}
+                            updateAll={updateAll}
+                          />
+                        </Grid>
+                      ) : null
+                    )}
                   </Grid>
                 </Grid>
               </Box>
