@@ -9,20 +9,6 @@ Visualizar Código - <a href='https://github.com/MatheusCoxxxta/API-Data-Load'>B
 
 ![](https://i.imgur.com/AceA3FS.png)
 
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-   <p align "center">
-
-   <hr>
-
-   <p align ="center">
-
-   <h5 align = "center">
-
 ## DEMONSTRAÇÃO DA APLICAÇÃO
 
 <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021'>Visualizar</a>
