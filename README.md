@@ -16,7 +16,8 @@
 
  <br/>
 
- # Introdução <a name = "Introdução"></a>
+# Introdução <a name = "Introdução"></a>
+
  <br/>
 
 ## Visão Geral 🔎
@@ -57,19 +58,19 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
 
    <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/SprintAtual3'>
-  SPRINT 3 </a> - 26/04 a 16/05/2021 - 🛠</h5>
+  SPRINT 3 </a> - 26/04 a 16/05/2021 - ✔</h5>
 
    <h5 >
 
- SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
+SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
 
    <h5 >
 
- APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
+APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
 
    <h5 >
 
- FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
+FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 
  <br/>
 
@@ -96,7 +97,7 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
    <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Referências/Documentos/CasodeUso'>
    <li>MODELO DE CASO DE USO</li> </a> </h5>
- 
+
 ## Sprint 2
 
    <h5 >
@@ -122,10 +123,6 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
    <li>MODELO DE CASO DE USO</li> </a> </h5>
 
    <br/>
-
-
-  
-
 
 ## Sprint 4
 
@@ -160,7 +157,7 @@ Como ferramenta para desenvolvimento do nosso backend, foi escolhido o TypeScrip
 
 ## ReactJS:
 
-Como framework para Frontend, foi escolhido o ReactJS, por todo seu poder com o uso de estados globais, componentização  e pela documentação robusta. Utilizamos como base da aplicação o Material UI Dashboard, template disponibilizado pelo Google que usa os componentes do Material UI.
+Como framework para Frontend, foi escolhido o ReactJS, por todo seu poder com o uso de estados globais, componentização e pela documentação robusta. Utilizamos como base da aplicação o Material UI Dashboard, template disponibilizado pelo Google que usa os componentes do Material UI.
 
 <br/>
 
