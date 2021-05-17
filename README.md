@@ -58,7 +58,7 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
 
    <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/SprintAtual3'>
-  SPRINT 3 </a> - 26/04 a 16/05/2021 - ✔</h5>
+  SPRINT 3 </a> - 26/04 a 16/05/2021 ✔</h5>
 
    <h5 >
 
