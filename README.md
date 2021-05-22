@@ -62,7 +62,7 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
 
    <h5 >
 
-SPRINT 4 </a> - 17/05 a 05/06/2021</h5>
+SPRINT 4 </a> - 17/05 a 06/06/2021</h5>
 
    <h5 >
 
