@@ -58,11 +58,11 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
 
    <h5 >
    <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/SprintAtual3'>
-  SPRINT 3 </a> - 26/04 a 16/05/2021 - ✔</h5>
+  SPRINT 3 </a> - 26/04 a 16/05/2021  ✔</h5>
 
    <h5 >
  <a href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/DocBacklogSprint4'>
- SPRINT 4 </a> - 17/05 a 06/06/2021</h5>
+ SPRINT 4 </a> - 17/05 a 06/06/2021 ⌛</h5>
 
    <h5 >
 
