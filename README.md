@@ -177,3 +177,5 @@ Como framework para Frontend, foi escolhido o ReactJS, por todo seu poder com o 
 | <img width="25px" height="25px" src="https://i.imgur.com/zWdgoeZ.jpeg"> | Luiz Camargo   | [acesso](https://github.com/Felipe221070)       | [acesso](https://www.linkedin.com/in/felipe-programador)          | Dev Team      |
 | <img width="25px" height="25px" src="https://i.imgur.com/sWAKtzF.jpg">  | André Silva    | [acesso](https://github.com/AndreSilva358)      | [acesso](https://www.linkedin.com/in/andr%C3%A9-silva-63a4621ba/) | Dev Team      |
 | <img width="25px" height="25px" src="https://i.imgur.com/hUlRdDm.jpg">  | João da Silva  | [acesso](https://github.com/Joaoevr)            | [acesso](https://www.linkedin.com/in/joão-vitor-silva-261a471b9/) | Dev Team      |
+| <img width="25px" height="25px" src="https://i.imgur.com/LbplaX5.jpeg">  | Jean Santos  | [acesso](https://github.com/jeangomes3)       | [acesso](https://www.linkedin.com/in/jean-santos-562b74200/)     | Dev Team  |
+
