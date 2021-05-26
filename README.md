@@ -139,7 +139,7 @@ FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 
  <br/>
 
-![](https://i.imgur.com/ySfad3c.jpg)
+![](https://i.imgur.com/BGaxhqa.png)
 
  <br/>
 
