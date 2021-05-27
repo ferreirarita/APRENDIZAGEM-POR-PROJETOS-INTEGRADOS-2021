@@ -66,7 +66,7 @@ Foram acordadas entre as partes envolvidas as seguintes datas para a entrega das
 
    <h5 >
 
-APRESENTAÇÃO FINAL </a> - 17/06 a 11/06/2021</h5>
+APRESENTAÇÃO FINAL </a> - 07/06 a 11/06/2021</h5>
 
    <h5 >
 
