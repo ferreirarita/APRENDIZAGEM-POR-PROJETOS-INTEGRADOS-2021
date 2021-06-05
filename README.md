@@ -2,7 +2,7 @@
 
 # APRENDIZAGEM POR PROJETOS INTEGRADOS
 
-   <img src="https://i.imgur.com/dKuDMU6.png" alt="gsw-logo" width=150 >
+   <img src="https://user-images.githubusercontent.com/73767256/120907630-80b96000-c639-11eb-8a3f-6ea0c0800ad8.png" alt="gsw-logo" width=150 >
 </div>
 
  <br/>
