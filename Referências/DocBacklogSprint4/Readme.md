@@ -28,4 +28,4 @@ Visualizar Código - <a href=''>Backend</a> | <a href=''>Frontend</a>
 
 Acompanhamento da produtividade da Equipe Evolução.
 
-<img src=""   alt="drawing" width=800>
+<img src="https://user-images.githubusercontent.com/73767256/120883979-c97c0500-c5b6-11eb-8347-4da5ad187866.png"   alt="drawing" width=800>
