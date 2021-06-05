@@ -147,7 +147,7 @@ FEIRA DE SOLUÇÕES</a> - 14/06 a 18/06/2021</h5>
 
  <br/>
 
-Visualize o Sprint Card do produto:[link](https://i.imgur.com/9a1uDqH.png)
+Visualize o Sprint Card do produto:[link]()
 
  <br/>
 
