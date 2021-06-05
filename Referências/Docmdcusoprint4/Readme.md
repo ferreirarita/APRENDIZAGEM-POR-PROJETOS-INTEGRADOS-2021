@@ -55,9 +55,6 @@ DIAGRAMA DE CASO DE USO
   <img src="https://i.imgur.com/dbYDEsx.png" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/DCUOobQ.png" />
-</p>
 
 <p align="center">
   <img src="https://i.imgur.com/ysQ5dli.png" />
