@@ -1,5 +1,56 @@
 DIAGRAMA DE CASO DE USO
 
-</br>
+<p align="center">
+  <img src="https://i.imgur.com/s4PM6we.png" />
+</p>
 
-![](https://i.imgur.com/2UvajNb.png)
+<p align="center">
+  <img src="" />
+</p>
+
+
+<p align="center">
+  <img src="" />
+</p>
+
+<p align="center">
+  <img src="" />
+</p>
+
+
+
+
+
+
+<p align="center">
+  <img src="" />
+</p>
+
+<p align="center">
+  <img src="" />
+</p>
+
+<p align="center">
+  <img src="" />
+</p>
+
+<p align="center">
+  <img src="" />
+</p>
+
+<p align="center">
+  <img src="" />
+</p>
+
+<p align="center">
+  <img src="" />
+</p>
+
+<p align="center">
+  <img src="" />
+</p>
+
+<p align="center">
+  <img src="" />
+</p>
+
