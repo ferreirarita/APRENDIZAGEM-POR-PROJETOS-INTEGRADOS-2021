@@ -18,9 +18,9 @@ Visualizar Código - <a href=''>Backend</a> | <a href=''>Frontend</a>
 
 ## WIREFRAME DA APLICAÇÃO.
 
-<a target="_blank" href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/framesprint4'>Visualizar apresentação no Figma</a>
+<a target="_blank" href=''>Visualizar apresentação no Figma</a>
 <br />
-<a target="_blank" href=''>Visualizar vídeo</a>
+<a target="_blank" href='https://github.com/ferreirarita/APRENDIZAGEM-POR-PROJETOS-INTEGRADOS-2021/tree/main/Refer%C3%AAncias/framesprint4'>Visualizar vídeo</a>
 
 <br />
 
