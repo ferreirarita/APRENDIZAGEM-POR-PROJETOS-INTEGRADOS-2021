@@ -13,9 +13,8 @@ import {
   TableRow,
   Typography
 } from '@material-ui/core';
-import extractHours from 'src/utils/extractHours';
 
-const ProjectList = ({ projects, chooseProject, ...rest }) => {
+const UsersList = ({ users, chooseColab, ...rest }) => {
   const [limit, setLimit] = useState(5);
   const [page, setPage] = useState(0);
 
@@ -30,20 +29,19 @@ const ProjectList = ({ projects, chooseProject, ...rest }) => {
   return (
     <Card {...rest}>
       <PerfectScrollbar>
-        <Box sx={{ minWidth: 1050 }}>
+        <Box sx={{ minWidth: 500 }}>
           <Table>
             <TableHead>
               <TableRow>
-                <TableCell>Nome do Projeto</TableCell>
-                <TableCell>Horas trabalhadas</TableCell>
+                <TableCell>Nome do colaborador</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
-              {projects.slice(0, limit).map((project) => (
+              {users.slice(0, limit).map((user) => (
                 <TableRow
                   hover
-                  key={project.project.id}
-                  onClick={() => chooseProject(project.project.id)}
+                  key={user.user.id}
+                  onClick={() => chooseColab(user.user.id)}
                   style={{ cursor: 'pointer' }}
                 >
                   <TableCell>
@@ -54,11 +52,10 @@ const ProjectList = ({ projects, chooseProject, ...rest }) => {
                       }}
                     >
                       <Typography color="textPrimary" variant="body1">
-                        {project.project.projetoNome}
+                        {`${user.user.nome} ${user.user.sobrenome}`}
                       </Typography>
                     </Box>
                   </TableCell>
-                  <TableCell>{extractHours(project)}</TableCell>
                 </TableRow>
               ))}
             </TableBody>
@@ -67,19 +64,19 @@ const ProjectList = ({ projects, chooseProject, ...rest }) => {
       </PerfectScrollbar>
       <TablePagination
         component="div"
-        count={projects.length}
+        count={users.length}
         onPageChange={handlePageChange}
         onRowsPerPageChange={handleLimitChange}
         page={page}
         rowsPerPage={limit}
-        rowsPerPageOptions={[5, projects.length]}
+        rowsPerPageOptions={[5, users.length]}
       />
     </Card>
   );
 };
 
-ProjectList.propTypes = {
+UsersList.propTypes = {
   projects: PropTypes.array.isRequired
 };
 
-export default ProjectList;
+export default UsersList;

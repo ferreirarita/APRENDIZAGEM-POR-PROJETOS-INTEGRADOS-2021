@@ -48,20 +48,6 @@ const ProductList = () => {
     setProject(response.data);
   };
 
-  const updateAll = async (id, status) => {
-    let updatedTasks = [];
-
-    project.tasks.tasks.forEach((proj) => {
-      proj.id === id ? (proj.status = status) : null;
-      updatedTasks = [...updatedTasks, proj];
-    });
-
-    const projectName = project.tasks.project;
-    const tasks = { project: projectName, tasks: updatedTasks };
-
-    setProject({ tasks });
-  };
-
   return (
     <>
       <Helmet>
@@ -90,7 +76,6 @@ const ProductList = () => {
       <Box
         sx={{
           backgroundColor: '#000',
-          minHeight: '100%',
           py: 3,
           flexDirection: 'row',
           display: 'flex',
@@ -101,24 +86,35 @@ const ProductList = () => {
           <>
             <Container style={{ maxWidth: '25%' }}>
               <Box sx={{ pt: 3 }}>
-                <Grid lg={12} style={{ flexDirection: 'row', marginLeft: 0 }}>
+                <Grid
+                  lg={12}
+                  style={{
+                    flexDirection: 'row',
+                    marginLeft: 0,
+                    backgroundColor: '#F5F8FA',
+                    paddingTop: 15,
+                    borderRadius: 3
+                  }}
+                >
+                  <Typography
+                    color="textSecondary"
+                    style={{ textAlign: 'center' }}
+                    gutterBottom
+                    variant="h5"
+                  >
+                    IN_PROGRESS
+                  </Typography>
                   <Grid
                     item
                     lg={12}
                     style={{
                       backgroundColor: '#F5F8FA',
                       padding: 15,
-                      borderRadius: 3
+                      borderRadius: 3,
+                      height: '65vh',
+                      overflowY: 'scroll'
                     }}
                   >
-                    <Typography
-                      color="textSecondary"
-                      style={{ textAlign: 'center' }}
-                      gutterBottom
-                      variant="h5"
-                    >
-                      IN_PROGRESS
-                    </Typography>
                     {project.tasks.tasks.map((task) =>
                       task.status === 'IN_PROGRESS' ? (
                         <Grid
@@ -132,9 +128,6 @@ const ProductList = () => {
                           <TaskCard
                             description={task.descricao}
                             workedHours={task.horas}
-                            currentStatus={task.status}
-                            taskId={task.id}
-                            updateAll={updateAll}
                           />
                         </Grid>
                       ) : null
@@ -145,33 +138,41 @@ const ProductList = () => {
             </Container>
             <Container style={{ maxWidth: '30%' }}>
               <Box sx={{ pt: 3 }}>
-                <Grid lg={10} style={{ flexDirection: 'row', marginLeft: 0 }}>
+                <Grid
+                  lg={12}
+                  style={{
+                    flexDirection: 'row',
+                    marginLeft: 0,
+                    backgroundColor: '#F5F8FA',
+                    paddingTop: 15,
+                    borderRadius: 3
+                  }}
+                >
+                  <Typography
+                    color="textSecondary"
+                    style={{ textAlign: 'center' }}
+                    gutterBottom
+                    variant="h5"
+                  >
+                    QA_TESTING
+                  </Typography>
                   <Grid
                     item
                     lg={12}
                     style={{
                       backgroundColor: '#F5F8FA',
                       padding: 15,
-                      borderRadius: 3
+                      borderRadius: 3,
+                      height: '65vh',
+                      overflowY: 'scroll'
                     }}
                   >
-                    <Typography
-                      color="textSecondary"
-                      style={{ textAlign: 'center' }}
-                      gutterBottom
-                      variant="h5"
-                    >
-                      QA_TESTING
-                    </Typography>
                     {project.tasks.tasks.map((task) =>
                       task.status === 'QA_TESTING' ? (
                         <Grid item lg={12} sm={6} xl={3} xs={12}>
                           <TaskCard
                             description={task.descricao}
                             workedHours={task.horas}
-                            currentStatus={task.status}
-                            taskId={task.id}
-                            updateAll={updateAll}
                           />
                         </Grid>
                       ) : null
@@ -182,33 +183,41 @@ const ProductList = () => {
             </Container>
             <Container style={{ maxWidth: '30%' }}>
               <Box sx={{ pt: 3 }}>
-                <Grid lg={10} style={{ flexDirection: 'row', marginLeft: 0 }}>
+                <Grid
+                  lg={12}
+                  style={{
+                    flexDirection: 'row',
+                    marginLeft: 0,
+                    backgroundColor: '#F5F8FA',
+                    paddingTop: 15,
+                    borderRadius: 3
+                  }}
+                >
+                  <Typography
+                    color="textSecondary"
+                    style={{ textAlign: 'center' }}
+                    gutterBottom
+                    variant="h5"
+                  >
+                    QA_DEPLOYING
+                  </Typography>
                   <Grid
                     item
                     lg={12}
                     style={{
                       backgroundColor: '#F5F8FA',
                       padding: 15,
-                      borderRadius: 3
+                      borderRadius: 3,
+                      height: '65vh',
+                      overflowY: 'scroll'
                     }}
                   >
-                    <Typography
-                      color="textSecondary"
-                      style={{ textAlign: 'center' }}
-                      gutterBottom
-                      variant="h5"
-                    >
-                      QA_DEPLOYING
-                    </Typography>
                     {project.tasks.tasks.map((task) =>
                       task.status === 'QA_DEPLOYING' ? (
                         <Grid item lg={12} sm={6} xl={3} xs={12}>
                           <TaskCard
                             description={task.descricao}
                             workedHours={task.horas}
-                            currentStatus={task.status}
-                            taskId={task.id}
-                            updateAll={updateAll}
                           />
                         </Grid>
                       ) : null
@@ -219,33 +228,41 @@ const ProductList = () => {
             </Container>
             <Container style={{ maxWidth: '30%' }}>
               <Box sx={{ pt: 3 }}>
-                <Grid lg={10} style={{ flexDirection: 'row', marginLeft: 0 }}>
+                <Grid
+                  lg={12}
+                  style={{
+                    flexDirection: 'row',
+                    marginLeft: 0,
+                    backgroundColor: '#F5F8FA',
+                    paddingTop: 15,
+                    borderRadius: 3
+                  }}
+                >
+                  <Typography
+                    color="textSecondary"
+                    style={{ textAlign: 'center' }}
+                    gutterBottom
+                    variant="h5"
+                  >
+                    RELEASE_TO_PROD
+                  </Typography>
                   <Grid
                     item
                     lg={12}
                     style={{
                       backgroundColor: '#F5F8FA',
                       padding: 15,
-                      borderRadius: 3
+                      borderRadius: 3,
+                      height: '65vh',
+                      overflowY: 'scroll'
                     }}
                   >
-                    <Typography
-                      color="textSecondary"
-                      style={{ textAlign: 'center' }}
-                      gutterBottom
-                      variant="h5"
-                    >
-                      RELEASE_TO_PROD
-                    </Typography>
                     {project.tasks.tasks.map((task) =>
                       task.status === 'RELEASE_TO_PROD' ? (
                         <Grid item lg={12} sm={6} xl={3} xs={12}>
                           <TaskCard
                             description={task.descricao}
                             workedHours={task.horas}
-                            currentStatus={task.status}
-                            taskId={task.id}
-                            updateAll={updateAll}
                           />
                         </Grid>
                       ) : null
@@ -257,33 +274,41 @@ const ProductList = () => {
 
             <Container style={{ maxWidth: '30%' }}>
               <Box sx={{ pt: 3 }}>
-                <Grid lg={10} style={{ flexDirection: 'row', marginLeft: 0 }}>
+                <Grid
+                  lg={12}
+                  style={{
+                    flexDirection: 'row',
+                    marginLeft: 0,
+                    backgroundColor: '#F5F8FA',
+                    paddingTop: 15,
+                    borderRadius: 3
+                  }}
+                >
+                  <Typography
+                    color="textSecondary"
+                    style={{ textAlign: 'center' }}
+                    gutterBottom
+                    variant="h5"
+                  >
+                    FOR_TEST
+                  </Typography>
                   <Grid
                     item
                     lg={12}
                     style={{
                       backgroundColor: '#F5F8FA',
                       padding: 15,
-                      borderRadius: 3
+                      borderRadius: 3,
+                      height: '65vh',
+                      overflowY: 'scroll'
                     }}
                   >
-                    <Typography
-                      color="textSecondary"
-                      style={{ textAlign: 'center' }}
-                      gutterBottom
-                      variant="h5"
-                    >
-                      FOR_TEST
-                    </Typography>
                     {project.tasks.tasks.map((task) =>
                       task.status === 'FOR_TEST' ? (
                         <Grid item lg={12} sm={6} xl={3} xs={12}>
                           <TaskCard
                             description={task.descricao}
                             workedHours={task.horas}
-                            currentStatus={task.status}
-                            taskId={task.id}
-                            updateAll={updateAll}
                           />
                         </Grid>
                       ) : null
@@ -295,33 +320,41 @@ const ProductList = () => {
 
             <Container style={{ maxWidth: '30%' }}>
               <Box sx={{ pt: 3 }}>
-                <Grid lg={10} style={{ flexDirection: 'row', marginLeft: 0 }}>
+                <Grid
+                  lg={12}
+                  style={{
+                    flexDirection: 'row',
+                    marginLeft: 0,
+                    backgroundColor: '#F5F8FA',
+                    paddingTop: 15,
+                    borderRadius: 3
+                  }}
+                >
+                  <Typography
+                    color="textSecondary"
+                    style={{ textAlign: 'center' }}
+                    gutterBottom
+                    variant="h5"
+                  >
+                    PROD_DEPLOYING
+                  </Typography>
                   <Grid
                     item
                     lg={12}
                     style={{
                       backgroundColor: '#F5F8FA',
                       padding: 15,
-                      borderRadius: 3
+                      borderRadius: 3,
+                      height: '65vh',
+                      overflowY: 'scroll'
                     }}
                   >
-                    <Typography
-                      color="textSecondary"
-                      style={{ textAlign: 'center' }}
-                      gutterBottom
-                      variant="h5"
-                    >
-                      PROD_DEPLOYING
-                    </Typography>
                     {project.tasks.tasks.map((task) =>
                       task.status === 'PROD_DEPLOYING' ? (
                         <Grid item lg={12} sm={6} xl={3} xs={12}>
                           <TaskCard
                             description={task.descricao}
                             workedHours={task.horas}
-                            currentStatus={task.status}
-                            taskId={task.id}
-                            updateAll={updateAll}
                           />
                         </Grid>
                       ) : null
@@ -332,33 +365,41 @@ const ProductList = () => {
             </Container>
             <Container style={{ maxWidth: '30%' }}>
               <Box sx={{ pt: 3 }}>
-                <Grid lg={10} style={{ flexDirection: 'row', marginLeft: 0 }}>
+                <Grid
+                  lg={12}
+                  style={{
+                    flexDirection: 'row',
+                    marginLeft: 0,
+                    backgroundColor: '#F5F8FA',
+                    paddingTop: 15,
+                    borderRadius: 3
+                  }}
+                >
+                  <Typography
+                    color="textSecondary"
+                    style={{ textAlign: 'center' }}
+                    gutterBottom
+                    variant="h5"
+                  >
+                    DONE
+                  </Typography>
                   <Grid
                     item
                     lg={12}
                     style={{
                       backgroundColor: '#F5F8FA',
                       padding: 15,
-                      borderRadius: 3
+                      borderRadius: 3,
+                      height: '65vh',
+                      overflowY: 'scroll'
                     }}
                   >
-                    <Typography
-                      color="textSecondary"
-                      style={{ textAlign: 'center' }}
-                      gutterBottom
-                      variant="h5"
-                    >
-                      DONE
-                    </Typography>
                     {project.tasks.tasks.map((task) =>
                       task.status === 'DONE' ? (
                         <Grid item lg={12} sm={6} xl={3} xs={12}>
                           <TaskCard
                             description={task.descricao}
                             workedHours={task.horas}
-                            currentStatus={task.status}
-                            taskId={task.id}
-                            updateAll={updateAll}
                           />
                         </Grid>
                       ) : null

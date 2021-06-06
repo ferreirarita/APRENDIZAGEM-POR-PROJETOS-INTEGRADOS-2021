@@ -19,6 +19,10 @@ class UsersController {
 
   async listHoursByUser(request: Request, response: Response) {
     const users: usuario[] = await Usuarios.query().select("*");
+    users.forEach((user: any) => {
+      delete user.senha;
+    });
+
     const filteredUsers = users.filter((user) => user.id_role !== roles.ID_CEO);
 
     let hours: any[] = [];

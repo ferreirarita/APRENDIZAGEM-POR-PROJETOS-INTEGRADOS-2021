@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-one-expression-per-line */
+/* eslint-disable react/prop-types */
 import { Doughnut } from 'react-chartjs-2';
 import {
   Box,
@@ -9,27 +11,58 @@ import {
   colors,
   useTheme
 } from '@material-ui/core';
+import { useEffect, useState } from 'react';
 
-const TrafficByDevice = (props) => {
+const TrafficByDevice = ({ props, status }) => {
+  console.log(status[0].percentage);
   const theme = useTheme();
 
-  const data = {
-    datasets: [
-      {
-        data: [70, 0, 30, 0],
-        backgroundColor: [
-          colors.indigo[500],
-          colors.red[600],
-          colors.orange[600],
-          colors.green[500]
+  const [data, setData] = useState();
+
+  useEffect(() => {
+    const defineData = () => {
+      const dataObject = {
+        datasets: [
+          {
+            data: [
+              status[0].percentage,
+              status[1].percentage,
+              status[2].percentage,
+              status[3].percentage,
+              status[4].percentage,
+              status[5].percentage,
+              status[6].percentage
+            ],
+            backgroundColor: [
+              colors.indigo[500],
+              colors.red[600],
+              colors.purple[600],
+              colors.cyan[600],
+              colors.amber[600],
+              colors.lightGreen[600],
+              colors.green[600]
+            ],
+            borderWidth: 8,
+            borderColor: colors.common.white,
+            hoverBorderColor: colors.common.white
+          }
         ],
-        borderWidth: 8,
-        borderColor: colors.common.white,
-        hoverBorderColor: colors.common.white
-      }
-    ],
-    labels: ['IN_PROGESS', 'FOR_TEST', 'PROD_DEPLOYING', 'DONE']
-  };
+        labels: [
+          'IN_PROGRESS',
+          'QA_TESTING',
+          'QA_DEPLOYING',
+          'RELEASE_TO_PROD',
+          'FOR_TEST',
+          'PROD_DEPLOYING',
+          'DONE'
+        ]
+      };
+
+      setData(dataObject);
+    };
+
+    if (status.length > 0) defineData();
+  }, [status]);
 
   const options = {
     animation: false,
@@ -52,30 +85,6 @@ const TrafficByDevice = (props) => {
       titleFontColor: theme.palette.text.primary
     }
   };
-
-  const status = [
-    {
-      title: 'IN_PROGRESS',
-      value: 70,
-      color: colors.indigo[500]
-    },
-    {
-      title: 'FOR_TEST',
-      value: 0,
-      color: colors.red[600]
-    },
-    {
-      title: 'PROD_DEPLOYING',
-      value: 15,
-      color: colors.orange[600]
-    },
-    {
-      title: 'DONE',
-      value: 0,
-      color: colors.green[600]
-    }
-  ];
-
   return (
     <Card {...props}>
       <CardHeader title="Porcentagem Geral" />
@@ -87,10 +96,7 @@ const TrafficByDevice = (props) => {
             position: 'relative'
           }}
         >
-          <Doughnut
-            data={data}
-            options={options}
-          />
+          <Doughnut data={data} options={options} />
         </Box>
         <Box
           sx={{
@@ -99,13 +105,9 @@ const TrafficByDevice = (props) => {
             pt: 2
           }}
         >
-          {status.map(({
-            color,
-            title,
-            value
-          }) => (
+          {status.slice(0, 3).map(({ stat, percentage }) => (
             <Box
-              key={title}
+              key={stat}
               sx={{
                 p: 1,
                 textAlign: 'center'
@@ -114,15 +116,40 @@ const TrafficByDevice = (props) => {
               <Typography
                 color="textPrimary"
                 variant="body1"
+                style={{ fontSize: 12 }}
               >
-                {title}
+                {stat}
               </Typography>
+              <Typography style={{ fontSize: 20 }} variant="h2">
+                {percentage}%
+              </Typography>
+            </Box>
+          ))}
+        </Box>
+        <Box
+          sx={{
+            display: 'flex',
+            justifyContent: 'center',
+            pt: 2
+          }}
+        >
+          {status.slice(3, 7).map(({ stat, percentage }) => (
+            <Box
+              key={stat}
+              sx={{
+                p: 1,
+                textAlign: 'center'
+              }}
+            >
               <Typography
-                style={{ color }}
-                variant="h2"
+                color="textPrimary"
+                variant="body1"
+                style={{ fontSize: 12 }}
               >
-                {value}
-                %
+                {stat}
+              </Typography>
+              <Typography style={{ fontSize: 20 }} variant="h2">
+                {percentage}%
               </Typography>
             </Box>
           ))}

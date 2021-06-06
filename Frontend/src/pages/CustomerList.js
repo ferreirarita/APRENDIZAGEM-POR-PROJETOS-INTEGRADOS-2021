@@ -9,6 +9,7 @@ import sortWorkedHours from 'src/utils/sortWorkedHours';
 
 const CustomerList = () => {
   const [users, setUsers] = useState([]);
+  const [filteredUsersArray, setFilteredUsersArray] = useState([]);
   const { token } = useContext(AuthContext);
 
   useEffect(() => {
@@ -28,6 +29,17 @@ const CustomerList = () => {
     getUsers();
   }, [token]);
 
+  const searchUser = (value) => {
+    let filterUsers = [];
+    users.forEach((user) => {
+      if (user.user.nome.includes(value)) {
+        filterUsers = [...filterUsers, user];
+      }
+    });
+
+    setFilteredUsersArray(filterUsers);
+  };
+
   return (
     <>
       {users.length > 0 ? (
@@ -43,9 +55,13 @@ const CustomerList = () => {
             }}
           >
             <Container maxWidth={false}>
-              <CustomerListToolbar />
+              <CustomerListToolbar search={searchUser} />
               <Box sx={{ pt: 3 }}>
-                <ColabsList customers={users} />
+                {filteredUsersArray.length > 0 ? (
+                  <ColabsList customers={filteredUsersArray} />
+                ) : (
+                  <ColabsList customers={users} />
+                )}
               </Box>
             </Container>
           </Box>

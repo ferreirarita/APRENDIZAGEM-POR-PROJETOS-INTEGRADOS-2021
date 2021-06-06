@@ -10,13 +10,26 @@ import './styles.css';
 import { api } from 'src/services/api';
 import AuthContext from 'src/contexts/auth';
 import ProjectList from 'src/components/Projects/ProjectList';
+import UsersList from 'src/components/Users/UsersList';
 import sortWorkedHours from 'src/utils/sortWorkedHours';
+import {
+  sortWorkedHoursDecreasing,
+  sortWorkedHoursIncreasing
+} from 'src/utils/sortByHours';
+import roles from 'src/constants/roles';
+import statusList from 'src/constants/StatusList';
+import { sortDown, sortUp } from 'src/utils/sortAlphabetically';
 
 const Dashboard = () => {
   const [project, setProject] = useState(null);
   const [projects, setProjects] = useState([]);
+  const [users, setUsers] = useState([]);
+  const [projectId, setProjectId] = useState(null);
+  const [percentageArray, setPercentageArray] = useState([]);
+  const [hoursSortType, setHoursSortType] = useState();
+  const [alphaSortType, setAlphaSortType] = useState();
 
-  const { token } = useContext(AuthContext);
+  const { token, user } = useContext(AuthContext);
 
   useEffect(() => {
     const getProjects = async () => {
@@ -43,9 +56,112 @@ const Dashboard = () => {
         projectId: id
       }
     });
+    setProjectId(id);
+    setProject(response.data);
+  };
+
+  const sortByHoursDecreasing = () => {
+    const tasksArray = project.tasks.tasks;
+
+    let sortedTasks;
+    if (hoursSortType === 'Increasing') {
+      sortedTasks = tasksArray.sort(sortWorkedHoursDecreasing);
+      setHoursSortType('Decreasing');
+    } else {
+      sortedTasks = tasksArray.sort(sortWorkedHoursIncreasing);
+      setHoursSortType('Increasing');
+    }
+
+    const data = {
+      stats: project.stats,
+      tasks: {
+        project: project.tasks.project,
+        tasks: sortedTasks
+      }
+    };
+
+    setProject(data);
+  };
+
+  const sortByAlphabetically = () => {
+    const tasksArray = project.tasks.tasks;
+    let sortedTasks;
+
+    if (alphaSortType === 'Increasing') {
+      sortedTasks = tasksArray.sort(sortUp);
+      setAlphaSortType('Decreasing');
+    } else {
+      sortedTasks = tasksArray.sort(sortDown);
+      setAlphaSortType('Increasing');
+    }
+
+    const data = {
+      stats: project.stats,
+      tasks: {
+        project: project.tasks.project,
+        tasks: sortedTasks
+      }
+    };
+
+    setProject(data);
+  };
+
+  useEffect(() => {
+    const getUsers = async () => {
+      const response = await api.get('/users/hours', {
+        headers: {
+          Authorization: `Bearer ${token}`
+        }
+      });
+
+      const usersArray = response.data;
+
+      const sortedUsers = usersArray.sort(sortWorkedHours);
+
+      setUsers(sortedUsers);
+    };
+    getUsers();
+  }, [token]);
+
+  const getByColab = async (id) => {
+    const response = await api.get('/listar', {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        projectId,
+        colab_id: id
+      }
+    });
 
     setProject(response.data);
   };
+
+  useEffect(() => {
+    const convertToPercentage = () => {
+      const statsToArray = Object.entries(project.stats);
+      const total = statsToArray.reduce((acc, obj) => acc + obj[1], 0);
+
+      let statsArray = [];
+
+      statusList.forEach((element) => {
+        statsToArray.forEach((object) => {
+          if (element === object[0]) {
+            const calc = Math.round((object[1] / total) * 100);
+
+            const statsPercentage = {
+              stat: element,
+              percentage: calc
+            };
+
+            statsArray = [...statsArray, statsPercentage];
+          }
+        });
+      });
+
+      setPercentageArray(statsArray);
+    };
+
+    if (project) convertToPercentage();
+  }, [project]);
 
   return (
     <>
@@ -65,9 +181,20 @@ const Dashboard = () => {
               Selecione o projeto:
               {project ? ` ${project.tasks.project}` : null}
             </InputLabel>
-            <Grid item lg={12} md={12} xl={12} xs={12}>
-              <ProjectList projects={projects} chooseProject={getProject} />
-            </Grid>
+            {user.id_role === roles.ID_GESTOR ? (
+              <Grid item lg={12} md={12} xl={12} xs={12}>
+                <ProjectList projects={projects} chooseProject={getProject} />
+              </Grid>
+            ) : (
+              <Grid container spacing={3}>
+                <Grid item lg={8} md={8} xl={8} xs={8}>
+                  <ProjectList projects={projects} chooseProject={getProject} />
+                </Grid>
+                <Grid item lg={4} md={4} xl={4} xs={4}>
+                  <UsersList users={users} chooseColab={getByColab} />
+                </Grid>
+              </Grid>
+            )}
           </Box>
           {!project ? null : (
             <Grid container spacing={3}>
@@ -108,11 +235,20 @@ const Dashboard = () => {
                 <Sales stats={project.stats} />
               </Grid>
               <Grid item lg={4} md={6} xl={3} xs={12}>
-                <TrafficByDevice sx={{ height: '100%' }} />
+                {percentageArray.length > 0 ? (
+                  <TrafficByDevice
+                    status={percentageArray}
+                    sx={{ height: '100%' }}
+                  />
+                ) : null}
               </Grid>
               {project ? (
                 <Grid item lg={12} md={12} xl={9} xs={12}>
-                  <TaskList project={project} />
+                  <TaskList
+                    sortDescription={sortByAlphabetically}
+                    project={project}
+                    sort={sortByHoursDecreasing}
+                  />
                 </Grid>
               ) : null}
             </Grid>

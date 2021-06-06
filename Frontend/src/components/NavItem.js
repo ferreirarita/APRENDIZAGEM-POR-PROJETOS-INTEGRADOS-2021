@@ -6,18 +6,18 @@ import {
 import PropTypes from 'prop-types';
 import { Button, ListItem } from '@material-ui/core';
 
-const NavItem = ({
-  href,
-  icon: Icon,
-  title,
-  ...rest
-}) => {
+const NavItem = ({ href, icon: Icon, title, ...rest }) => {
   const location = useLocation();
 
-  const active = href ? !!matchPath({
-    path: href,
-    end: false
-  }, location.pathname) : false;
+  const active = href
+    ? !!matchPath(
+        {
+          path: href,
+          end: false
+        },
+        location.pathname
+      )
+    : false;
 
   return (
     <ListItem
@@ -47,12 +47,8 @@ const NavItem = ({
         }}
         to={href}
       >
-        {Icon && (
-          <Icon size="20" />
-        )}
-        <span>
-          {title}
-        </span>
+        {Icon && <Icon size="20" />}
+        <span style={{ color: '#6b778c' }}>{title}</span>
       </Button>
     </ListItem>
   );

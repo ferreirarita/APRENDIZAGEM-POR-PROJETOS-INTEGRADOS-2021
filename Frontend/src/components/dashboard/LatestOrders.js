@@ -1,3 +1,5 @@
+/* eslint-disable operator-linebreak */
+/* eslint-disable indent */
 /* eslint-disable react/prop-types */
 /* eslint-disable no-nested-ternary */
 /* eslint-disable react/no-array-index-key */
@@ -15,9 +17,10 @@ import {
   TableHead,
   TableRow
 } from '@material-ui/core';
+import SortIcon from '@material-ui/icons/ImportExport';
 import colors from '../../constants/color';
 
-const TaskList = ({ project }) => (
+const TaskList = ({ project, sort, sortDescription }) => (
   <Card>
     <CardHeader title="Tarefas do Projeto" />
     <Divider />
@@ -26,8 +29,20 @@ const TaskList = ({ project }) => (
         <Table>
           <TableHead>
             <TableRow>
-              <TableCell>Descrição</TableCell>
-              <TableCell>Tempo decorrido</TableCell>
+              <TableCell>
+                Descrição
+                <SortIcon
+                  onClick={() => sortDescription()}
+                  style={{ fontSize: 17, cursor: 'pointer' }}
+                />
+              </TableCell>
+              <TableCell>
+                Tempo decorrido
+                <SortIcon
+                  onClick={() => sort()}
+                  style={{ fontSize: 17, cursor: 'pointer' }}
+                />
+              </TableCell>
               <TableCell>Status</TableCell>
             </TableRow>
           </TableHead>
@@ -40,21 +55,21 @@ const TaskList = ({ project }) => (
                   <Chip
                     style={{
                       color:
-                        task.status === 'QA_DEPLOYING'
-                          || task.status === 'QA_TESTING'
+                        task.status === 'QA_DEPLOYING' ||
+                        task.status === 'QA_TESTING'
                           ? '#000000'
                           : '#ffffff',
                       backgroundColor:
-                        task.status === 'IN_PROGRESS'
-                          || task.status === 'FOR_TEST'
+                        task.status === 'IN_PROGRESS' ||
+                        task.status === 'FOR_TEST'
                           ? colors.warning
-                          : task.status === 'PROD_DEPLOYING'
-                            || task.status === 'RELEASE_TO_PROD'
-                            ? colors.primary
-                            : task.status === 'QA_DEPLOYING'
-                              || task.status === 'QA_TESTING'
-                              ? colors.default
-                              : colors.success
+                          : task.status === 'PROD_DEPLOYING' ||
+                            task.status === 'RELEASE_TO_PROD'
+                          ? colors.primary
+                          : task.status === 'QA_DEPLOYING' ||
+                            task.status === 'QA_TESTING'
+                          ? colors.default
+                          : colors.success
                     }}
                     label={task.status}
                     size="small"

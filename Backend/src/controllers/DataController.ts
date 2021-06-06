@@ -121,12 +121,15 @@ class DataController {
     const userId = response.locals.tokenData.id;
     const projectId = request.headers.projectid || "";
     const user = await Usuarios.query().select("*").where("id", userId).first();
+    const { colab_id }: any = request.headers || "";
+
+    let tasks;
+    let stats;
 
     if (user.id_role === roles.ID_GESTOR) {
       if (userId && projectId) {
-        const tasks = await getData(projectId, userId);
-
-        const stats = await getStats(projectId, userId);
+        tasks = await getData(projectId, userId);
+        stats = await getStats(projectId, userId);
 
         return response.status(200).json({ stats, tasks });
       } else {
@@ -136,9 +139,13 @@ class DataController {
       }
     } else {
       if (userId && projectId) {
-        const tasks = await getData(projectId);
-
-        const stats = await getStats(projectId);
+        if (colab_id) {
+          tasks = await getData(projectId, colab_id);
+          stats = await getStats(projectId, colab_id);
+        } else {
+          tasks = await getData(projectId);
+          stats = await getStats(projectId);
+        }
 
         return response.status(200).json({ stats, tasks });
       } else {

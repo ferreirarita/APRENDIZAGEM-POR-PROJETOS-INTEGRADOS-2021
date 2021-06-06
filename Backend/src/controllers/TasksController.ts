@@ -1,35 +1,8 @@
 import { Request, Response } from "express";
 import Tarefas from "../models/Tarefas";
-import { tarefa } from "../types/Tarefas";
 
 class TasksController {
-  async create(request: Request, response: Response) {
-    const { horas, id_usuario, dataInicio, id_projeto, concluido, descricao } =
-      request.body;
-
-    const data: tarefa = {
-      id: "",
-      horas,
-      id_usuario,
-      dataInicio,
-      id_projeto,
-      concluido,
-      descricao,
-      status: "IN_PROGRESS",
-    };
-
-    try {
-      await Tarefas.query().insert(data);
-
-      return response
-        .status(201)
-        .send({ message: "Inserido com sucesso!", data });
-    } catch (error) {
-      return response
-        .status(error.statusCode)
-        .send({ message: "Ocorreu um erro", erro: error });
-    }
-  }
+  async create(request: Request, response: Response) {}
 
   async read(request: Request, response: Response) {
     const { id } = request.params;
